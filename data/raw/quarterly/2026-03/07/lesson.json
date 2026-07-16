@@ -1,0 +1,141 @@
+{
+  "lesson": {
+    "title": "A Portrait of Love",
+    "start_date": "08/08/2026",
+    "end_date": "14/08/2026",
+    "id": "07",
+    "index": "en-2026-03-07",
+    "path": "en/quarterlies/2026-03/lessons/07",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+  },
+  "days": [
+    {
+      "title": "A Portrait of Love",
+      "date": "08/08/2026",
+      "id": "01",
+      "index": "en-2026-03-07-01",
+      "path": "en/quarterlies/2026-03/lessons/07/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/01/read"
+    },
+    {
+      "title": "The Essentialness of Love",
+      "date": "09/08/2026",
+      "id": "02",
+      "index": "en-2026-03-07-02",
+      "path": "en/quarterlies/2026-03/lessons/07/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/02/read"
+    },
+    {
+      "title": "What Love Does",
+      "date": "10/08/2026",
+      "id": "03",
+      "index": "en-2026-03-07-03",
+      "path": "en/quarterlies/2026-03/lessons/07/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/03/read"
+    },
+    {
+      "title": "What Love Does Not Do",
+      "date": "11/08/2026",
+      "id": "04",
+      "index": "en-2026-03-07-04",
+      "path": "en/quarterlies/2026-03/lessons/07/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/04/read"
+    },
+    {
+      "title": "A Portrait of Jesus",
+      "date": "12/08/2026",
+      "id": "05",
+      "index": "en-2026-03-07-05",
+      "path": "en/quarterlies/2026-03/lessons/07/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/05/read"
+    },
+    {
+      "title": "Faith, Hope, and Love",
+      "date": "13/08/2026",
+      "id": "06",
+      "index": "en-2026-03-07-06",
+      "path": "en/quarterlies/2026-03/lessons/07/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "14/08/2026",
+      "id": "07",
+      "index": "en-2026-03-07-07",
+      "path": "en/quarterlies/2026-03/lessons/07/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "14/08/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-07-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/07/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "14/08/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-07-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/07/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "14/08/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-07-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/07/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/07/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/23c8d9fad34eb25339a730455ff00d0b500ef51477d94af2edd347cf67f69f90/23c8d9fad34eb25339a730455ff00d0b500ef51477d94af2edd347cf67f69f90.pdf",
+      "target": "en/2026-03/07",
+      "id": "23c8d9fad34eb25339a730455ff00d0b500ef51477d94af2edd347cf67f69f90",
+      "title": "A Portrait of Love",
+      "start_date": "08/08/2026",
+      "end_date": "14/08/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/0d6c2152b51ed09b857c9888ba02074afb7dae7a256ed91abeefdc027b659533/0d6c2152b51ed09b857c9888ba02074afb7dae7a256ed91abeefdc027b659533.pdf",
+      "target": "en/2026-03/07",
+      "title": "Hope Sabbath School Outline",
+      "id": "0d6c2152b51ed09b857c9888ba02074afb7dae7a256ed91abeefdc027b659533",
+      "start_date": "08/08/2026",
+      "end_date": "14/08/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/7096139b55015d20f9dda2bc7a9747200c1fe7feaf9fe9771dd3d26f280396b6/7096139b55015d20f9dda2bc7a9747200c1fe7feaf9fe9771dd3d26f280396b6.pdf",
+      "target": "en/2026-03/07",
+      "title": "Talking Points Outline",
+      "id": "7096139b55015d20f9dda2bc7a9747200c1fe7feaf9fe9771dd3d26f280396b6",
+      "start_date": "08/08/2026",
+      "end_date": "14/08/2026"
+    }
+  ]
+}

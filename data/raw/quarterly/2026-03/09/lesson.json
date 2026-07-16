@@ -1,0 +1,141 @@
+{
+  "lesson": {
+    "title": "Love-driven Ministry",
+    "start_date": "22/08/2026",
+    "end_date": "28/08/2026",
+    "id": "09",
+    "index": "en-2026-03-09",
+    "path": "en/quarterlies/2026-03/lessons/09",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+  },
+  "days": [
+    {
+      "title": "Love-driven Ministry",
+      "date": "22/08/2026",
+      "id": "01",
+      "index": "en-2026-03-09-01",
+      "path": "en/quarterlies/2026-03/lessons/09/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/01/read"
+    },
+    {
+      "title": "Thanksgiving",
+      "date": "23/08/2026",
+      "id": "02",
+      "index": "en-2026-03-09-02",
+      "path": "en/quarterlies/2026-03/lessons/09/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/02/read"
+    },
+    {
+      "title": "Simplicity and Sincerity",
+      "date": "24/08/2026",
+      "id": "03",
+      "index": "en-2026-03-09-03",
+      "path": "en/quarterlies/2026-03/lessons/09/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/03/read"
+    },
+    {
+      "title": "Changing Plans for Love",
+      "date": "25/08/2026",
+      "id": "04",
+      "index": "en-2026-03-09-04",
+      "path": "en/quarterlies/2026-03/lessons/09/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/04/read"
+    },
+    {
+      "title": "Forgiveness and Reaffirmation of Love",
+      "date": "26/08/2026",
+      "id": "05",
+      "index": "en-2026-03-09-05",
+      "path": "en/quarterlies/2026-03/lessons/09/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/05/read"
+    },
+    {
+      "title": "Triumph in Christ",
+      "date": "27/08/2026",
+      "id": "06",
+      "index": "en-2026-03-09-06",
+      "path": "en/quarterlies/2026-03/lessons/09/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "28/08/2026",
+      "id": "07",
+      "index": "en-2026-03-09-07",
+      "path": "en/quarterlies/2026-03/lessons/09/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "28/08/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-09-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/09/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "28/08/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-09-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/09/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "28/08/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-09-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/09/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/09/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/93e88854d958297e83492d0d247a3f86c354a0743d83003861b9ad8e2d134193/93e88854d958297e83492d0d247a3f86c354a0743d83003861b9ad8e2d134193.pdf",
+      "target": "en/2026-03/09",
+      "id": "93e88854d958297e83492d0d247a3f86c354a0743d83003861b9ad8e2d134193",
+      "title": "Love-driven Ministry",
+      "start_date": "22/08/2026",
+      "end_date": "28/08/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/e4a628e6f49e47049e686732f3dc3c964ca972935bb940605e52607be48def10/e4a628e6f49e47049e686732f3dc3c964ca972935bb940605e52607be48def10.pdf",
+      "target": "en/2026-03/09",
+      "title": "Hope Sabbath School Outline",
+      "id": "e4a628e6f49e47049e686732f3dc3c964ca972935bb940605e52607be48def10",
+      "start_date": "22/08/2026",
+      "end_date": "28/08/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/7fd14bedf8e49ae3c77ae6529ae73cc01668946e011afcf5e81329f3517dac59/7fd14bedf8e49ae3c77ae6529ae73cc01668946e011afcf5e81329f3517dac59.pdf",
+      "target": "en/2026-03/09",
+      "title": "Talking Points Outline",
+      "id": "7fd14bedf8e49ae3c77ae6529ae73cc01668946e011afcf5e81329f3517dac59",
+      "start_date": "22/08/2026",
+      "end_date": "28/08/2026"
+    }
+  ]
+}

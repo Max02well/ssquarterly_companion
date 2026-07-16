@@ -1,0 +1,286 @@
+{
+  "id": "05",
+  "date": "01/07/2026",
+  "index": "en-2026-03-01-05",
+  "title": "“Many in This City”",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "Isa4110": "<h2>Isaiah 41:10</h2> <sup>10</sup> 'Do not fear, for I am with you; Do not anxiously look about you, for I am your God. I will strengthen you, surely I will help you, Surely I will uphold you with My righteous right hand.'",
+        "Acts1810": "<h2>Acts 18:10</h2> <sup>10</sup> for I am with you, and no man will attack you in order to harm you, for I have many people in this city.\"",
+        "1Cor23": "<h2>1 Corinthians 2:3</h2> <sup>3</sup> I was with you in weakness and in fear and in much trembling,",
+        "Acts189-Acts1810": "<h2>Acts 18:9-10</h2> <sup>9</sup> And the Lord said to Paul in the night by a vision, \"Do not be afraid any longer, but go on speaking and do not be silent; <sup>10</sup> for I am with you, and no man will attack you in order to harm you, for I have many people in this city.\"",
+        "Acts188": "<h2>Acts 18:8</h2> <sup>8</sup> Crispus, the leader of the synagogue, believed in the Lord with all his household, and many of the Corinthians when they heard were believing and being baptized.",
+        "Isa5511": "<h2>Isaiah 55:11</h2> <sup>11</sup> So will My word be which goes forth from My mouth; It will not return to Me empty, Without accomplishing what I desire, And without succeeding in the matter for which I sent it.",
+        "Acts186": "<h2>Acts 18:6</h2> <sup>6</sup> But when they resisted and blasphemed, he shook out his garments and said to them, \"Your blood be on your own heads! I am clean. From now on I will go to the Gentiles.\"",
+        "Acts184-Acts188": "<h2>Acts 18:4-8</h2> <sup>4</sup> And he was reasoning in the synagogue every Sabbath and trying to persuade Jews and Greeks. <sup>5</sup> But when Silas and Timothy came down from Macedonia, Paul began devoting himself completely to the word, solemnly testifying to the Jews that Jesus was the Christ. <sup>6</sup> But when they resisted and blasphemed, he shook out his garments and said to them, \"Your blood be on your own heads! I am clean. From now on I will go to the Gentiles.\" <sup>7</sup> Then he left there and went to the house of a man named Titius Justus, a worshiper of God, whose house was next to the synagogue. <sup>8</sup> Crispus, the leader of the synagogue, believed in the Lord with all his household, and many of the Corinthians when they heard were believing and being baptized."
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "Isa4110": "<h2>Isaiah 41:10</h2> <sup>10</sup> Fear not, for I am with you; Be not dismayed, for I am your God. I will strengthen you, Yes, I will help you, I will uphold you with My righteous right hand.’",
+        "Acts1810": "<h2>Acts 18:10</h2> <sup>10</sup> for I am with you, and no one will attack you to hurt you; for I have many people in this city.”",
+        "1Cor23": "<h2>I Corinthians 2:3</h2> <sup>3</sup> I was with you in weakness, in fear, and in much trembling.",
+        "Acts189-Acts1810": "<h2>Acts 18:9-10</h2> <sup>9</sup> Now the Lord spoke to Paul in the night by a vision, “Do not be afraid, but speak, and do not keep silent; <sup>10</sup> for I am with you, and no one will attack you to hurt you; for I have many people in this city.”",
+        "Acts188": "<h2>Acts 18:8</h2> <sup>8</sup> Then Crispus, the ruler of the synagogue, believed on the Lord with all his household. And many of the Corinthians, hearing, believed and were baptized.",
+        "Isa5511": "<h2>Isaiah 55:11</h2> <sup>11</sup> So shall My word be that goes forth from My mouth; It shall not return to Me void, But it shall accomplish what I please, And it shall prosper in  the  thing for which I sent it.",
+        "Acts186": "<h2>Acts 18:6</h2> <sup>6</sup> But when they opposed him and blasphemed, he shook his garments and said to them, “Your blood be upon your own heads; I am clean. From now on I will go to the Gentiles.”",
+        "Acts184-Acts188": "<h2>Acts 18:4-8</h2> <sup>4</sup> And he reasoned in the synagogue every Sabbath, and persuaded both Jews and Greeks. <sup>5</sup> When Silas and Timothy had come from Macedonia, Paul was compelled by the Spirit, and testified to the Jews that Jesus is the Christ. <sup>6</sup> But when they opposed him and blasphemed, he shook his garments and said to them, “Your blood be upon your own heads; I am clean. From now on I will go to the Gentiles.” <sup>7</sup> And he departed from there and entered the house of a certain man named Justus, one who worshiped God, whose house was next door to the synagogue. <sup>8</sup> Then Crispus, the ruler of the synagogue, believed on the Lord with all his household. And many of the Corinthians, hearing, believed and were baptized."
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "Isa4110": "<h2>Isaiah 41:10</h2> <sup>10</sup> Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+        "Acts1810": "<h2>Acts 18:10</h2> <sup>10</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.",
+        "1Cor23": "<h2>1 Corinthians 2:3</h2> <sup>3</sup> And I was with you in weakness, and in fear, and in much trembling.",
+        "Acts189-Acts1810": "<h2>Acts 18:9-10</h2> <sup>9</sup> Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace: <sup>10</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.",
+        "Acts188": "<h2>Acts 18:8</h2> <sup>8</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.",
+        "Isa5511": "<h2>Isaiah 55:11</h2> <sup>11</sup> So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.",
+        "Acts186": "<h2>Acts 18:6</h2> <sup>6</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean; from henceforth I will go unto the Gentiles.",
+        "Acts184-Acts188": "<h2>Acts 18:4-8</h2> <sup>4</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks. <sup>5</sup> And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ. <sup>6</sup> And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean; from henceforth I will go unto the Gentiles. <sup>7</sup> And he departed thence, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue. <sup>8</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "Isa4110": "<h2>Isaiah 41:10</h2> <sup>10</sup> fear thou not, for I am with thee; be not dismayed, for I am thy God; I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+        "Acts1810": "<h2>Acts 18:10</h2> <sup>10</sup> for I am with thee, and no man shall set on thee to harm thee: for I have much people in this city.",
+        "1Cor23": "<h2>1 Corinthians 2:3</h2> <sup>3</sup> And I was with you in weakness, and in fear, and in much trembling.",
+        "Acts189-Acts1810": "<h2>Acts 18:9-10</h2> <sup>9</sup> And the Lord said unto Paul in the night by a vision, Be not afraid, but speak and hold not thy peace: <sup>10</sup> for I am with thee, and no man shall set on thee to harm thee: for I have much people in this city.",
+        "Acts188": "<h2>Acts 18:8</h2> <sup>8</sup> And Crispus, the ruler of the synagogue, believed in the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.",
+        "Isa5511": "<h2>Isaiah 55:11</h2> <sup>11</sup> so shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.",
+        "Acts186": "<h2>Acts 18:6</h2> <sup>6</sup> And when they opposed themselves and blasphemed, he shook out his raiment and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.",
+        "Acts184-Acts188": "<h2>Acts 18:4-8</h2> <sup>4</sup> And he reasoned in the synagogue every sabbath, and persuaded Jews and Greeks. <sup>5</sup> But when Silas and Timothy came down from Macedonia, Paul was constrained by the word, testifying to the Jews that Jesus was the Christ. <sup>6</sup> And when they opposed themselves and blasphemed, he shook out his raiment and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles. <sup>7</sup> And he departed thence, and went into the house of a certain man named Titus Justus, one that worshipped God, whose house joined hard to the synagogue. <sup>8</sup> And Crispus, the ruler of the synagogue, believed in the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
+      }
+    }
+  ],
+  "content": "<p><code>Read <a class=\"verse\" verse=\"Acts184-Acts188\">Acts 18:4–8</a>. What were the results of Paul’s preaching?</code></p>\n<p>The work of Paul among the Jews at Corinth was not as fruitful as he wanted it to be. He had to face some hostility and hatred. The Bible says that “they opposed him and blasphemed” (<a class=\"verse\" verse=\"Acts186\">Acts 18:6, NKJV</a>). When the object of the Greek verb <em>blasphēmeō</em> (“to blaspheme”) is a human being, it means “to revile” or “to defame.” In other words, they intended to stain Paul’s reputation and to prevent him from succeeding in his missionary endeavors.</p>\n<p>Fortunately, the work of Paul in the Corinthian synagogue was not in vain. After all, God was in charge of this mission. He promised, “[My word] shall not return to me empty” (<a class=\"verse\" verse=\"Isa5511\">Isa. 55:11, ESV</a>). Some Jews did not expect that Crispus, the synagogue’s ruler, and his entire household would accept Jesus as the Messiah and get baptized (<a class=\"verse\" verse=\"Acts188\">Acts 18:8</a>). In addition, “many of the Corinthians, hearing, believed and were baptized” (<a class=\"verse\" verse=\"Acts188\">Acts 18:8, NKJV</a>), very likely also because of the influence of Crispus.</p>\n<p><code>Read <a class=\"verse\" verse=\"Acts189-Acts1810\">Acts 18:9, 10</a>. What can we infer about Paul’s feelings in the face of his challenges in Corinth? How did God encourage His servant?</code></p>\n<p>Right after Paul left the synagogue, he had an experience that brought him encouragement. Christ Himself appeared to him by night in a vision, with words that recall <a class=\"verse\" verse=\"Isa4110\">Isaiah 41:10</a>: “Fear not, for I am with you” (NKJV). Indeed, Paul admits he was in Corinth “in weakness, in fear, and in much trembling” (<a class=\"verse\" verse=\"1Cor23\">1 Cor. 2:3, NKJV</a>). He had to depart from Berea to Athens because of staunch opposition. He seems to have thought he would have to leave Corinth for the same reason: great opposition. But that would not happen this time. Jesus said to him: “ ‘I have many people in this city’ ” (<a class=\"verse\" verse=\"Acts1810\">Acts 18:10, NKJV</a>). And Paul was His instrument to take the news of salvation to them.</p>\n<p><code>Read <a class=\"verse\" verse=\"Isa4110\">Isaiah 41:10</a>. What wonderful promises does God give you in this verse? What hope do they give you right now in your life?</code></p>\n<hr>\n<div style=\"display: none\" class=\"ss-donation-appeal\">\n<div class=\"ss-donation-appeal-title\">\n<p>Supplemental EGW Notes</p>\n<div class=\"ss-donation-appeal-icon\"></div>\n</div>\n<div class=\"ss-donation-appeal-text\">\n\n<p>The angels of God are ready and waiting to go with humble men who with their Bibles in their hands will go to those who have not had this light, and read to them a “Thus saith the Lord.”<br>Those who have the gift of song are needed. The melody of praise is the atmosphere of heaven. Often by the words of sacred songs, the springs of penitence and faith have been unsealed. Song is one of the most effective means of impressing spiritual truth upon the heart.<br>Let little companies of workers go out as the Lord’s missionaries, and do as Christ commissioned the first disciples to do. Let them go into the different parts of our cities, two and two, and give the Lord’s message of warning. Tell the people the story of Creation, and how at the close of His work the Lord rested upon and blessed the Sabbath day, setting it apart as a memorial of His work.<br>Church members young and old should be educated to go forth to proclaim this last message to the world. If they will go in humility, angels of God will go with them, teaching them to lift up the voice in prayer, how to raise the voice in song, and how to proclaim the gospel message for this time. We have not a moment to lose. . . .<br>Who will take up this work of teaching Bible truth to old and young? Who will carry the message, following Christ’s plan of labor? . . . Many there are in every city who feel the need of gospel shepherds. We need men who will read the truth, practice the truth, and explain the truth.<br>Brethren, Christ calls you. Will you heed His voice? Will you become His messengers? Will you seek the sheep that are lost? Will you teach the Word in all humility and earnestness to those who will hear?<br>Young men and women, take up the work to which God calls you. Tell the wondrous story of the cross. Christ will lead you, and teach you to use your abilities to good purpose. As you receive the quickening influence of the Holy Spirit, and you seek to teach others, your minds will be refreshed, and you will be enabled to present words that are new and strangely beautiful to your hearers. Pray, and sing, and speak the word. . . .<br>Spiritual freedom will come to those who consecrate themselves unreservedly, and the quickening grace of Christ will bring light and peace and joy. The saving influence of truth will sanctify the soul of the receiver.—The Upward Look, p. 91.</p>\n<p><small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small></p>\n</div>\n</div>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "01",
+  "lesson_title": "Paul’s Ministry in Corinth"
+}

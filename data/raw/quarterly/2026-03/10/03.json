@@ -1,0 +1,306 @@
+{
+  "id": "03",
+  "date": "31/08/2026",
+  "index": "en-2026-03-10-03",
+  "title": "Suffering and Glory",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "1Cor1552": "<h2>1 Corinthians 15:52</h2> <sup>52</sup> in a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised imperishable, and we will be changed.",
+        "2Cor51": "<h2>2 Corinthians 5:1</h2> <sup>1</sup> For we know that if the earthly tent which is our house is torn down, we have a building from God, a house not made with hands, eternal in the heavens.",
+        "2Cor51-2Cor510": "<h2>2 Corinthians 5:1-10</h2> <sup>1</sup> For we know that if the earthly tent which is our house is torn down, we have a building from God, a house not made with hands, eternal in the heavens. <sup>2</sup> For indeed in this house we groan, longing to be clothed with our dwelling from heaven, <sup>3</sup> inasmuch as we, having put it on, will not be found naked. <sup>4</sup> For indeed while we are in this tent, we groan, being burdened, because we do not want to be unclothed but to be clothed, so that what is mortal will be swallowed up by life. <sup>5</sup> Now He who prepared us for this very purpose is God, who gave to us the Spirit as a pledge. <sup>6</sup> Therefore, being always of good courage, and knowing that while we are at home in the body we are absent from the Lord- <sup>7</sup> for we walk by faith, not by sight- <sup>8</sup> we are of good courage, I say, and prefer rather to be absent from the body and to be at home with the Lord. <sup>9</sup> Therefore we also have as our ambition, whether at home or absent, to be pleasing to Him. <sup>10</sup> For we must all appear before the judgment seat of Christ, so that each one may be recompensed for his deeds in the body, according to what he has done, whether good or bad.",
+        "2Cor418,2Cor57": "<h2>2 Corinthians 4:18</h2> <sup>18</sup> while we look not at the things which are seen, but at the things which are not seen; for the things which are seen are temporal, but the things which are not seen are eternal.\n\n<h2>2 Corinthians 5:7</h2> <sup>7</sup> for we walk by faith, not by sight-",
+        "2Cor417": "<h2>2 Corinthians 4:17</h2> <sup>17</sup> For momentary, light affliction is producing for us an eternal weight of glory far beyond all comparison,",
+        "2Cor415": "<h2>2 Corinthians 4:15</h2> <sup>15</sup> For all things are for your sakes, so that the grace which is spreading to more and more people may cause the giving of thanks to abound to the glory of God.",
+        "2Cor47-2Cor418": "<h2>2 Corinthians 4:7-18</h2> <sup>7</sup> But we have this treasure in earthen vessels, so that the surpassing greatness of the power will be of God and not from ourselves; <sup>8</sup> we are afflicted in every way, but not crushed; perplexed, but not despairing; <sup>9</sup> persecuted, but not forsaken; struck down, but not destroyed; <sup>10</sup> always carrying about in the body the dying of Jesus, so that the life of Jesus also may be manifested in our body. <sup>11</sup> For we who live are constantly being delivered over to death for Jesus' sake, so that the life of Jesus also may be manifested in our mortal flesh. <sup>12</sup> So death works in us, but life in you. <sup>13</sup> But having the same spirit of faith, according to what is written, \"I believed, therefore I spoke,\" we also believe, therefore we also speak, <sup>14</sup> knowing that He who raised the Lord Jesus will raise us also with Jesus and will present us with you. <sup>15</sup> For all things are for your sakes, so that the grace which is spreading to more and more people may cause the giving of thanks to abound to the glory of God. <sup>16</sup> Therefore we do not lose heart, but though our outer man is decaying, yet our inner man is being renewed day by day. <sup>17</sup> For momentary, light affliction is producing for us an eternal weight of glory far beyond all comparison, <sup>18</sup> while we look not at the things which are seen, but at the things which are not seen; for the things which are seen are temporal, but the things which are not seen are eternal.",
+        "Rev2014,Rev214": "<h2>Revelation 20:14</h2> <sup>14</sup> Then death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.\n\n<h2>Revelation 21:4</h2> <sup>4</sup> and He will wipe away every tear from their eyes; and there will no longer be any death; there will no longer be any mourning, or crying, or pain; the first things have passed away.\"",
+        "2Cor410-2Cor412": "<h2>2 Corinthians 4:10-12</h2> <sup>10</sup> always carrying about in the body the dying of Jesus, so that the life of Jesus also may be manifested in our body. <sup>11</sup> For we who live are constantly being delivered over to death for Jesus' sake, so that the life of Jesus also may be manifested in our mortal flesh. <sup>12</sup> So death works in us, but life in you.",
+        "2Cor412": "<h2>2 Corinthians 4:12</h2> <sup>12</sup> So death works in us, but life in you.",
+        "2Cor410-2Cor411": "<h2>2 Corinthians 4:10-11</h2> <sup>10</sup> always carrying about in the body the dying of Jesus, so that the life of Jesus also may be manifested in our body. <sup>11</sup> For we who live are constantly being delivered over to death for Jesus' sake, so that the life of Jesus also may be manifested in our mortal flesh.",
+        "2Cor48-2Cor49": "<h2>2 Corinthians 4:8-9</h2> <sup>8</sup> we are afflicted in every way, but not crushed; perplexed, but not despairing; <sup>9</sup> persecuted, but not forsaken; struck down, but not destroyed;",
+        "2Cor47": "<h2>2 Corinthians 4:7</h2> <sup>7</sup> But we have this treasure in earthen vessels, so that the surpassing greatness of the power will be of God and not from ourselves;"
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "1Cor1552": "<h2>I Corinthians 15:52</h2> <sup>52</sup> in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised incorruptible, and we shall be changed.",
+        "2Cor51": "<h2>II Corinthians 5:1</h2> <sup>1</sup> For we know that if our earthly house, this tent, is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.",
+        "2Cor51-2Cor510": "<h2>II Corinthians 5:1-10</h2> <sup>1</sup> For we know that if our earthly house, this tent, is destroyed, we have a building from God, a house not made with hands, eternal in the heavens. <sup>2</sup> For in this we groan, earnestly desiring to be clothed with our habitation which is from heaven, <sup>3</sup> if indeed, having been clothed, we shall not be found naked. <sup>4</sup> For we who are in this tent groan, being burdened, not because we want to be unclothed, but further clothed, that mortality may be swallowed up by life. <sup>5</sup> Now He who has prepared us for this very thing is God, who also has given us the Spirit as a guarantee. <sup>6</sup> So we  are always confident, knowing that while we are at home in the body we are absent from the Lord. <sup>7</sup> For we walk by faith, not by sight. <sup>8</sup> We are confident, yes, well pleased rather to be absent from the body and to be present with the Lord. <sup>9</sup> Therefore we make it our aim, whether present or absent, to be well pleasing to Him. <sup>10</sup> For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad.",
+        "2Cor418,2Cor57": "<h2>II Corinthians 4:18</h2> <sup>18</sup> while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.\n\n<h2>II Corinthians 5:7</h2> <sup>7</sup> For we walk by faith, not by sight.",
+        "2Cor417": "<h2>II Corinthians 4:17</h2> <sup>17</sup> For our light affliction, which is but for a moment, is working for us a far more exceeding and eternal weight of glory,",
+        "2Cor415": "<h2>II Corinthians 4:15</h2> <sup>15</sup> For all things are for your sakes, that grace, having spread through the many, may cause thanksgiving to abound to the glory of God.",
+        "2Cor47-2Cor418": "<h2>II Corinthians 4:7-18</h2> <sup>7</sup> But we have this treasure in earthen vessels, that the excellence of the power may be of God and not of us. <sup>8</sup> We  are  hard-pressed on every side, yet not crushed; we  are perplexed, but not in despair; <sup>9</sup> persecuted, but not forsaken; struck down, but not destroyed— <sup>10</sup> always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body. <sup>11</sup> For we who live are always delivered to death for Jesus’ sake, that the life of Jesus also may be manifested in our mortal flesh. <sup>12</sup> So then death is working in us, but life in you. <sup>13</sup> And since we have the same spirit of faith, according to what is written, “I believed and therefore I spoke,” we also believe and therefore speak, <sup>14</sup> knowing that He who raised up the Lord Jesus will also raise us up with Jesus, and will present us with you. <sup>15</sup> For all things are for your sakes, that grace, having spread through the many, may cause thanksgiving to abound to the glory of God. <sup>16</sup> Therefore we do not lose heart. Even though our outward man is perishing, yet the inward man is being renewed day by day. <sup>17</sup> For our light affliction, which is but for a moment, is working for us a far more exceeding and eternal weight of glory, <sup>18</sup> while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.",
+        "Rev2014,Rev214": "<h2>Revelation 20:14</h2> <sup>14</sup> Then Death and Hades were cast into the lake of fire. This is the second death.\n\n<h2>Revelation 21:4</h2> <sup>4</sup> And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.”",
+        "2Cor410-2Cor412": "<h2>II Corinthians 4:10-12</h2> <sup>10</sup> always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body. <sup>11</sup> For we who live are always delivered to death for Jesus’ sake, that the life of Jesus also may be manifested in our mortal flesh. <sup>12</sup> So then death is working in us, but life in you.",
+        "2Cor412": "<h2>II Corinthians 4:12</h2> <sup>12</sup> So then death is working in us, but life in you.",
+        "2Cor410-2Cor411": "<h2>II Corinthians 4:10-11</h2> <sup>10</sup> always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body. <sup>11</sup> For we who live are always delivered to death for Jesus’ sake, that the life of Jesus also may be manifested in our mortal flesh.",
+        "2Cor48-2Cor49": "<h2>II Corinthians 4:8-9</h2> <sup>8</sup> We  are  hard-pressed on every side, yet not crushed; we  are perplexed, but not in despair; <sup>9</sup> persecuted, but not forsaken; struck down, but not destroyed—",
+        "2Cor47": "<h2>II Corinthians 4:7</h2> <sup>7</sup> But we have this treasure in earthen vessels, that the excellence of the power may be of God and not of us."
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "1Cor1552": "<h2>1 Corinthians 15:52</h2> <sup>52</sup> In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.",
+        "2Cor51": "<h2>2 Corinthians 5:1</h2> <sup>1</sup> For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.",
+        "2Cor51-2Cor510": "<h2>2 Corinthians 5:1-10</h2> <sup>1</sup> For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens. <sup>2</sup> For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven: <sup>3</sup> If so be that being clothed we shall not be found naked. <sup>4</sup> For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life. <sup>5</sup> Now he that hath wrought us for the selfsame thing is God, who also hath given unto us the earnest of the Spirit. <sup>6</sup> Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord: <sup>7</sup> (For we walk by faith, not by sight:) <sup>8</sup> We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord. <sup>9</sup> Wherefore we labour, that, whether present or absent, we may be accepted of him. <sup>10</sup> For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.",
+        "2Cor418,2Cor57": "<h2>2 Corinthians 4:18</h2> <sup>18</sup> While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.\n\n<h2>2 Corinthians 5:7</h2> <sup>7</sup> (For we walk by faith, not by sight:)",
+        "2Cor417": "<h2>2 Corinthians 4:17</h2> <sup>17</sup> For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;",
+        "2Cor415": "<h2>2 Corinthians 4:15</h2> <sup>15</sup> For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.",
+        "2Cor47-2Cor418": "<h2>2 Corinthians 4:7-18</h2> <sup>7</sup> But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us. <sup>8</sup> We are troubled on every side, yet not distressed; we are perplexed, but not in despair; <sup>9</sup> Persecuted, but not forsaken; cast down, but not destroyed; <sup>10</sup> Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body. <sup>11</sup> For we which live are always delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh. <sup>12</sup> So then death worketh in us, but life in you. <sup>13</sup> We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak; <sup>14</sup> Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you. <sup>15</sup> For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God. <sup>16</sup> For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day. <sup>17</sup> For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory; <sup>18</sup> While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+        "Rev2014,Rev214": "<h2>Revelation 20:14</h2> <sup>14</sup> And death and hell were cast into the lake of fire. This is the second death.\n\n<h2>Revelation 21:4</h2> <sup>4</sup> And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+        "2Cor410-2Cor412": "<h2>2 Corinthians 4:10-12</h2> <sup>10</sup> Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body. <sup>11</sup> For we which live are always delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh. <sup>12</sup> So then death worketh in us, but life in you.",
+        "2Cor412": "<h2>2 Corinthians 4:12</h2> <sup>12</sup> So then death worketh in us, but life in you.",
+        "2Cor410-2Cor411": "<h2>2 Corinthians 4:10-11</h2> <sup>10</sup> Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body. <sup>11</sup> For we which live are always delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.",
+        "2Cor48-2Cor49": "<h2>2 Corinthians 4:8-9</h2> <sup>8</sup> We are troubled on every side, yet not distressed; we are perplexed, but not in despair; <sup>9</sup> Persecuted, but not forsaken; cast down, but not destroyed;",
+        "2Cor47": "<h2>2 Corinthians 4:7</h2> <sup>7</sup> But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "1Cor1552": "<h2>1 Corinthians 15:52</h2> <sup>52</sup> in a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.",
+        "2Cor51": "<h2>2 Corinthians 5:1</h2> <sup>1</sup> For we know that if the earthly house of our tabernacle be dissolved, we have a building from God, a house not made with hands, eternal, in the heavens.",
+        "2Cor51-2Cor510": "<h2>2 Corinthians 5:1-10</h2> <sup>1</sup> For we know that if the earthly house of our tabernacle be dissolved, we have a building from God, a house not made with hands, eternal, in the heavens. <sup>2</sup> For verily in this we groan, longing to be clothed upon with our habitation which is from heaven: <sup>3</sup> if so be that being clothed we shall not be found naked. <sup>4</sup> For indeed we that are in this tabernacle do groan, being burdened; not for that we would be unclothed, but that we would be clothed upon, that what is mortal may be swallowed up of life. <sup>5</sup> Now he that wrought us for this very thing is God, who gave unto us the earnest of the Spirit. <sup>6</sup> Being therefore always of good courage, and knowing that, whilst we are at home in the body, we are absent from the Lord <sup>7</sup> (for we walk by faith, not by sight); <sup>8</sup> we are of good courage, I say, and are willing rather to be absent from the body, and to be at home with the Lord. <sup>9</sup> Wherefore also we make it our aim, whether at home or absent, to be well-pleasing unto him. <sup>10</sup> For we must all be made manifest before the judgment-seat of Christ; that each one may receive the things done in the body, according to what he hath done, whether it be good or bad.",
+        "2Cor418,2Cor57": "<h2>2 Corinthians 4:18</h2> <sup>18</sup> while we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.\n\n<h2>2 Corinthians 5:7</h2> <sup>7</sup> (for we walk by faith, not by sight);",
+        "2Cor417": "<h2>2 Corinthians 4:17</h2> <sup>17</sup> For our light affliction, which is for the moment, worketh for us more and more exceedingly an eternal weight of glory;",
+        "2Cor415": "<h2>2 Corinthians 4:15</h2> <sup>15</sup> For all things are for your sakes, that the grace, being multiplied through the many, may cause the thanksgiving to abound unto the glory of God.",
+        "2Cor47-2Cor418": "<h2>2 Corinthians 4:7-18</h2> <sup>7</sup> But we have this treasure in earthen vessels, that the exceeding greatness of the power may be of God, and not from ourselves; <sup>8</sup> we are pressed on every side, yet not straitened; perplexed, yet not unto despair; <sup>9</sup> pursued, yet not forsaken; smitten down, yet not destroyed; <sup>10</sup> always bearing about in the body the dying of Jesus, that the life also of Jesus may be manifested in our body. <sup>11</sup> For we who live are always delivered unto death for Jesus’ sake, that the life also of Jesus may be manifested in our mortal flesh. <sup>12</sup> So then death worketh in us, but life in you. <sup>13</sup> But having the same spirit of faith, according to that which is written, I believed, and therefore did I speak; we also believe, and therefore also we speak; <sup>14</sup> knowing that he that raised up the Lord Jesus shall raise up us also with Jesus, and shall present us with you. <sup>15</sup> For all things are for your sakes, that the grace, being multiplied through the many, may cause the thanksgiving to abound unto the glory of God. <sup>16</sup> Wherefore we faint not; but though our outward man is decaying, yet our inward man is renewed day by day. <sup>17</sup> For our light affliction, which is for the moment, worketh for us more and more exceedingly an eternal weight of glory; <sup>18</sup> while we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+        "Rev2014,Rev214": "<h2>Revelation 20:14</h2> <sup>14</sup> And death and Hades were cast into the lake of fire. This is the second death, even the lake of fire.\n\n<h2>Revelation 21:4</h2> <sup>4</sup> and he shall wipe away every tear from their eyes; and death shall be no more; neither shall there be mourning, nor crying, nor pain, any more: the first things are passed away.",
+        "2Cor410-2Cor412": "<h2>2 Corinthians 4:10-12</h2> <sup>10</sup> always bearing about in the body the dying of Jesus, that the life also of Jesus may be manifested in our body. <sup>11</sup> For we who live are always delivered unto death for Jesus’ sake, that the life also of Jesus may be manifested in our mortal flesh. <sup>12</sup> So then death worketh in us, but life in you.",
+        "2Cor412": "<h2>2 Corinthians 4:12</h2> <sup>12</sup> So then death worketh in us, but life in you.",
+        "2Cor410-2Cor411": "<h2>2 Corinthians 4:10-11</h2> <sup>10</sup> always bearing about in the body the dying of Jesus, that the life also of Jesus may be manifested in our body. <sup>11</sup> For we who live are always delivered unto death for Jesus’ sake, that the life also of Jesus may be manifested in our mortal flesh.",
+        "2Cor48-2Cor49": "<h2>2 Corinthians 4:8-9</h2> <sup>8</sup> we are pressed on every side, yet not straitened; perplexed, yet not unto despair; <sup>9</sup> pursued, yet not forsaken; smitten down, yet not destroyed;",
+        "2Cor47": "<h2>2 Corinthians 4:7</h2> <sup>7</sup> But we have this treasure in earthen vessels, that the exceeding greatness of the power may be of God, and not from ourselves;"
+      }
+    }
+  ],
+  "content": "<p><code>Read <a class=\"verse\" verse=\"2Cor47-2Cor418\">2 Corinthians 4:7–18</a>. Make a list of Paul’s sufferings. How did he endure his sufferings?</code></p>\n<p>John Huss, the great reformer of the old Bohemia, once said about Jesus, “He is Master of the world, and we are contemptible mortals—yet He suffered! Why, then, should we not suffer also, particularly when suffering is for us a purification?”—Ellen G. White, The Great Controversy, p. 105.</p>\n<p>The apostle Paul manifested centuries earlier the same willingness to suffer for Christ. He knew that he was nothing more than a fragile pot made of clay (<a class=\"verse\" verse=\"2Cor47\">2 Cor. 4:7</a>). He constantly felt hard-pressed, perplexed, persecuted, and struck down, and yet he was not crushed, in despair, forsaken, or destroyed (<a class=\"verse\" verse=\"2Cor48-2Cor49\">2 Cor. 4:8, 9</a>). He was willing to carry “in the body the death of Jesus, so that the life of Jesus” would be manifested in him (<a class=\"verse\" verse=\"2Cor410-2Cor411\">2 Cor. 4:10, 11, ESV</a>).</p>\n<p>By “death of Jesus,” Paul probably meant the sufferings that he mentioned in the previous verses. In turn, in an immediate sense, the phrase “life of Jesus” likely refers to the deliverances from death or the spiritual power for the present life. But, ultimately, this is a reference to the resurrection (<a class=\"verse\" verse=\"2Cor412\">2 Cor. 4:12</a>).</p>\n<p>Interestingly, the phrase “death and life” occurs three times in <a class=\"verse\" verse=\"2Cor410-2Cor412\">2 Corinthians 4:10–12</a>. This is a reminder that, in the present age, life is mingled with death. However, in the future glory, we will experience life in the absence of death (<a class=\"verse\" verse=\"Rev2014,Rev214\">Rev. 20:14, Rev. 21:4</a>).</p>\n<p>Most important, <a class=\"verse\" verse=\"2Cor47-2Cor418\">2 Corinthians 4:7–18</a> shows that the gospel is preached through fragile human beings so that the glory goes to God alone (<a class=\"verse\" verse=\"2Cor415\">2 Cor. 4:15</a>). Not infrequently, missionaries suffer in the course of their missionary work. However, our affliction here is light and momentary when compared to that eternal weight of glory waiting for us (<a class=\"verse\" verse=\"2Cor417\">2 Cor. 4:17</a>). The believer lives by faith, not by sight (<a class=\"verse\" verse=\"2Cor418,2Cor57\">2 Cor. 4:18, 2 Cor. 5:7</a>).</p>\n<p>This hope in the future life captured the mind of Paul so much that he keeps talking about it in the flow of the passage (<a class=\"verse\" verse=\"2Cor51-2Cor510\">2 Cor. 5:1–10</a>). He refers to his mortal body by the metaphor of an earthly house. Conversely, the “building from God” is a metaphor for the resurrected body (<a class=\"verse\" verse=\"2Cor51\">2 Cor. 5:1</a>), the great hope for believers of all ages.</p>\n<p><code>Why is it so important that, amid whatever we are going through now, we always keep the hope of the resurrection, our resurrection (<a class=\"verse\" verse=\"1Cor1552\">1 Cor. 15:52</a>), before us?</code></p>\n<hr>\n<div style=\"display: none\" class=\"ss-donation-appeal\">\n<div class=\"ss-donation-appeal-title\">\n<p>Supplemental EGW Notes</p>\n<div class=\"ss-donation-appeal-icon\"></div>\n</div>\n<div class=\"ss-donation-appeal-text\">\n\n<p>Praise the Lord, that we have a compassionate, tender High Priest that can be touched with the feelings of our infirmities. We do not expect rest here. No, no. The way to heaven is a cross-bearing way; the road is straight and narrow, but we will go forward with cheerfulness knowing that the King of glory once trod this way before us.<br>We will not complain of the roughness of the way, but will be meek followers of Jesus, treading in His footsteps. He was a man of sorrows and acquainted with grief. He for our sakes became poor that we through His poverty might be made rich. We will rejoice in tribulation and keep in mind the recompense of reward, the “far more exceeding and eternal weight of glory.”<br>We will not have a murmuring thought because we have trials. God’s dear children always had them, and every trial well endured here, will only make us rich in glory. I crave the suffering part. I would not go to heaven without suffering if I could, and see Jesus who suffered so much for us to purchase for us so rich an inheritance; and to see the martyrs who laid down their lives for the truth, and the sake of Jesus. No, no. Let me [be] perfected through sufferings. I long to be a partaker with Christ of His sufferings, for if I am, I know I shall be a partaker with Him of His glory. Jesus is our pattern. Let us study to have our lives as near like Christ’s as possible.<br>My soul cries out after the living God. My very being longs after Him. Oh, for to reflect His lovely image perfectly! Oh, for to be wholly consecrated to Him! Oh, how hard it is for dear self to die. We can rejoice in a whole Saviour; one who saves us from all sin. We can be shut in with God where we can daily say, “I live; yet not I, but Christ liveth in me” “to will and to do of his good pleasure.” Glory be to God. I know that my life is hid with Christ in God.<br>The curtain has been lifted. I have seen the rich reward laid up for the saints. I have had a taste of the joys of the world to come, and it has spoiled this world for me. My affections, my interests, hopes, my all is in heaven. I long to see the King in His beauty, Him whom my soul loveth. Heaven, sweet heaven. “I long to be there; and the thought that ‘tis near, makes me almost impatient for Christ to appear.” Praise the Lord for a good hope through Jesus Christ of immortality and eternal life.—Reflecting Christ, p. 350.</p>\n<p><small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small></p>\n</div>\n</div>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "10",
+  "lesson_title": "Authentic Christian Ministry"
+}

@@ -1,0 +1,141 @@
+{
+  "lesson": {
+    "title": "Authentic Christian Ministry",
+    "start_date": "29/08/2026",
+    "end_date": "04/09/2026",
+    "id": "10",
+    "index": "en-2026-03-10",
+    "path": "en/quarterlies/2026-03/lessons/10",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+  },
+  "days": [
+    {
+      "title": "Authentic Christian Ministry",
+      "date": "29/08/2026",
+      "id": "01",
+      "index": "en-2026-03-10-01",
+      "path": "en/quarterlies/2026-03/lessons/10/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/01/read"
+    },
+    {
+      "title": "Fruits of an Authentic Ministry",
+      "date": "30/08/2026",
+      "id": "02",
+      "index": "en-2026-03-10-02",
+      "path": "en/quarterlies/2026-03/lessons/10/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/02/read"
+    },
+    {
+      "title": "Suffering and Glory",
+      "date": "31/08/2026",
+      "id": "03",
+      "index": "en-2026-03-10-03",
+      "path": "en/quarterlies/2026-03/lessons/10/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/03/read"
+    },
+    {
+      "title": "Christ-focused Ministry of Reconciliation",
+      "date": "01/09/2026",
+      "id": "04",
+      "index": "en-2026-03-10-04",
+      "path": "en/quarterlies/2026-03/lessons/10/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/04/read"
+    },
+    {
+      "title": "Call to Holiness",
+      "date": "02/09/2026",
+      "id": "05",
+      "index": "en-2026-03-10-05",
+      "path": "en/quarterlies/2026-03/lessons/10/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/05/read"
+    },
+    {
+      "title": "Comfort and Joy",
+      "date": "03/09/2026",
+      "id": "06",
+      "index": "en-2026-03-10-06",
+      "path": "en/quarterlies/2026-03/lessons/10/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "04/09/2026",
+      "id": "07",
+      "index": "en-2026-03-10-07",
+      "path": "en/quarterlies/2026-03/lessons/10/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "04/09/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-10-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/10/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "04/09/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-10-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/10/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "04/09/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-10-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/10/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/10/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/d529cb35ceca147b7907154cf84cc61b578992ffd90e33e0297538c6c1abb321/d529cb35ceca147b7907154cf84cc61b578992ffd90e33e0297538c6c1abb321.pdf",
+      "target": "en/2026-03/10",
+      "id": "d529cb35ceca147b7907154cf84cc61b578992ffd90e33e0297538c6c1abb321",
+      "title": "Authentic Christian Ministry",
+      "start_date": "29/08/2026",
+      "end_date": "04/09/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/985cb3373c88ac883a32e858ea40c6a55912bb3e409f4403e7912046f0241b2f/985cb3373c88ac883a32e858ea40c6a55912bb3e409f4403e7912046f0241b2f.pdf",
+      "target": "en/2026-03/10",
+      "title": "Hope Sabbath School Outline",
+      "id": "985cb3373c88ac883a32e858ea40c6a55912bb3e409f4403e7912046f0241b2f",
+      "start_date": "29/08/2026",
+      "end_date": "04/09/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/2c6104bcdb288a0371b273d20104613034bef7d223ef60ffcc067552eb3131a7/2c6104bcdb288a0371b273d20104613034bef7d223ef60ffcc067552eb3131a7.pdf",
+      "target": "en/2026-03/10",
+      "title": "Talking Points Outline",
+      "id": "2c6104bcdb288a0371b273d20104613034bef7d223ef60ffcc067552eb3131a7",
+      "start_date": "29/08/2026",
+      "end_date": "04/09/2026"
+    }
+  ]
+}

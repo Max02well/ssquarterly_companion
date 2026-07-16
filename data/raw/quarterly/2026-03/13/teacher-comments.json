@@ -1,0 +1,326 @@
+{
+  "id": "teacher-comments",
+  "date": "25/09/2026",
+  "index": "en-2026-03-13-teacher-comments",
+  "title": "Teacher Comments",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "2Cor1312": "<h2>2 Corinthians 13:12</h2> <sup>12</sup> Greet one another with a holy kiss.",
+        "1Cor110-1Cor113": "<h2>1 Corinthians 1:10-13</h2> <sup>10</sup> Now I exhort you, brethren, by the name of our Lord Jesus Christ, that you all agree and that there be no divisions among you, but that you be made complete in the same mind and in the same judgment. <sup>11</sup> For I have been informed concerning you, my brethren, by Chloe's people, that there are quarrels among you. <sup>12</sup> Now I mean this, that each one of you is saying, \"I am of Paul,\" and \"I of Apollos,\" and \"I of Cephas,\" and \"I of Christ.\" <sup>13</sup> Has Christ been divided? Paul was not crucified for you, was he? Or were you baptized in the name of Paul?",
+        "Rom1218": "<h2>Romans 12:18</h2> <sup>18</sup> If possible, so far as it depends on you, be at peace with all men.",
+        "1Cor110": "<h2>1 Corinthians 1:10</h2> <sup>10</sup> Now I exhort you, brethren, by the name of our Lord Jesus Christ, that you all agree and that there be no divisions among you, but that you be made complete in the same mind and in the same judgment.",
+        "2Cor1311": "<h2>2 Corinthians 13:11</h2> <sup>11</sup> Finally, brethren, rejoice, be made complete, be comforted, be like-minded, live in peace; and the God of love and peace will be with you.",
+        "2Cor1311-2Cor1314": "<h2>2 Corinthians 13:11-14</h2> <sup>11</sup> Finally, brethren, rejoice, be made complete, be comforted, be like-minded, live in peace; and the God of love and peace will be with you. <sup>12</sup> Greet one another with a holy kiss. <sup>13</sup> All the saints greet you. <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all.",
+        "2Cor1314": "<h2>2 Corinthians 13:14</h2> <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all.",
+        "Gal522-Gal526": "<h2>Galatians 5:22-26</h2> <sup>22</sup> But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, <sup>23</sup> gentleness, self-control; against such things there is no law. <sup>24</sup> Now those who belong to Christ Jesus have crucified the flesh with its passions and desires. <sup>25</sup> If we live by the Spirit, let us also walk by the Spirit. <sup>26</sup> Let us not become boastful, challenging one another, envying one another.",
+        "Rom155-Rom156": "<h2>Romans 15:5-6</h2> <sup>5</sup> Now may the God who gives perseverance and encouragement grant you to be of the same mind with one another according to Christ Jesus, <sup>6</sup> so that with one accord you may with one voice glorify the God and Father of our Lord Jesus Christ.",
+        "Phil21-Phil22": "<h2>Philippians 2:1-2</h2> <sup>1</sup> Therefore if there is any encouragement in Christ, if there is any consolation of love, if there is any fellowship of the Spirit, if any affection and compassion, <sup>2</sup> make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose.",
+        "2Cor13": "<h2>2 Corinthians 13</h2> <sup>1</sup> This is the third time I am coming to you. Every fact is to be confirmed by the testimony of two or three witnesses. <sup>2</sup> I have previously said when present the second time, and though now absent I say in advance to those who have sinned in the past and to all the rest as well, that if I come again I will not spare anyone, <sup>3</sup> since you are seeking for proof of the Christ who speaks in me, and who is not weak toward you, but mighty in you. <sup>4</sup> For indeed He was crucified because of weakness, yet He lives because of the power of God. For we also are weak in Him, yet we will live with Him because of the power of God directed toward you. <sup>5</sup> Test yourselves to see if you are in the faith; examine yourselves! Or do you not recognize this about yourselves, that Jesus Christ is in you-unless indeed you fail the test? <sup>6</sup> But I trust that you will realize that we ourselves do not fail the test. <sup>7</sup> Now we pray to God that you do no wrong; not that we ourselves may appear approved, but that you may do what is right, even though we may appear unapproved. <sup>8</sup> For we can do nothing against the truth, but only for the truth. <sup>9</sup> For we rejoice when we ourselves are weak but you are strong; this we also pray for, that you be made complete. <sup>10</sup> For this reason I am writing these things while absent, so that when present I need not use severity, in accordance with the authority which the Lord gave me for building up and not for tearing down. <sup>11</sup> Finally, brethren, rejoice, be made complete, be comforted, be like-minded, live in peace; and the God of love and peace will be with you. <sup>12</sup> Greet one another with a holy kiss. <sup>13</sup> All the saints greet you. <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all.",
+        "1Thess312": "<h2>1 Thessalonians 3:12</h2> <sup>12</sup> and may the Lord cause you to increase and abound in love for one another, and for all people, just as we also do for you;",
+        "Eph623-Eph624": "<h2>Ephesians 6:23-24</h2> <sup>23</sup> Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ. <sup>24</sup> Grace be with all those who love our Lord Jesus Christ with incorruptible love.",
+        "Rom1530": "<h2>Romans 15:30</h2> <sup>30</sup> Now I urge you, brethren, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God for me,",
+        "Phil423": "<h2>Philippians 4:23</h2> <sup>23</sup> The grace of the Lord Jesus Christ be with your spirit.",
+        "Rom1620,Gal618": "<h2>Romans 16:20</h2> <sup>20</sup> The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.\n\n<h2>Galatians 6:18</h2> <sup>18</sup> The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.",
+        "2Cor89": "<h2>2 Corinthians 8:9</h2> <sup>9</sup> For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sake He became poor, so that you through His poverty might become rich.",
+        "1Cor1619-1Cor1624": "<h2>1 Corinthians 16:19-24</h2> <sup>19</sup> The churches of Asia greet you. Aquila and Prisca greet you heartily in the Lord, with the church that is in their house. <sup>20</sup> All the brethren greet you. Greet one another with a holy kiss. <sup>21</sup> The greeting is in my own hand-Paul. <sup>22</sup> If anyone does not love the Lord, he is to be accursed. Maranatha. <sup>23</sup> The grace of the Lord Jesus be with you. <sup>24</sup> My love be with you all in Christ Jesus. Amen."
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "2Cor1312": "<h2>II Corinthians 13:12</h2> <sup>12</sup> Greet one another with a holy kiss.",
+        "1Cor110-1Cor113": "<h2>I Corinthians 1:10-13</h2> <sup>10</sup> Now I plead with you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfectly joined together in the same mind and in the same judgment. <sup>11</sup> For it has been declared to me concerning you, my brethren, by those of Chloe’s household, that there are contentions among you. <sup>12</sup> Now I say this, that each of you says, “I am of Paul,” or “I am of Apollos,” or “I am of Cephas,” or “I am of Christ.” <sup>13</sup> Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?",
+        "Rom1218": "<h2>Romans 12:18</h2> <sup>18</sup> If it is possible, as much as depends on you, live peaceably with all men.",
+        "1Cor110": "<h2>I Corinthians 1:10</h2> <sup>10</sup> Now I plead with you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfectly joined together in the same mind and in the same judgment.",
+        "2Cor1311": "<h2>II Corinthians 13:11</h2> <sup>11</sup> Finally, brethren, farewell. Become complete. Be of good comfort, be of one mind, live in peace; and the God of love and peace will be with you.",
+        "2Cor1311-2Cor1314": "<h2>II Corinthians 13:11-14</h2> <sup>11</sup> Finally, brethren, farewell. Become complete. Be of good comfort, be of one mind, live in peace; and the God of love and peace will be with you. <sup>12</sup> Greet one another with a holy kiss. <sup>13</sup> All the saints greet you. <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.",
+        "2Cor1314": "<h2>II Corinthians 13:14</h2> <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.",
+        "Gal522-Gal526": "<h2>Galatians 5:22-26</h2> <sup>22</sup> But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, <sup>23</sup> gentleness, self-control. Against such there is no law. <sup>24</sup> And those who  are Christ’s have crucified the flesh with its passions and desires. <sup>25</sup> If we live in the Spirit, let us also walk in the Spirit. <sup>26</sup> Let us not become conceited, provoking one another, envying one another.",
+        "Rom155-Rom156": "<h2>Romans 15:5-6</h2> <sup>5</sup> Now may the God of patience and comfort grant you to be like-minded toward one another, according to Christ Jesus, <sup>6</sup> that you may with one mind and one mouth glorify the God and Father of our Lord Jesus Christ.",
+        "Phil21-Phil22": "<h2>Philippians 2:1-2</h2> <sup>1</sup> Therefore if there  is any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any affection and mercy, <sup>2</sup> fulfill my joy by being like-minded, having the same love, being of one accord, of one mind.",
+        "2Cor13": "<h2>II Corinthians 13</h2> <sup>1</sup> This will  be  the third time I am coming to you. “By the mouth of two or three witnesses every word shall be established.” <sup>2</sup> I have told you before, and foretell as if I were present the second time, and now being absent I write to those who have sinned before, and to all the rest, that if I come again I will not spare— <sup>3</sup> since you seek a proof of Christ speaking in me, who is not weak toward you, but mighty in you. <sup>4</sup> For though He was crucified in weakness, yet He lives by the power of God. For we also are weak in Him, but we shall live with Him by the power of God toward you. <sup>5</sup> Examine yourselves as  to whether you are in the faith. Test yourselves. Do you not know yourselves, that Jesus Christ is in you?—unless indeed you are disqualified. <sup>6</sup> But I trust that you will know that we are not disqualified. <sup>7</sup> Now I pray to God that you do no evil, not that we should appear approved, but that you should do what is honorable, though we may seem disqualified. <sup>8</sup> For we can do nothing against the truth, but for the truth. <sup>9</sup> For we are glad when we are weak and you are strong. And this also we pray, that you may be made complete. <sup>10</sup> Therefore I write these things being absent, lest being present I should use sharpness, according to the authority which the Lord has given me for edification and not for destruction. <sup>11</sup> Finally, brethren, farewell. Become complete. Be of good comfort, be of one mind, live in peace; and the God of love and peace will be with you. <sup>12</sup> Greet one another with a holy kiss. <sup>13</sup> All the saints greet you. <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.",
+        "1Thess312": "<h2>I Thessalonians 3:12</h2> <sup>12</sup> And may the Lord make you increase and abound in love to one another and to all, just as we do to you,",
+        "Eph623-Eph624": "<h2>Ephesians 6:23-24</h2> <sup>23</sup> Peace to the brethren, and love with faith, from God the Father and the Lord Jesus Christ. <sup>24</sup> Grace be with all those who love our Lord Jesus Christ in sincerity. Amen.",
+        "Rom1530": "<h2>Romans 15:30</h2> <sup>30</sup> Now I beg you, brethren, through the Lord Jesus Christ, and through the love of the Spirit, that you strive together with me in prayers to God for me,",
+        "Phil423": "<h2>Philippians 4:23</h2> <sup>23</sup> The grace of our Lord Jesus Christ be with you all. Amen.",
+        "Rom1620,Gal618": "<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace will crush Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.\n\n<h2>Galatians 6:18</h2> <sup>18</sup> Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.",
+        "2Cor89": "<h2>II Corinthians 8:9</h2> <sup>9</sup> For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich.",
+        "1Cor1619-1Cor1624": "<h2>I Corinthians 16:19-24</h2> <sup>19</sup> The churches of Asia greet you. Aquila and Priscilla greet you heartily in the Lord, with the church that is in their house. <sup>20</sup> All the brethren greet you. Greet one another with a holy kiss. <sup>21</sup> The salutation with my own hand—Paul’s. <sup>22</sup> If anyone does not love the Lord Jesus Christ, let him be accursed. O Lord, come! <sup>23</sup> The grace of our Lord Jesus Christ be with you. <sup>24</sup> My love be with you all in Christ Jesus. Amen."
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "2Cor1312": "<h2>2 Corinthians 13:12</h2> <sup>12</sup> Greet one another with an holy kiss.",
+        "1Cor110-1Cor113": "<h2>1 Corinthians 1:10-13</h2> <sup>10</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment. <sup>11</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you. <sup>12</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ. <sup>13</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
+        "Rom1218": "<h2>Romans 12:18</h2> <sup>18</sup> If it be possible, as much as lieth in you, live peaceably with all men.",
+        "1Cor110": "<h2>1 Corinthians 1:10</h2> <sup>10</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.",
+        "2Cor1311": "<h2>2 Corinthians 13:11</h2> <sup>11</sup> Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.",
+        "2Cor1311-2Cor1314": "<h2>2 Corinthians 13:11-14</h2> <sup>11</sup> Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you. <sup>12</sup> Greet one another with an holy kiss. <sup>13</sup> All the saints salute you. <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.",
+        "2Cor1314": "<h2>2 Corinthians 13:14</h2> <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.",
+        "Gal522-Gal526": "<h2>Galatians 5:22-26</h2> <sup>22</sup> But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, <sup>23</sup> Meekness, temperance: against such there is no law. <sup>24</sup> And they that are Christ's have crucified the flesh with the affections and lusts. <sup>25</sup> If we live in the Spirit, let us also walk in the Spirit. <sup>26</sup> Let us not be desirous of vain glory, provoking one another, envying one another.",
+        "Rom155-Rom156": "<h2>Romans 15:5-6</h2> <sup>5</sup> Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus: <sup>6</sup> That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.",
+        "Phil21-Phil22": "<h2>Philippians 2:1-2</h2> <sup>1</sup> If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, <sup>2</sup> Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.",
+        "2Cor13": "<h2>2 Corinthians 13</h2> <sup>1</sup> This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established. <sup>2</sup> I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare: <sup>3</sup> Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you. <sup>4</sup> For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you. <sup>5</sup> Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates? <sup>6</sup> But I trust that ye shall know that we are not reprobates. <sup>7</sup> Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates. <sup>8</sup> For we can do nothing against the truth, but for the truth. <sup>9</sup> For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection. <sup>10</sup> Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction. <sup>11</sup> Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you. <sup>12</sup> Greet one another with an holy kiss. <sup>13</sup> All the saints salute you. <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.",
+        "1Thess312": "<h2>1 Thessalonians 3:12</h2> <sup>12</sup> And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:",
+        "Eph623-Eph624": "<h2>Ephesians 6:23-24</h2> <sup>23</sup> Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ. <sup>24</sup> Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.",
+        "Rom1530": "<h2>Romans 15:30</h2> <sup>30</sup> Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;",
+        "Phil423": "<h2>Philippians 4:23</h2> <sup>23</sup> The grace of our Lord Jesus Christ be with you all. Amen.",
+        "Rom1620,Gal618": "<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.\n\n<h2>Galatians 6:18</h2> <sup>18</sup> Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.",
+        "2Cor89": "<h2>2 Corinthians 8:9</h2> <sup>9</sup> For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.",
+        "1Cor1619-1Cor1624": "<h2>1 Corinthians 16:19-24</h2> <sup>19</sup> The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house. <sup>20</sup> All the brethren greet you. Greet ye one another with an holy kiss. <sup>21</sup> The salutation of me Paul with mine own hand. <sup>22</sup> If any man love not the Lord Jesus Christ, let him be Anathema Maranatha. <sup>23</sup> The grace of our Lord Jesus Christ be with you. <sup>24</sup> My love be with you all in Christ Jesus. Amen."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "2Cor1312": "<h2>2 Corinthians 13:12</h2> <sup>12</sup> Salute one another with a holy kiss.",
+        "1Cor110-1Cor113": "<h2>1 Corinthians 1:10-13</h2> <sup>10</sup> Now I beseech you, brethren, through the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfected together in the same mind and in the same judgment. <sup>11</sup> For it hath been signified unto me concerning you, my brethren, by them that are of the household of Chloe, that there are contentions among you. <sup>12</sup> Now this I mean, that each one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ. <sup>13</sup> Is Christ divided? was Paul crucified for you? or were ye baptized into the name of Paul?",
+        "Rom1218": "<h2>Romans 12:18</h2> <sup>18</sup> If it be possible, as much as in you lieth, be at peace with all men.",
+        "1Cor110": "<h2>1 Corinthians 1:10</h2> <sup>10</sup> Now I beseech you, brethren, through the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfected together in the same mind and in the same judgment.",
+        "2Cor1311": "<h2>2 Corinthians 13:11</h2> <sup>11</sup> Finally, brethren, farewell. Be perfected; be comforted; be of the same mind; live in peace: and the God of love and peace shall be with you.",
+        "2Cor1311-2Cor1314": "<h2>2 Corinthians 13:11-14</h2> <sup>11</sup> Finally, brethren, farewell. Be perfected; be comforted; be of the same mind; live in peace: and the God of love and peace shall be with you. <sup>12</sup> Salute one another with a holy kiss. <sup>13</sup> All the saints salute you. <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit, be with you all.",
+        "2Cor1314": "<h2>2 Corinthians 13:14</h2> <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit, be with you all.",
+        "Gal522-Gal526": "<h2>Galatians 5:22-26</h2> <sup>22</sup> But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, <sup>23</sup> meekness, self-control; against such there is no law. <sup>24</sup> And they that are of Christ Jesus have crucified the flesh with the passions and the lusts thereof. <sup>25</sup> If we live by the Spirit, by the Spirit let us also walk. <sup>26</sup> Let us not become vainglorious, provoking one another, envying one another.",
+        "Rom155-Rom156": "<h2>Romans 15:5-6</h2> <sup>5</sup> Now the God of patience and of comfort grant you to be of the same mind one with another according to Christ Jesus: <sup>6</sup> that with one accord ye may with one mouth glorify the God and Father of our Lord Jesus Christ.",
+        "Phil21-Phil22": "<h2>Philippians 2:1-2</h2> <sup>1</sup> If there is therefore any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassions, <sup>2</sup> make full my joy, that ye be of the same mind, having the same love, being of one accord, of one mind;",
+        "2Cor13": "<h2>2 Corinthians 13</h2> <sup>1</sup> This is the third time I am coming to you. At the mouth of two witnesses or three shall every word be established. <sup>2</sup> I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, to them that have sinned heretofore, and to all the rest, that, if I come again, I will not spare; <sup>3</sup> seeing that ye seek a proof of Christ that speaketh in me; who to you-ward is not weak, but is powerful in you: <sup>4</sup> for he was crucified through weakness, yet he liveth through the power of God. For we also are weak in him, but we shall live with him through the power of God toward you. <sup>5</sup> Try your own selves, whether ye are in the faith; prove your own selves. Or know ye not as to your own selves, that Jesus Christ is in you? unless indeed ye be reprobate. <sup>6</sup> But I hope that ye shall know that we are not reprobate. <sup>7</sup> Now we pray to God that ye do no evil; not that we may appear approved, but that ye may do that which is honorable, though we be as reprobate. <sup>8</sup> For we can do nothing against the truth, but for the truth. <sup>9</sup> For we rejoice, when we are weak, and ye are strong: this we also pray for, even your perfecting. <sup>10</sup> For this cause I write these things while absent, that I may not when present deal sharply, according to the authority which the Lord gave me for building up, and not for casting down. <sup>11</sup> Finally, brethren, farewell. Be perfected; be comforted; be of the same mind; live in peace: and the God of love and peace shall be with you. <sup>12</sup> Salute one another with a holy kiss. <sup>13</sup> All the saints salute you. <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit, be with you all.",
+        "1Thess312": "<h2>1 Thessalonians 3:12</h2> <sup>12</sup> and the Lord make you to increase and abound in love one toward another, and toward all men, even as we also do toward you;",
+        "Eph623-Eph624": "<h2>Ephesians 6:23-24</h2> <sup>23</sup> Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ. <sup>24</sup> Grace be with all them that love our Lord Jesus Christ with a love  incorruptible.",
+        "Rom1530": "<h2>Romans 15:30</h2> <sup>30</sup> Now I beseech you, brethren, by our Lord Jesus Christ, and by the love of the Spirit, that ye strive together with me in your prayers to God for me;",
+        "Phil423": "<h2>Philippians 4:23</h2> <sup>23</sup> The grace of the Lord Jesus Christ be with your spirit.",
+        "Rom1620,Gal618": "<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace shall bruise Satan under your feet shortly.\nThe grace of our Lord Jesus Christ be with you.\n\n<h2>Galatians 6:18</h2> <sup>18</sup> The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.",
+        "2Cor89": "<h2>2 Corinthians 8:9</h2> <sup>9</sup> For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might become rich.",
+        "1Cor1619-1Cor1624": "<h2>1 Corinthians 16:19-24</h2> <sup>19</sup> The churches of Asia salute you. Aquila and Prisca salute you much in the Lord, with the church that is in their house. <sup>20</sup> All the brethren salute you. Salute one another with a holy kiss. <sup>21</sup> The salutation of me Paul with mine own hand. <sup>22</sup> If any man loveth not the Lord, let him be anathema. Maranatha. <sup>23</sup> The grace of the Lord Jesus Christ be with you. <sup>24</sup> My love be with you all in Christ Jesus. Amen."
+      }
+    }
+  ],
+  "content": "<h4 id=\"part-i-overview\">Part I: Overview</h4>\n<p><strong>Key Text:</strong> <a class=\"verse\" verse=\"2Cor1314\">2 Corinthians 13:14</a></p>\n<p><strong>Study Focus:</strong> <a class=\"verse\" verse=\"2Cor1311-2Cor1314\">2 Cor. 13:11–14</a>.</p>\n<p><strong>Introduction</strong></p>\n<p>Imagine you’re at the airport, saying goodbye to a close friend or loved one. You’ve spent meaningful time together—maybe even worked through some challenges. As your friend or loved one is about to go through security, he or she turns back to say something, perhaps only a few words. But it is something that you’ll remember long after the flight has taken off.</p>\n<p>Maybe it was:</p>\n<p>“Take care of yourself.”</p>\n<p>“Keep doing what you love.”</p>\n<p>“Don’t forget—I believe in you.”</p>\n<p>Final words linger. They may be brief, but they often carry the deepest emotion, the most urgent reminder, or the core message that their speaker wants you to remember.</p>\n<p>The apostle Paul often closes his letters in the New Testament in much the same way. After chapters of teaching, correction, defense, encouragement, and doctrine, Paul doesn’t just sign off casually. His final words are intentional and often are compact expressions of grace, love, and ­fellowship—the very heart of the gospel and of the Christian community.</p>\n<p>Paul doesn’t just end his letters; he blesses, reaffirms, and refocuses his readers on what matters most. So, when we study the endings of Paul’s letters—especially <a class=\"verse\" verse=\"2Cor1311-2Cor1314\">2 Corinthians 13:11–14</a>—we’re not just reading polite farewells. We’re hearing the echo of Paul’s heartbeat and, perhaps, more important, the heartbeat of God.</p>\n<p><strong>Lesson Themes</strong></p>\n<p>In this week’s lesson, we will focus on the three key concepts of <a class=\"verse\" verse=\"2Cor1311-2Cor1314\">2 Corinthians 13:11–14</a> that can be found in Paul’s concluding words to the Corinthian church:</p>\n<ol>\n<li><strong>Grace Is the Starting Point.</strong> It is also Jesus’ gift.</li>\n<li><strong>Love Is the Sustaining Force.</strong> Love is also God’s nature.</li>\n<li><strong>Fellowship Is the Relational Outcome.</strong> Likewise, fellowship is also the Spirit’s work, which is essential for a healthy Christian community.</li>\n</ol>\n<h4 id=\"part-ii-commentary\">Part II: Commentary</h4>\n<p><strong>1. Background:</strong> Letter-Writing Practices: In the New Testament era, letter writing was a common, and essential, means of communication, especially in the Greco-Roman world, where figures such as philosophers, teachers, and leaders often sent letters that followed a standard format: greeting, thanksgiving, body, and closing. Paul adopted this structure, but he infused it with deep theological and pastoral meaning. He usually dictated his letters to a scribe (amanuensis) and then had those letters delivered by trusted messengers, such as Timothy or Phoebe.</p>\n<p>Paul’s greetings often merged Jewish and Greek customs (“grace and peace”), and his closings were more than farewells—they reflected his care, spiritual priorities, and relationship with the recipients. In <a class=\"verse\" verse=\"1Cor1619-1Cor1624\">1 Corinthians 16:19–24</a>, Paul ends with greetings from other churches, a personal signature to validate the letter, a stern warning for those who do not love Christ, and a heartfelt blessing, emphasizing grace and his enduring love for the Corinthians.</p>\n<p>In contrast, <a class=\"verse\" verse=\"2Cor1311-2Cor1314\">2 Corinthians 13:11–14</a> closes with gentler exhortations toward joy, unity, and peace, culminating in a powerful blessing from the triune Godhead: “The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all” (<a class=\"verse\" verse=\"2Cor1314\">2 Cor. 13:14, ESV</a>). These endings showcase Paul’s unique blend of doctrine and personal connection, turning the final words of his letters into lasting spiritual encouragements, focusing on grace, love, and fellow­ship.</p>\n<p><strong>2. The Starting Point of Grace:</strong> In <a class=\"verse\" verse=\"2Cor1311-2Cor1314\">2 Corinthians 13:11–14</a>, Paul concludes his letter with a powerful and theologically rich benediction, placing a strong emphasis on the theme of grace. He begins the blessing with “the grace of the Lord Jesus Christ,” highlighting grace as the foundational element of the Christian life. This grace, expressed through Christ’s self-giving (as seen earlier in <a class=\"verse\" verse=\"2Cor89\">2 Corinthians 8:9</a>), enables restoration, unity, and peace within the troubled Corinthian church.</p>\n<p>Paul’s decision to end not with rebuke but with grace reflects his deep pastoral heart and mirrors the way he ends nearly all his letters. For example, the books of Romans (<a class=\"verse\" verse=\"Rom1620,Gal618\">Rom. 16:20), Galatians (Gal. 6:18)</a>, and Philippians (<a class=\"verse\" verse=\"Phil423\">Phil. 4:23</a>) all close with similar appeals to the sustaining presence of Christ’s grace. In <a class=\"verse\" verse=\"2Cor1311-2Cor1314\">2 Corinthians 13:11–14</a>, grace leads into love (from God the Father) and fellowship (through the Holy Spirit), forming a structure that encapsulates the full scope of divine relationship. For Paul, grace is not merely a theological concept but the living power that unites believers with God and one another. Thus, the apostle consistently uses it as the final word in his letters to remind the church that it is grace that saves, sustains, and empowers the Christian community.</p>\n<p><strong>3. The Sustaining Power of Love:</strong> Paul concludes his letter (<a class=\"verse\" verse=\"2Cor1311-2Cor1314\">2 Cor. 13:11–14</a>) with an appeal to unity and peace, culminating in one of the richest blessings in the New Testament. A central theme in this passage is love, especially as an expression of God’s nature. In <a class=\"verse\" verse=\"2Cor1314\">2 Corinthians 13:14</a>, Paul places “the love of God”—as a key part of the believer’s experience of God—alongside grace and fellowship. This love is not a vague sentiment but the very essence of who God is—the Source of both salvation and the life of the Christian community. This love undergirds the exhortations in <a class=\"verse\" verse=\"2Cor1311\">2 Corinthians 13:11</a>, in which believers are encouraged to aim for restoration, to comfort one another, to be of one mind, and to live in peace. These commands to the church members are possible only when members first are grounded in the self-giving, reconciling love that comes from God.</p>\n<p>Paul consistently emphasizes this theme of reconciliation at the close of his letters. In <a class=\"verse\" verse=\"Rom1530\">Romans 15:30</a>, he appeals to the church “by the love of the Spirit” (ESV) to strive together in prayer, showing that love is the motivating force, even in spiritual work.</p>\n<p>In <a class=\"verse\" verse=\"Eph623-Eph624\">Ephesians 6:23, 24</a>, Paul ends with “Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ,” and then adds, “Grace be with all who love our Lord Jesus Christ with love incorruptible” (ESV). Here, love is both divine in origin and human in response—a reflection of God’s own love given to the believer. Similarly, in <a class=\"verse\" verse=\"1Thess312\">1 Thessalonians 3:12</a>, Paul prays, “May the Lord make you increase and abound in love for one another and for all, as we do for you” (ESV), again tying love both to God’s work and to the church’s witness.</p>\n<p>In <a class=\"verse\" verse=\"2Cor13\">2 Corinthians 13</a>, then, Paul is not merely signing off—he is summariz­ing the gospel. The “love of God” is the source of the “grace of Christ” and of the “fellowship of the Spirit.” Only in this letter does Paul employ the formula of the Three-in-One Deity “in the epilogue to highlight the distinctive roles of the Godhead in the work of ­salvation.”—“2 Corinthians,” in Andrews Bible Commentary, ed. Ángel Manuel Rodríguez et al. (Berrien Springs, MI: Andrews University Press, 2022), p. 1685. Love is the initiating attribute of God that reaches out in grace and binds believers together in fellowship. By ending his letter with this threefold blessing, Paul reminds the Corinthians—who are a divided and troubled church—that only a deep experience of God’s love can restore their unity, sustain their peace, and empower their fellowship.</p>\n<p><strong>4. Fellowship as the Relational Outcome:</strong> The theme of fellowship is emphasized in <a class=\"verse\" verse=\"2Cor1314\">2 Corinthians 13:14</a> as a relational outcome of the Holy Spirit’s work. In this passage, “fellowship” (<em>koinōnia</em>) refers to shared participation, a deep relational bond that exists not only between believers and the Spirit but among believers themselves, because of the Spirit’s unifying presence. This closing blessing summarizes the heart of Christian community: the Spirit is the One who creates, and sustains, the unity and relational depth within the church. The Corinthian community, previously marked by divisions and rivalries, is now urged to experience reconciliation and harmony through the fellowship produced by the Spirit.</p>\n<p>Paul refers to this theme of Spirit-empowered unity in other places, as well. In <a class=\"verse\" verse=\"Phil21-Phil22\">Philippians 2:1, 2</a>, he encourages his readers: “So if there is any encouragement in Christ, any comfort from love, any participation in the Spirit, any affection and sympathy, complete my joy by being of the same mind, having the same love, being in full accord and of one mind” (ESV). Similarly, in <a class=\"verse\" verse=\"Rom155-Rom156\">Romans 15:5, 6</a>, Paul prays, “May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, that together you may with one voice glorify the God and Father of our Lord Jesus Christ” (ESV). Harmony is a relational result of God’s Spirit, fostering mutual love and worship.</p>\n<p>In <a class=\"verse\" verse=\"Gal522-Gal526\">Galatians 5:22–26</a>, Paul describes the fruit of the Spirit as love, peace, and gentleness—all relational qualities essential to community life. Thus, in <a class=\"verse\" verse=\"2Cor1314\">2 Corinthians 13:14</a>, Paul isn’t merely offering a general or even customary farewell blessing; he’s casting a vision for what the Spirit makes possible: a reconciled, grace-filled, loving community, bound together in divine fellowship. “Grace, love, and communion are not natural to human beings, but they flow to the church from the members of the Godhead as divine gifts. These were the gifts that could heal the church in Corinth and that would prepare it for the realization of the Christian hope at the return of the Lord.”—“2 Corinthians,” in Andrews Bible Commentary, p. 1685.</p>\n<h4 id=\"part-iii-life-application\">Part III: Life Application</h4>\n<p>Discuss with your group the following questions in light of <a class=\"verse\" verse=\"2Cor1311-2Cor1314\">2 Corinthians 13:11–14:</p>\n<p>1</a>. In <a class=\"verse\" verse=\"2Cor1311\">2 Corinthians 13:11</a>, Paul says, “Aim for restoration” (ESV). Why do you think Paul includes this goal as a final exhortation? What might restoration look like in your own relationships or church community?\n2. How is it possible to “be of one mind” (<a class=\"verse\" verse=\"1Cor110\">1 Cor. 1:10, NLT</a>) and “live in peace” (<a class=\"verse\" verse=\"Rom1218\">Rom. 12:18, NLT</a>) in a church such as the church at Cornith, which had so many conflicts (see <a class=\"verse\" verse=\"1Cor110-1Cor113\">1 Cor. 1:10–13</a>)?\n3. What role does humility play in fostering unity?\n4. In <a class=\"verse\" verse=\"2Cor1312\">2 Corinthians 13:12</a>, believers are told to “greet one another with a holy kiss” (ESV). What might be a culturally appropriate way, today, to express this kind of spiritual affection and unity?\n5. In what ways have you received Christ’s grace recently, and how can your experience influence how you respond to difficult people or situations?\n6. Are there relationships in your spiritual community that need healing or strengthening? If so, what are they? More important, what steps can you take toward facilitating that outcome?\n7. Paul ends his letter with joy, comfort, and peace. Which of these divine gifts do you most need right now, and how might you seek it through God’s presence?</p>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "13",
+  "lesson_title": "Grace, Love, and Fellowship"
+}

@@ -1,0 +1,133 @@
+{
+  "lesson": {
+    "title": "Dealing With False Teachers",
+    "start_date": "12/09/2026",
+    "end_date": "18/09/2026",
+    "id": "12",
+    "index": "en-2026-03-12",
+    "path": "en/quarterlies/2026-03/lessons/12",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+  },
+  "days": [
+    {
+      "title": "Dealing With False Teachers",
+      "date": "12/09/2026",
+      "id": "01",
+      "index": "en-2026-03-12-01",
+      "path": "en/quarterlies/2026-03/lessons/12/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/01/read"
+    },
+    {
+      "title": "Spiritual War",
+      "date": "13/09/2026",
+      "id": "02",
+      "index": "en-2026-03-12-02",
+      "path": "en/quarterlies/2026-03/lessons/12/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/02/read"
+    },
+    {
+      "title": "Boasting in the Lord",
+      "date": "14/09/2026",
+      "id": "03",
+      "index": "en-2026-03-12-03",
+      "path": "en/quarterlies/2026-03/lessons/12/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/03/read"
+    },
+    {
+      "title": "False Teachers Identified",
+      "date": "15/09/2026",
+      "id": "04",
+      "index": "en-2026-03-12-04",
+      "path": "en/quarterlies/2026-03/lessons/12/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/04/read"
+    },
+    {
+      "title": "Sufferings for the Sake of the Gospel",
+      "date": "16/09/2026",
+      "id": "05",
+      "index": "en-2026-03-12-05",
+      "path": "en/quarterlies/2026-03/lessons/12/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/05/read"
+    },
+    {
+      "title": "Appeal to the Unrepentant",
+      "date": "17/09/2026",
+      "id": "06",
+      "index": "en-2026-03-12-06",
+      "path": "en/quarterlies/2026-03/lessons/12/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "18/09/2026",
+      "id": "07",
+      "index": "en-2026-03-12-07",
+      "path": "en/quarterlies/2026-03/lessons/12/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "18/09/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-12-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/12/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "18/09/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-12-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/12/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "18/09/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-12-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/12/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/12/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/ddac16394fde5fcde596885ab34a1ca923ed0175b64a5dc44be9d08582285c8c/ddac16394fde5fcde596885ab34a1ca923ed0175b64a5dc44be9d08582285c8c.pdf",
+      "target": "en/2026-03/12",
+      "id": "ddac16394fde5fcde596885ab34a1ca923ed0175b64a5dc44be9d08582285c8c",
+      "title": "Dealing With False Teachers",
+      "start_date": "12/09/2026",
+      "end_date": "18/09/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/fb485e217ddb059e8308851bfc88455f2f2d3f588c9fe54df1b44e51992f72b0/fb485e217ddb059e8308851bfc88455f2f2d3f588c9fe54df1b44e51992f72b0.pdf",
+      "target": "en/2026-03/12",
+      "title": "Hope Sabbath School Outline",
+      "id": "fb485e217ddb059e8308851bfc88455f2f2d3f588c9fe54df1b44e51992f72b0",
+      "start_date": "12/09/2026",
+      "end_date": "18/09/2026"
+    }
+  ]
+}

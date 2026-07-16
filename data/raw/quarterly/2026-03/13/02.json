@@ -1,0 +1,294 @@
+{
+  "id": "02",
+  "date": "20/09/2026",
+  "index": "en-2026-03-13-02",
+  "title": "The Grace of Jesus",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "2Cor129": "<h2>2 Corinthians 12:9</h2> <sup>9</sup> And He has said to me, \"My grace is sufficient for you, for power is perfected in weakness.\" Most gladly, therefore, I will rather boast about my weaknesses, so that the power of Christ may dwell in me.",
+        "2Cor415": "<h2>2 Corinthians 4:15</h2> <sup>15</sup> For all things are for your sakes, so that the grace which is spreading to more and more people may cause the giving of thanks to abound to the glory of God.",
+        "Eph624": "<h2>Ephesians 6:24</h2> <sup>24</sup> Grace be with all those who love our Lord Jesus Christ with incorruptible love.",
+        "Rom17,Rom1620,1Cor13,1Cor1623,Gal13,Gal618,Phil12,Phil423": "<h2>Romans 1:7</h2> <sup>7</sup> to all who are beloved of God in Rome, called as saints: Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>Romans 16:20</h2> <sup>20</sup> The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.\n\n<h2>1 Corinthians 1:3</h2> <sup>3</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>1 Corinthians 16:23</h2> <sup>23</sup> The grace of the Lord Jesus be with you.\n\n<h2>Galatians 1:3</h2> <sup>3</sup> Grace to you and peace from God our Father and the Lord Jesus Christ,\n\n<h2>Galatians 6:18</h2> <sup>18</sup> The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.\n\n<h2>Philippians 1:2</h2> <sup>2</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>Philippians 4:23</h2> <sup>23</sup> The grace of the Lord Jesus Christ be with your spirit.",
+        "Rom517": "<h2>Romans 5:17</h2> <sup>17</sup> For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.",
+        "Rom515": "<h2>Romans 5:15</h2> <sup>15</sup> But the free gift is not like the transgression. For if by the transgression of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, abound to the many.",
+        "Rom1620,Gal618,Phil423,1Thess528": "<h2>Romans 16:20</h2> <sup>20</sup> The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.\n\n<h2>Galatians 6:18</h2> <sup>18</sup> The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.\n\n<h2>Philippians 4:23</h2> <sup>23</sup> The grace of the Lord Jesus Christ be with your spirit.\n\n<h2>1 Thessalonians 5:28</h2> <sup>28</sup> The grace of our Lord Jesus Christ be with you.",
+        "Phil28": "<h2>Philippians 2:8</h2> <sup>8</sup> Being found in appearance as a man, He humbled Himself by becoming obedient to the point of death, even death on a cross.",
+        "2Cor89": "<h2>2 Corinthians 8:9</h2> <sup>9</sup> For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sake He became poor, so that you through His poverty might become rich.",
+        "2Cor12,2Cor1314": "<h2>2 Corinthians 1:2</h2> <sup>2</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>2 Corinthians 13:14</h2> <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all."
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "2Cor129": "<h2>II Corinthians 12:9</h2> <sup>9</sup> And He said to me, “My grace is sufficient for you, for My strength is made perfect in weakness.” Therefore most gladly I will rather boast in my infirmities, that the power of Christ may rest upon me.",
+        "2Cor415": "<h2>II Corinthians 4:15</h2> <sup>15</sup> For all things are for your sakes, that grace, having spread through the many, may cause thanksgiving to abound to the glory of God.",
+        "Eph624": "<h2>Ephesians 6:24</h2> <sup>24</sup> Grace be with all those who love our Lord Jesus Christ in sincerity. Amen.",
+        "Rom17,Rom1620,1Cor13,1Cor1623,Gal13,Gal618,Phil12,Phil423": "<h2>Romans 1:7</h2> <sup>7</sup> To all who are in Rome, beloved of God, called to  be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace will crush Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.\n\n<h2>I Corinthians 1:3</h2> <sup>3</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>I Corinthians 16:23</h2> <sup>23</sup> The grace of our Lord Jesus Christ be with you.\n\n<h2>Galatians 1:3</h2> <sup>3</sup> Grace to you and peace from God the Father and our Lord Jesus Christ,\n\n<h2>Galatians 6:18</h2> <sup>18</sup> Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.\n\n<h2>Philippians 1:2</h2> <sup>2</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>Philippians 4:23</h2> <sup>23</sup> The grace of our Lord Jesus Christ be with you all. Amen.",
+        "Rom517": "<h2>Romans 5:17</h2> <sup>17</sup> For if by the one man’s offense death reigned through the one, much more those who receive abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.)",
+        "Rom515": "<h2>Romans 5:15</h2> <sup>15</sup> But the free gift is not like the offense. For if by the one man’s offense many died, much more the grace of God and the gift by the grace of the one Man, Jesus Christ, abounded to many.",
+        "Rom1620,Gal618,Phil423,1Thess528": "<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace will crush Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.\n\n<h2>Galatians 6:18</h2> <sup>18</sup> Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.\n\n<h2>Philippians 4:23</h2> <sup>23</sup> The grace of our Lord Jesus Christ be with you all. Amen.\n\n<h2>I Thessalonians 5:28</h2> <sup>28</sup> The grace of our Lord Jesus Christ be with you. Amen.",
+        "Phil28": "<h2>Philippians 2:8</h2> <sup>8</sup> And being found in appearance as a man, He humbled Himself and became obedient to the  point  of death, even the death of the cross.",
+        "2Cor89": "<h2>II Corinthians 8:9</h2> <sup>9</sup> For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich.",
+        "2Cor12,2Cor1314": "<h2>II Corinthians 1:2</h2> <sup>2</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>II Corinthians 13:14</h2> <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen."
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "2Cor129": "<h2>2 Corinthians 12:9</h2> <sup>9</sup> And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+        "2Cor415": "<h2>2 Corinthians 4:15</h2> <sup>15</sup> For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.",
+        "Eph624": "<h2>Ephesians 6:24</h2> <sup>24</sup> Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.",
+        "Rom17,Rom1620,1Cor13,1Cor1623,Gal13,Gal618,Phil12,Phil423": "<h2>Romans 1:7</h2> <sup>7</sup> To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.\n\n<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.\n\n<h2>1 Corinthians 1:3</h2> <sup>3</sup> Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.\n\n<h2>1 Corinthians 16:23</h2> <sup>23</sup> The grace of our Lord Jesus Christ be with you.\n\n<h2>Galatians 1:3</h2> <sup>3</sup> Grace be to you and peace from God the Father, and from our Lord Jesus Christ,\n\n<h2>Galatians 6:18</h2> <sup>18</sup> Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.\n\n<h2>Philippians 1:2</h2> <sup>2</sup> Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.\n\n<h2>Philippians 4:23</h2> <sup>23</sup> The grace of our Lord Jesus Christ be with you all. Amen.",
+        "Rom517": "<h2>Romans 5:17</h2> <sup>17</sup> For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)",
+        "Rom515": "<h2>Romans 5:15</h2> <sup>15</sup> But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.",
+        "Rom1620,Gal618,Phil423,1Thess528": "<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.\n\n<h2>Galatians 6:18</h2> <sup>18</sup> Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.\n\n<h2>Philippians 4:23</h2> <sup>23</sup> The grace of our Lord Jesus Christ be with you all. Amen.\n\n<h2>1 Thessalonians 5:28</h2> <sup>28</sup> The grace of our Lord Jesus Christ be with you. Amen.",
+        "Phil28": "<h2>Philippians 2:8</h2> <sup>8</sup> And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.",
+        "2Cor89": "<h2>2 Corinthians 8:9</h2> <sup>9</sup> For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.",
+        "2Cor12,2Cor1314": "<h2>2 Corinthians 1:2</h2> <sup>2</sup> Grace be to you and peace from God our Father, and from the Lord Jesus Christ.\n\n<h2>2 Corinthians 13:14</h2> <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "2Cor129": "<h2>2 Corinthians 12:9</h2> <sup>9</sup> And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
+        "2Cor415": "<h2>2 Corinthians 4:15</h2> <sup>15</sup> For all things are for your sakes, that the grace, being multiplied through the many, may cause the thanksgiving to abound unto the glory of God.",
+        "Eph624": "<h2>Ephesians 6:24</h2> <sup>24</sup> Grace be with all them that love our Lord Jesus Christ with a love  incorruptible.",
+        "Rom17,Rom1620,1Cor13,1Cor1623,Gal13,Gal618,Phil12,Phil423": "<h2>Romans 1:7</h2> <sup>7</sup> to all that are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace shall bruise Satan under your feet shortly.\nThe grace of our Lord Jesus Christ be with you.\n\n<h2>1 Corinthians 1:3</h2> <sup>3</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>1 Corinthians 16:23</h2> <sup>23</sup> The grace of the Lord Jesus Christ be with you.\n\n<h2>Galatians 1:3</h2> <sup>3</sup> Grace to you and peace from God the Father, and our Lord Jesus Christ,\n\n<h2>Galatians 6:18</h2> <sup>18</sup> The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.\n\n<h2>Philippians 1:2</h2> <sup>2</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>Philippians 4:23</h2> <sup>23</sup> The grace of the Lord Jesus Christ be with your spirit.",
+        "Rom517": "<h2>Romans 5:17</h2> <sup>17</sup> For if, by the trespass of the one, death reigned through the one; much more shall they that receive the abundance of grace and of the gift of righteousness reign in life through the one, even Jesus Christ.",
+        "Rom515": "<h2>Romans 5:15</h2> <sup>15</sup> But not as the trespass, so also is the free gift. For if by the trespass of the one the many died, much more did the grace of God, and the gift by the grace of the one man, Jesus Christ, abound unto the many.",
+        "Rom1620,Gal618,Phil423,1Thess528": "<h2>Romans 16:20</h2> <sup>20</sup> And the God of peace shall bruise Satan under your feet shortly.\nThe grace of our Lord Jesus Christ be with you.\n\n<h2>Galatians 6:18</h2> <sup>18</sup> The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.\n\n<h2>Philippians 4:23</h2> <sup>23</sup> The grace of the Lord Jesus Christ be with your spirit.\n\n<h2>1 Thessalonians 5:28</h2> <sup>28</sup> The grace of our Lord Jesus Christ be with you.",
+        "Phil28": "<h2>Philippians 2:8</h2> <sup>8</sup> and being found in fashion as a man, he humbled himself, becoming obedient even unto death, yea, the death of the cross.",
+        "2Cor89": "<h2>2 Corinthians 8:9</h2> <sup>9</sup> For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might become rich.",
+        "2Cor12,2Cor1314": "<h2>2 Corinthians 1:2</h2> <sup>2</sup> Grace to you and peace from God our Father and the Lord Jesus Christ.\n\n<h2>2 Corinthians 13:14</h2> <sup>14</sup> The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit, be with you all."
+      }
+    }
+  ],
+  "content": "<p>It is inspiring that at the end of 2 Corinthians, we see a reference to the grace of Jesus, just as in the opening (<a class=\"verse\" verse=\"2Cor12,2Cor1314\">2 Cor. 1:2, 2 Cor. 13:14</a>). Paul begins and closes this letter with a reference to His grace. As we saw at the beginning of this quarter, he couldn’t stop thinking and speaking about Jesus.</p>\n<p>“For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich” (<a class=\"verse\" verse=\"2Cor89\">2 Cor. 8:9, NKJV</a>).</p>\n<p>How admirable and irresistible is the grace of Jesus! He left the riches of His eternal existence in heaven to become poor. He walked down the dusty roads of ancient Galilee. “He humbled himself by becoming obedient to the point of death, even death on a cross” (<a class=\"verse\" verse=\"Phil28\">Phil. 2:8, ESV</a>). He did so in order for us to become “rich,” namely, for us to have a chance to be with Him in heaven. It’s hard for us, who have known only a world of sin, death, and suffering even to begin to grasp what it meant for Jesus to have left the courts of heaven in order to come here and offer His life for us.</p>\n<p><code>Read <a class=\"verse\" verse=\"Rom1620,Gal618,Phil423,1Thess528\">Romans 16:20, Galatians 6:18, Philippians 4:23, and 1 Thessalonians 5:28</a>. What important teaching do you see in these passages?</code></p>\n<p>Paul refers to the grace of Jesus very often in his letters. Some pearls include, “The free gift by the grace of . . . Jesus Christ abounded for many” (<a class=\"verse\" verse=\"Rom515\">Rom. 5:15, ESV</a>). Those who receive this abundance of grace will “reign in life through . . . Jesus” (<a class=\"verse\" verse=\"Rom517\">Rom. 5:17, ESV</a>). As occurs with 2 Corinthians, Paul also begins and ends other letters mentioning the grace of Jesus (<a class=\"verse\" verse=\"Rom17,Rom1620,1Cor13,1Cor1623,Gal13,Gal618,Phil12,Phil423\">Rom. 1:7, Rom. 16:20, 1 Cor. 1:3, 1 Cor. 16:23, Gal. 1:3, Gal. 6:18, Phil. 1:2, Phil. 4:23</a>). This topic occupied his thoughts, and he wanted it to fill the minds of the Corinthians, too.</p>\n<p>This was his wish for all the churches. Notice what he says to the Ephesians: “Grace to all who love our Lord Jesus Christ with an undying love” (<a class=\"verse\" verse=\"Eph624\">Eph. 6:24, NIV</a>). Would he wish for us to love Jesus less than that, an undying love? Certainly not. After all, his wish was for the grace of Jesus to reach “more and more people” (<a class=\"verse\" verse=\"2Cor415\">2 Cor. 4:15, NIV</a>) and become sufficient for them just as it was for him (<a class=\"verse\" verse=\"2Cor129\">2 Cor. 12:9</a>).</p>\n<p><code>Think about God’s grace toward you like this. What do you deserve for the kind of things you have said and done? What, however, does God’s grace offer you instead?</code></p>\n<hr>\n<div style=\"display: none\" class=\"ss-donation-appeal\">\n<div class=\"ss-donation-appeal-title\">\n<p>Supplemental EGW Notes</p>\n<div class=\"ss-donation-appeal-icon\"></div>\n</div>\n<div class=\"ss-donation-appeal-text\">\n\n<p>Strength comes by exercise. All who put to use the ability which God has given them will have increased ability to devote to His service. Those who do nothing in the cause of God will fail to grow in grace and in the knowledge of the truth. A man who would lie down and refuse to exercise his limbs would soon lose all power to use them. Thus the Christian who will not exercise his God-given powers not only fails to grow up into Christ, but he loses the strength which he already has; he becomes a spiritual paralytic. It is those who, with love for God and their fellow men, are striving to help others that become established, strengthened, settled, in the truth. The true Christian works for God, not from impulse, but from principle; not for a day or a month, but during the entire period of life.<br>This world is not a parade ground, but a battlefield. All are called to endure hardness, as good soldiers. They are to be strong and quit themselves like men. . . . The true test of character is found in the willingness to bear burdens, to take the hard place, to do the work that needs to be done, though it bring no earthly recognition or reward.<br>O that each one would place a proper estimate upon the capabilities that have been given him of God! Through Christ you may climb the ladder of progress, and bring every power under the control of Jesus. . . . In your own strength you can do nothing; but in the grace of Jesus Christ, you can employ your powers in such a way as to bring the greatest good to your own soul, and the greatest blessing to the souls of others. Lay hold of Jesus, and you will diligently work the works of Christ, and will finally receive the eternal reward.—God’s Amazing Grace, p. 306.</p>\n<p>The soldier of Christ must meet many forms of temptation, and resist and overcome them. The fiercer the conflict, the greater the supply of grace to meet the need of the soul. . . . The true Christian will understand what it means to pass through severe conflicts and trying experiences; but he will steadily increase in the grace of Christ to meet successfully the enemy of his soul. . . . The darkness will press upon his soul at times; but the true light will shine, the bright beams of the Sun of righteousness will dispel the gloom; and. . . through the grace of Christ he will be enabled to be a faithful witness of the things which he has heard from the inspired messenger of God. . . . By thus communicating truth to others, the worker for Christ obtains a clearer view of the abundant provisions made for all, of the sufficiency of the grace of Christ for every time of conflict, sorrow, and trial. Through the mysterious plan of redemption, grace has been provided, so that the imperfect work of the human agent may be accepted in the name of Jesus our Advocate.<br>Man has little power, and can accomplish but a small work at his very best.... God is omnipotent, and at every point where we need divine help and seek for it in sincerity, it will be given. God has pledged His word that His grace will be sufficient for you in your greatest necessity, in your sorest distress. Christ will be to you a present help if you will appropriate His grace.—God’s Amazing Grace, p. 260.</p>\n<p><small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small></p>\n</div>\n</div>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "13",
+  "lesson_title": "Grace, Love, and Fellowship"
+}

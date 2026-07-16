@@ -1,0 +1,133 @@
+{
+  "lesson": {
+    "title": "Grace, Love, and Fellowship",
+    "start_date": "19/09/2026",
+    "end_date": "25/09/2026",
+    "id": "13",
+    "index": "en-2026-03-13",
+    "path": "en/quarterlies/2026-03/lessons/13",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+  },
+  "days": [
+    {
+      "title": "Grace, Love, and Fellowship",
+      "date": "19/09/2026",
+      "id": "01",
+      "index": "en-2026-03-13-01",
+      "path": "en/quarterlies/2026-03/lessons/13/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/01/read"
+    },
+    {
+      "title": "The Grace of Jesus",
+      "date": "20/09/2026",
+      "id": "02",
+      "index": "en-2026-03-13-02",
+      "path": "en/quarterlies/2026-03/lessons/13/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/02/read"
+    },
+    {
+      "title": "The Love of God",
+      "date": "21/09/2026",
+      "id": "03",
+      "index": "en-2026-03-13-03",
+      "path": "en/quarterlies/2026-03/lessons/13/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/03/read"
+    },
+    {
+      "title": "The God of Love",
+      "date": "22/09/2026",
+      "id": "04",
+      "index": "en-2026-03-13-04",
+      "path": "en/quarterlies/2026-03/lessons/13/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/04/read"
+    },
+    {
+      "title": "The Fellowship of the Holy Spirit",
+      "date": "23/09/2026",
+      "id": "05",
+      "index": "en-2026-03-13-05",
+      "path": "en/quarterlies/2026-03/lessons/13/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/05/read"
+    },
+    {
+      "title": "Our Triune God",
+      "date": "24/09/2026",
+      "id": "06",
+      "index": "en-2026-03-13-06",
+      "path": "en/quarterlies/2026-03/lessons/13/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "25/09/2026",
+      "id": "07",
+      "index": "en-2026-03-13-07",
+      "path": "en/quarterlies/2026-03/lessons/13/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "25/09/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-13-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/13/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "25/09/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-13-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/13/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "25/09/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-13-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/13/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/13/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/4f303c36f953d62239f804fef9387e906e9798551dfbef30cafb46b956b0321d/4f303c36f953d62239f804fef9387e906e9798551dfbef30cafb46b956b0321d.pdf",
+      "target": "en/2026-03/13",
+      "id": "4f303c36f953d62239f804fef9387e906e9798551dfbef30cafb46b956b0321d",
+      "title": "Grace, Love, and Fellowship",
+      "start_date": "19/09/2026",
+      "end_date": "25/09/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/fa5d926bd9e2895e400262e88f11ff9f109651265bd122d591560ff93c922f9d/fa5d926bd9e2895e400262e88f11ff9f109651265bd122d591560ff93c922f9d.pdf",
+      "target": "en/2026-03/13",
+      "title": "Hope Sabbath School Outline",
+      "id": "fa5d926bd9e2895e400262e88f11ff9f109651265bd122d591560ff93c922f9d",
+      "start_date": "19/09/2026",
+      "end_date": "25/09/2026"
+    }
+  ]
+}

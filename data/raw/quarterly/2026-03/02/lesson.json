@@ -1,0 +1,141 @@
+{
+  "lesson": {
+    "title": "The Message of the Cross",
+    "start_date": "04/07/2026",
+    "end_date": "10/07/2026",
+    "id": "02",
+    "index": "en-2026-03-02",
+    "path": "en/quarterlies/2026-03/lessons/02",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+  },
+  "days": [
+    {
+      "title": "The Message of the Cross",
+      "date": "04/07/2026",
+      "id": "01",
+      "index": "en-2026-03-02-01",
+      "path": "en/quarterlies/2026-03/lessons/02/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/01/read"
+    },
+    {
+      "title": "The Gospel of the Cross",
+      "date": "05/07/2026",
+      "id": "02",
+      "index": "en-2026-03-02-02",
+      "path": "en/quarterlies/2026-03/lessons/02/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/02/read"
+    },
+    {
+      "title": "Foolishness to Those Who Are Perishing",
+      "date": "06/07/2026",
+      "id": "03",
+      "index": "en-2026-03-02-03",
+      "path": "en/quarterlies/2026-03/lessons/02/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/03/read"
+    },
+    {
+      "title": "Power to Those Who Are Being Saved",
+      "date": "07/07/2026",
+      "id": "04",
+      "index": "en-2026-03-02-04",
+      "path": "en/quarterlies/2026-03/lessons/02/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/04/read"
+    },
+    {
+      "title": "A Messiah Crucified",
+      "date": "08/07/2026",
+      "id": "05",
+      "index": "en-2026-03-02-05",
+      "path": "en/quarterlies/2026-03/lessons/02/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/05/read"
+    },
+    {
+      "title": "Christ, the Power and Wisdom of God",
+      "date": "09/07/2026",
+      "id": "06",
+      "index": "en-2026-03-02-06",
+      "path": "en/quarterlies/2026-03/lessons/02/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "10/07/2026",
+      "id": "07",
+      "index": "en-2026-03-02-07",
+      "path": "en/quarterlies/2026-03/lessons/02/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "10/07/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-02-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/02/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "10/07/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-02-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/02/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "10/07/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-02-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/02/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/02/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/2c0f1847bb8328df6ba797bf712b053a7a650c639327272efd181febf874a079/2c0f1847bb8328df6ba797bf712b053a7a650c639327272efd181febf874a079.pdf",
+      "target": "en/2026-03/02",
+      "id": "2c0f1847bb8328df6ba797bf712b053a7a650c639327272efd181febf874a079",
+      "title": "The Message of the Cross",
+      "start_date": "04/07/2026",
+      "end_date": "10/07/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/a25aacc0a90f6a65bf6318b9c1ca3a3b532dbc29514e2d4891500e7403a0a95c/a25aacc0a90f6a65bf6318b9c1ca3a3b532dbc29514e2d4891500e7403a0a95c.pdf",
+      "target": "en/2026-03/02",
+      "title": "Hope Sabbath School Outline",
+      "id": "a25aacc0a90f6a65bf6318b9c1ca3a3b532dbc29514e2d4891500e7403a0a95c",
+      "start_date": "04/07/2026",
+      "end_date": "10/07/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/5161781149bacf3f8722c7195003c3dd8ef99af2488db7142f83990b9268efbf/5161781149bacf3f8722c7195003c3dd8ef99af2488db7142f83990b9268efbf.pdf",
+      "target": "en/2026-03/02",
+      "title": "Talking Points Outline",
+      "id": "5161781149bacf3f8722c7195003c3dd8ef99af2488db7142f83990b9268efbf",
+      "start_date": "04/07/2026",
+      "end_date": "10/07/2026"
+    }
+  ]
+}

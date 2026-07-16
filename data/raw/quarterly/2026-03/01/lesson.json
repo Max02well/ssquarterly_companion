@@ -1,0 +1,149 @@
+{
+  "lesson": {
+    "title": "Paul’s Ministry in Corinth",
+    "start_date": "27/06/2026",
+    "end_date": "03/07/2026",
+    "id": "01",
+    "index": "en-2026-03-01",
+    "path": "en/quarterlies/2026-03/lessons/01",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+  },
+  "days": [
+    {
+      "title": "Paul’s Ministry in Corinth",
+      "date": "27/06/2026",
+      "id": "01",
+      "index": "en-2026-03-01-01",
+      "path": "en/quarterlies/2026-03/lessons/01/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/01/read"
+    },
+    {
+      "title": "Paul, a God-called Apostle of Jesus",
+      "date": "28/06/2026",
+      "id": "02",
+      "index": "en-2026-03-01-02",
+      "path": "en/quarterlies/2026-03/lessons/01/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/02/read"
+    },
+    {
+      "title": "From Athens to Corinth",
+      "date": "29/06/2026",
+      "id": "03",
+      "index": "en-2026-03-01-03",
+      "path": "en/quarterlies/2026-03/lessons/01/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/03/read"
+    },
+    {
+      "title": "The City of Corinth",
+      "date": "30/06/2026",
+      "id": "04",
+      "index": "en-2026-03-01-04",
+      "path": "en/quarterlies/2026-03/lessons/01/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/04/read"
+    },
+    {
+      "title": "“Many in This City”",
+      "date": "01/07/2026",
+      "id": "05",
+      "index": "en-2026-03-01-05",
+      "path": "en/quarterlies/2026-03/lessons/01/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/05/read"
+    },
+    {
+      "title": "Paul’s Letters to the Corinthians",
+      "date": "02/07/2026",
+      "id": "06",
+      "index": "en-2026-03-01-06",
+      "path": "en/quarterlies/2026-03/lessons/01/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "03/07/2026",
+      "id": "07",
+      "index": "en-2026-03-01-07",
+      "path": "en/quarterlies/2026-03/lessons/01/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "03/07/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-01-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/01/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "03/07/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-01-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/01/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "03/07/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-01-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/01/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/01/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/33a959fc27d2e5e95a7c33c8b2258a00b9d7322795aabed1332bc5466c0c4fe1/33a959fc27d2e5e95a7c33c8b2258a00b9d7322795aabed1332bc5466c0c4fe1.pdf",
+      "title": "Introduction",
+      "target": "en/2026-03/01",
+      "id": "33a959fc27d2e5e95a7c33c8b2258a00b9d7322795aabed1332bc5466c0c4fe1",
+      "start_date": "27/06/2026",
+      "end_date": "03/07/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/e919f40ff2c93063ff59ac4bcfff433b0407898f4f208a478744d8d766fc8704/e919f40ff2c93063ff59ac4bcfff433b0407898f4f208a478744d8d766fc8704.pdf",
+      "target": "en/2026-03/01",
+      "id": "e919f40ff2c93063ff59ac4bcfff433b0407898f4f208a478744d8d766fc8704",
+      "title": "Paul’s Ministry in Corinth",
+      "start_date": "27/06/2026",
+      "end_date": "03/07/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/e02c2ccbe6801aeee7022a4e1674e5fe0742577674865cc2c9b4c5f13f91fe58/e02c2ccbe6801aeee7022a4e1674e5fe0742577674865cc2c9b4c5f13f91fe58.pdf",
+      "target": "en/2026-03/01",
+      "title": "Hope Sabbath School Outline",
+      "id": "e02c2ccbe6801aeee7022a4e1674e5fe0742577674865cc2c9b4c5f13f91fe58",
+      "start_date": "27/06/2026",
+      "end_date": "03/07/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/c2560fe556c455b0adfb40d0ec20d78aafe1b0a3dedcc5dc412e92990b3169c7/c2560fe556c455b0adfb40d0ec20d78aafe1b0a3dedcc5dc412e92990b3169c7.pdf",
+      "target": "en/2026-03/01",
+      "title": "Talking Points Outline",
+      "id": "c2560fe556c455b0adfb40d0ec20d78aafe1b0a3dedcc5dc412e92990b3169c7",
+      "start_date": "27/06/2026",
+      "end_date": "03/07/2026"
+    }
+  ]
+}

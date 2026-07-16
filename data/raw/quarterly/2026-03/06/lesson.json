@@ -1,0 +1,141 @@
+{
+  "lesson": {
+    "title": "Spiritual Gifts",
+    "start_date": "01/08/2026",
+    "end_date": "07/08/2026",
+    "id": "06",
+    "index": "en-2026-03-06",
+    "path": "en/quarterlies/2026-03/lessons/06",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+  },
+  "days": [
+    {
+      "title": "Spiritual Gifts",
+      "date": "01/08/2026",
+      "id": "01",
+      "index": "en-2026-03-06-01",
+      "path": "en/quarterlies/2026-03/lessons/06/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/01/read"
+    },
+    {
+      "title": "Varieties of Gifts",
+      "date": "02/08/2026",
+      "id": "02",
+      "index": "en-2026-03-06-02",
+      "path": "en/quarterlies/2026-03/lessons/06/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/02/read"
+    },
+    {
+      "title": "Unity Through Diversity",
+      "date": "03/08/2026",
+      "id": "03",
+      "index": "en-2026-03-06-03",
+      "path": "en/quarterlies/2026-03/lessons/06/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/03/read"
+    },
+    {
+      "title": "“A More Excellent Way”",
+      "date": "04/08/2026",
+      "id": "04",
+      "index": "en-2026-03-06-04",
+      "path": "en/quarterlies/2026-03/lessons/06/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/04/read"
+    },
+    {
+      "title": "The Gift of Tongues",
+      "date": "05/08/2026",
+      "id": "05",
+      "index": "en-2026-03-06-05",
+      "path": "en/quarterlies/2026-03/lessons/06/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/05/read"
+    },
+    {
+      "title": "The Gift of Prophecy",
+      "date": "06/08/2026",
+      "id": "06",
+      "index": "en-2026-03-06-06",
+      "path": "en/quarterlies/2026-03/lessons/06/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "07/08/2026",
+      "id": "07",
+      "index": "en-2026-03-06-07",
+      "path": "en/quarterlies/2026-03/lessons/06/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "07/08/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-06-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/06/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "07/08/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-06-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/06/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "07/08/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-06-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/06/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/06/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/44c7a1d69d0f51fa7cf6199fb66872c32dd1d94a25be9b3bf72585e74f6700d6/44c7a1d69d0f51fa7cf6199fb66872c32dd1d94a25be9b3bf72585e74f6700d6.pdf",
+      "target": "en/2026-03/06",
+      "id": "44c7a1d69d0f51fa7cf6199fb66872c32dd1d94a25be9b3bf72585e74f6700d6",
+      "title": "Spiritual Gifts",
+      "start_date": "01/08/2026",
+      "end_date": "07/08/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/6f2bac6873c58a6bf2a00cb677aecd8b2a3701bad2fe527f8970483a4fc6e231/6f2bac6873c58a6bf2a00cb677aecd8b2a3701bad2fe527f8970483a4fc6e231.pdf",
+      "target": "en/2026-03/06",
+      "title": "Hope Sabbath School Outline",
+      "id": "6f2bac6873c58a6bf2a00cb677aecd8b2a3701bad2fe527f8970483a4fc6e231",
+      "start_date": "01/08/2026",
+      "end_date": "07/08/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/aa27bd05d5df3370a606202d25254ebabfa21445ef93cf47172ad65dead78cd9/aa27bd05d5df3370a606202d25254ebabfa21445ef93cf47172ad65dead78cd9.pdf",
+      "target": "en/2026-03/06",
+      "title": "Talking Points Outline",
+      "id": "aa27bd05d5df3370a606202d25254ebabfa21445ef93cf47172ad65dead78cd9",
+      "start_date": "01/08/2026",
+      "end_date": "07/08/2026"
+    }
+  ]
+}

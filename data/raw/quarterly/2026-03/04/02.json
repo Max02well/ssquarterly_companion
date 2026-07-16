@@ -1,0 +1,290 @@
+{
+  "id": "02",
+  "date": "19/07/2026",
+  "index": "en-2026-03-04-02",
+  "title": "Dissonance Between Faith and Practice",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "Gal521": "<h2>Galatians 5:21</h2> <sup>21</sup> envying, drunkenness, carousing, and things like these, of which I forewarn you, just as I have forewarned you, that those who practice such things will not inherit the kingdom of God.",
+        "2Tim42": "<h2>2 Timothy 4:2</h2> <sup>2</sup> preach the word; be ready in season and out of season; reprove, rebuke, exhort, with great patience and instruction.",
+        "Lev187-Lev188": "<h2>Leviticus 18:7-8</h2> <sup>7</sup> You shall not uncover the nakedness of your father, that is, the nakedness of your mother. She is your mother; you are not to uncover her nakedness. <sup>8</sup> You shall not uncover the nakedness of your father's wife; it is your father's nakedness.",
+        "1Cor612": "<h2>1 Corinthians 6:12</h2> <sup>12</sup> All things are lawful for me, but not all things are profitable. All things are lawful for me, but I will not be mastered by anything.",
+        "1Cor52,1Cor56": "<h2>1 Corinthians 5:2</h2> <sup>2</sup> You have become arrogant and have not mourned instead, so that the one who had done this deed would be removed from your midst.\n\n<h2>1 Corinthians 5:6</h2> <sup>6</sup> Your boasting is not good. Do you not know that a little leaven leavens the whole lump of dough?",
+        "1Cor51-1Cor52": "<h2>1 Corinthians 5:1-2</h2> <sup>1</sup> It is actually reported that there is immorality among you, and immorality of such a kind as does not exist even among the Gentiles, that someone has his father's wife. <sup>2</sup> You have become arrogant and have not mourned instead, so that the one who had done this deed would be removed from your midst.",
+        "1Cor51": "<h2>1 Corinthians 5:1</h2> <sup>1</sup> It is actually reported that there is immorality among you, and immorality of such a kind as does not exist even among the Gentiles, that someone has his father's wife.",
+        "1Cor111": "<h2>1 Corinthians 1:11</h2> <sup>11</sup> For I have been informed concerning you, my brethren, by Chloe's people, that there are quarrels among you.",
+        "1Cor5": "<h2>1 Corinthians 5:1-13</h2> <sup>1</sup> It is actually reported that there is immorality among you, and immorality of such a kind as does not exist even among the Gentiles, that someone has his father's wife. <sup>2</sup> You have become arrogant and have not mourned instead, so that the one who had done this deed would be removed from your midst. <sup>3</sup> For I, on my part, though absent in body but present in spirit, have already judged him who has so committed this, as though I were present. <sup>4</sup> In the name of our Lord Jesus, when you are assembled, and I with you in spirit, with the power of our Lord Jesus, <sup>5</sup> I have decided to deliver such a one to Satan for the destruction of his flesh, so that his spirit may be saved in the day of the Lord Jesus. <sup>6</sup> Your boasting is not good. Do you not know that a little leaven leavens the whole lump of dough? <sup>7</sup> Clean out the old leaven so that you may be a new lump, just as you are in fact unleavened. For Christ our Passover also has been sacrificed. <sup>8</sup> Therefore let us celebrate the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth. <sup>9</sup> I wrote you in my letter not to associate with immoral people; <sup>10</sup> I did not at all mean with the immoral people of this world, or with the covetous and swindlers, or with idolaters, for then you would have to go out of the world. <sup>11</sup> But actually, I wrote to you not to associate with any so-called brother if he is an immoral person, or covetous, or an idolater, or a reviler, or a drunkard, or a swindler-not even to eat with such a one. <sup>12</sup> For what have I to do with judging outsiders? Do you not judge those who are within the church? <sup>13</sup> But those who are outside, God judges. Remove the wicked man from among yourselves."
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "Gal521": "<h2>Galatians 5:21</h2> <sup>21</sup> envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God.",
+        "2Tim42": "<h2>II Timothy 4:2</h2> <sup>2</sup> Preach the word! Be ready in season and out of season. Convince, rebuke, exhort, with all longsuffering and teaching.",
+        "Lev187-Lev188": "<h2>Leviticus 18:7-8</h2> <sup>7</sup> The nakedness of your father or the nakedness of your mother you shall not uncover. She is your mother; you shall not uncover her nakedness. <sup>8</sup> The nakedness of your father’s wife you shall not uncover; it is your father’s nakedness.",
+        "1Cor612": "<h2>I Corinthians 6:12</h2> <sup>12</sup> All things are lawful for me, but all things are not helpful. All things are lawful for me, but I will not be brought under the power of any.",
+        "1Cor52,1Cor56": "<h2>I Corinthians 5:2</h2> <sup>2</sup> And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you.\n\n<h2>I Corinthians 5:6</h2> <sup>6</sup> Your glorying is not good. Do you not know that a little leaven leavens the whole lump?",
+        "1Cor51-1Cor52": "<h2>I Corinthians 5:1-2</h2> <sup>1</sup> It is actually reported that  there  is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles—that a man has his father’s wife! <sup>2</sup> And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you.",
+        "1Cor51": "<h2>I Corinthians 5:1</h2> <sup>1</sup> It is actually reported that  there  is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles—that a man has his father’s wife!",
+        "1Cor111": "<h2>I Corinthians 1:11</h2> <sup>11</sup> For it has been declared to me concerning you, my brethren, by those of Chloe’s household, that there are contentions among you.",
+        "1Cor5": "<h2>I Corinthians 5:1-13</h2> <sup>1</sup> It is actually reported that  there  is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles—that a man has his father’s wife! <sup>2</sup> And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you. <sup>3</sup> For I indeed, as absent in body but present in spirit, have already judged (as though I were present) him who has so done this deed. <sup>4</sup> In the name of our Lord Jesus Christ, when you are gathered together, along with my spirit, with the power of our Lord Jesus Christ, <sup>5</sup> deliver such a one to Satan for the destruction of the flesh, that his spirit may be saved in the day of the Lord Jesus. <sup>6</sup> Your glorying is not good. Do you not know that a little leaven leavens the whole lump? <sup>7</sup> Therefore purge out the old leaven, that you may be a new lump, since you truly are unleavened. For indeed Christ, our Passover, was sacrificed for us. <sup>8</sup> Therefore let us keep the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth. <sup>9</sup> I wrote to you in my epistle not to keep company with sexually immoral people. <sup>10</sup> Yet I certainly did not mean with the sexually immoral people of this world, or with the covetous, or extortioners, or idolaters, since then you would need to go out of the world. <sup>11</sup> But now I have written to you not to keep company with anyone named a brother, who is sexually immoral, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner—not even to eat with such a person. <sup>12</sup> For what have I to  do with judging those also who are outside? Do you not judge those who are inside? <sup>13</sup> But those who are outside God judges. Therefore “put away from yourselves the evil person.”"
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "Gal521": "<h2>Galatians 5:21</h2> <sup>21</sup> Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.",
+        "2Tim42": "<h2>2 Timothy 4:2</h2> <sup>2</sup> Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long suffering and doctrine.",
+        "Lev187-Lev188": "<h2>Leviticus 18:7-8</h2> <sup>7</sup> The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness. <sup>8</sup> The nakedness of thy father's wife shalt thou not uncover: it is thy father's nakedness.",
+        "1Cor612": "<h2>1 Corinthians 6:12</h2> <sup>12</sup> All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.",
+        "1Cor52,1Cor56": "<h2>1 Corinthians 5:2</h2> <sup>2</sup> And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.\n\n<h2>1 Corinthians 5:6</h2> <sup>6</sup> Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?",
+        "1Cor51-1Cor52": "<h2>1 Corinthians 5:1-2</h2> <sup>1</sup> It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father's wife. <sup>2</sup> And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.",
+        "1Cor51": "<h2>1 Corinthians 5:1</h2> <sup>1</sup> It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father's wife.",
+        "1Cor111": "<h2>1 Corinthians 1:11</h2> <sup>11</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.",
+        "1Cor5": "<h2>1 Corinthians 5:1-13</h2> <sup>1</sup> It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father's wife. <sup>2</sup> And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you. <sup>3</sup> For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, <sup>4</sup> In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, <sup>5</sup> To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. <sup>6</sup> Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump? <sup>7</sup> Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us: <sup>8</sup> Therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth. <sup>9</sup> I wrote unto you in an epistle not to company with fornicators: <sup>10</sup> Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world. <sup>11</sup> But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolator, or a railer, or a drunkard, or an extortioner; with such an one no not to eat. <sup>12</sup> For what have I to do to judge them also that are without? do not ye judge them that are within? <sup>13</sup> But them that are without God judgeth. Therefore put away from among yourselves that wicked person."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "Gal521": "<h2>Galatians 5:21</h2> <sup>21</sup> envyings, drunkenness, revellings, and such like; of which I forewarn you, even as I did forewarn you, that they who practise such things shall not inherit the kingdom of God.",
+        "2Tim42": "<h2>2 Timothy 4:2</h2> <sup>2</sup> preach the word; be urgent in season, out of season; reprove, rebuke, exhort, with all longsuffering and teaching.",
+        "Lev187-Lev188": "<h2>Leviticus 18:7-8</h2> <sup>7</sup> The nakedness of thy father, even the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness. <sup>8</sup> The nakedness of thy father’s wife shalt thou not uncover; it is thy father’s nakedness.",
+        "1Cor612": "<h2>1 Corinthians 6:12</h2> <sup>12</sup> All things are lawful for me; but not all things are expedient. All things are lawful for me; but I will not be brought under the power of any.",
+        "1Cor52,1Cor56": "<h2>1 Corinthians 5:2</h2> <sup>2</sup> And ye are puffed up, and did not rather mourn, that he that had done this deed might be taken away from among you.\n\n<h2>1 Corinthians 5:6</h2> <sup>6</sup> Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?",
+        "1Cor51-1Cor52": "<h2>1 Corinthians 5:1-2</h2> <sup>1</sup> It is actually reported that there is fornication among you, and such fornication as is not even among the Gentiles, that one of you  hath his father’s wife. <sup>2</sup> And ye are puffed up, and did not rather mourn, that he that had done this deed might be taken away from among you.",
+        "1Cor51": "<h2>1 Corinthians 5:1</h2> <sup>1</sup> It is actually reported that there is fornication among you, and such fornication as is not even among the Gentiles, that one of you  hath his father’s wife.",
+        "1Cor111": "<h2>1 Corinthians 1:11</h2> <sup>11</sup> For it hath been signified unto me concerning you, my brethren, by them that are of the household of Chloe, that there are contentions among you.",
+        "1Cor5": "<h2>1 Corinthians 5:1-13</h2> <sup>1</sup> It is actually reported that there is fornication among you, and such fornication as is not even among the Gentiles, that one of you  hath his father’s wife. <sup>2</sup> And ye are puffed up, and did not rather mourn, that he that had done this deed might be taken away from among you. <sup>3</sup> For I verily, being absent in body but present in spirit, have already as though I were present judged him that hath so wrought this thing, <sup>4</sup> in the name of our Lord Jesus, ye being gathered together, and my spirit, with the power of our Lord Jesus, <sup>5</sup> to deliver such a one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. <sup>6</sup> Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump? <sup>7</sup> Purge out the old leaven, that ye may be a new lump, even as ye are unleavened. For our passover also hath been sacrificed, even Christ: <sup>8</sup> wherefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth. <sup>9</sup> I wrote unto you in my epistle to have no company with fornicators; <sup>10</sup> not at all meaning with the fornicators of this world, or with the covetous and extortioners, or with idolaters; for then must ye needs go out of the world: <sup>11</sup> but as it is, I wrote unto you not to keep company, if any man that is named a brother be a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner; with such a one no, not to eat. <sup>12</sup> For what have I to do with judging them that are without? Do not ye judge them that are within? <sup>13</sup> But them that are without God judgeth. Put away the wicked man from among yourselves."
+      }
+    }
+  ],
+  "content": "<p>Throughout Christian history, theologians, pastors, and laypeople have studied the New Testament in order to determine what the church should look like. We marvel, for instance, at the church of Acts. But we quickly lose sight of one significant element: people have problems. It seems that we can also read the New Testament to see what the Bible says about what a church should not look like. Paul’s letters to the Corinthians are a good starting point.</p>\n<p><code>Read <a class=\"verse\" verse=\"1Cor5\">1 Corinthians 5:1–13</a>. What scandalous situation does Paul describe in this passage, and why is it so disturbing?</code></p>\n<p>The expression “his father’s wife” (<a class=\"verse\" verse=\"1Cor51\">1 Cor. 5:1</a>) suggests that Paul refers to the incestuous relationship between a man and his stepmother. This situation was probably reported “by those of Chloe’s household” (<a class=\"verse\" verse=\"1Cor111\">1 Cor. 1:11, NKJV</a>). Incest was reputed as such a terrible sin that it was “not tolerated even among pagans” (<a class=\"verse\" verse=\"1Cor51\">1 Cor. 5:1, ESV</a>). And yet, it is now happening in an early Christian church? Paul’s words in <a class=\"verse\" verse=\"1Cor51-1Cor52\">1 Corinthians 5:1, 2</a> show that he is in shock at the report that a church member was doing this.</p>\n<p>However, this bad situation gets worse. Paul is more stunned when realizing that, rather than feeling sorry about the situation, the Corinthians were even proud of themselves for tolerating such a sin (<a class=\"verse\" verse=\"1Cor51-1Cor52\">1 Cor. 5:1, 2, NIV</a>). Thus, he intends to correct not only the immoral man but also the church for its apparent dissonance between faith and practice. In fact, Paul makes it clear constantly that the church’s indulgent attitude toward the incestuous man demanded a correction. But being proud of such a sexual scandal, and even boasting of it (<a class=\"verse\" verse=\"1Cor52,1Cor56\">1 Cor. 5:2, 6</a>)! This was too much for Paul to bear. What was wrong with these people?</p>\n<p>We don’t have an explanation for why the church in Corinth was so tolerant of the incestuous man. Perhaps he was a wealthy member from whom the church benefited? Or, maybe, because “all things are lawful” (<a class=\"verse\" verse=\"1Cor612\">1 Cor. 6:12</a>), they didn’t deem it the way that they should have. We just don’t know.</p>\n<p>Whatever the true reasons, they became blind to a flagrant violation of the Scriptures (<a class=\"verse\" verse=\"Lev187-Lev188\">Lev. 18:7, 8</a>). And they were even proud of it.</p>\n<p><code>What things are clearly condemned in Scripture that we, as a church, are in danger of tolerating, all in the name of “love” and “acceptance”?</code></p>\n<hr>\n<div style=\"display: none\" class=\"ss-donation-appeal\">\n<div class=\"ss-donation-appeal-title\">\n<p>Supplemental EGW Notes</p>\n<div class=\"ss-donation-appeal-icon\"></div>\n</div>\n<div class=\"ss-donation-appeal-text\">\n\n<p>The Holy Spirit is the breath of spiritual life in the soul. The impartation of the Spirit is the impartation of the life of Christ. It imbues the receiver with the attributes of Christ. Only those who are thus taught of God, those who possess the inward working of the Spirit, and in whose life the Christ-life is manifested, are to stand as representatives, to minister in behalf of the church.<br>“Whosesoever sins ye remit,” said Christ, “they are remitted; . . . and whosesoever sins ye retain, they are retained.” Christ here gives no liberty for anyone to pass judgment upon others. In the Sermon on the Mount He forbade this. It is the prerogative of God. But on the church in its organized capacity He places a responsibility for the individual members. Toward those who fall into sin, the church has a duty, to warn, to instruct, and if possible to restore. “Reprove, rebuke, exhort,” the Lord says, “with all long-suffering and doctrine.” (<a class=\"verse\" verse=\"2Tim42\">2 Timothy 4:2</a>.) Deal faithfully with wrongdoing. Warn every soul that is in danger. Leave none to deceive themselves. Call sin by its right name. Declare what God has said in regard to lying, Sabbathbreaking, stealing, idolatry, and every other evil. “They which do such things shall not inherit the kingdom of God.” (<a class=\"verse\" verse=\"Gal521\">Galatians 5:21</a>.) If they persist in sin, the judgment you have declared from God’s word is pronounced upon them in heaven. In choosing to sin, they disown Christ; the church must show that she does not sanction their deeds, or she herself dishonors her Lord. She must say about sin what God says about it. She must deal with it as God directs, and her action is ratified in heaven. Anyone who despises the authority of the church despises the authority of Christ Himself.<br>But there is a brighter side to the picture. “Whosesoever sins ye remit, they are remitted.” Let this thought be kept uppermost. In labor for the erring, let every eye be directed to Christ. . . .<br>Let the repentance of the sinner be accepted by the church with grateful hearts. Let the repenting one be led out from the darkness of unbelief into the light of faith and righteousness. Let his trembling hand be placed in the loving hand of Jesus. Such a remission is ratified in heaven.—The Desire of Ages, pp. 805, 806.</p>\n<p>The history of Achan teaches the solemn lesson that for one man’s sin the displeasure of God will rest upon a people or a nation till the transgression is searched out and punished. Sin is corrupting in its nature. One man infected with its deadly leprosy may communicate the taint to thousands. . . . Many dare not condemn iniquity, lest they shall thereby sacrifice position or popularity. And by some it is considered uncharitable to rebuke sin. The servant of God. . . is under the most solemn obligation to present the Word of God, without fear or favor. He must call sin by its right name. . . .<br>The love of God will never lead to the belittling of sin; it will never cover or excuse an unconfessed wrong. Achan learned too late that God’s law, like its Author, is unchanging. It has to do with all our acts and thoughts and feelings. It follows us, and reaches every secret spring of action. By indulgence in sin, men are led to lightly regard the law of God. Many conceal their transgressions from their fellow men, and flatter themselves that God will not be strict to mark iniquity. But His law is the great standard of right, and with it every act of life must be compared in that day when God shall bring every work into judgment with every secret thing, whether it be good or evil. Purity of heart will lead to purity of life. All excuses for sin are vain. Who can plead for the sinner when God testifies against him?—Sons and Daughters of God, p. 214.</p>\n<p><small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small></p>\n</div>\n</div>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "04",
+  "lesson_title": "Sin in the Church"
+}

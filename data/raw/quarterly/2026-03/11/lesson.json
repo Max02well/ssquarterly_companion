@@ -1,0 +1,133 @@
+{
+  "lesson": {
+    "title": "Stewardship and Mission",
+    "start_date": "05/09/2026",
+    "end_date": "11/09/2026",
+    "id": "11",
+    "index": "en-2026-03-11",
+    "path": "en/quarterlies/2026-03/lessons/11",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+  },
+  "days": [
+    {
+      "title": "Stewardship and Mission",
+      "date": "05/09/2026",
+      "id": "01",
+      "index": "en-2026-03-11-01",
+      "path": "en/quarterlies/2026-03/lessons/11/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/01/read"
+    },
+    {
+      "title": "The Example of Jesus",
+      "date": "06/09/2026",
+      "id": "02",
+      "index": "en-2026-03-11-02",
+      "path": "en/quarterlies/2026-03/lessons/11/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/02/read"
+    },
+    {
+      "title": "Motivation",
+      "date": "07/09/2026",
+      "id": "03",
+      "index": "en-2026-03-11-03",
+      "path": "en/quarterlies/2026-03/lessons/11/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/03/read"
+    },
+    {
+      "title": "Planning",
+      "date": "08/09/2026",
+      "id": "04",
+      "index": "en-2026-03-11-04",
+      "path": "en/quarterlies/2026-03/lessons/11/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/04/read"
+    },
+    {
+      "title": "Attitude",
+      "date": "09/09/2026",
+      "id": "05",
+      "index": "en-2026-03-11-05",
+      "path": "en/quarterlies/2026-03/lessons/11/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/05/read"
+    },
+    {
+      "title": "Unity",
+      "date": "10/09/2026",
+      "id": "06",
+      "index": "en-2026-03-11-06",
+      "path": "en/quarterlies/2026-03/lessons/11/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "11/09/2026",
+      "id": "07",
+      "index": "en-2026-03-11-07",
+      "path": "en/quarterlies/2026-03/lessons/11/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "11/09/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-11-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/11/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "11/09/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-11-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/11/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "11/09/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-11-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/11/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/11/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/bd3b8e42211487a3e90e205110f9afc012a3ec7c64b8ff75e5b7ed8f346321ea/bd3b8e42211487a3e90e205110f9afc012a3ec7c64b8ff75e5b7ed8f346321ea.pdf",
+      "target": "en/2026-03/11",
+      "id": "bd3b8e42211487a3e90e205110f9afc012a3ec7c64b8ff75e5b7ed8f346321ea",
+      "title": "Stewardship and Mission",
+      "start_date": "05/09/2026",
+      "end_date": "11/09/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/2b0b6fe9ec291624b0edd8e1382a4c6941109b6a766ab3860f51091581337a5a/2b0b6fe9ec291624b0edd8e1382a4c6941109b6a766ab3860f51091581337a5a.pdf",
+      "target": "en/2026-03/11",
+      "title": "Hope Sabbath School Outline",
+      "id": "2b0b6fe9ec291624b0edd8e1382a4c6941109b6a766ab3860f51091581337a5a",
+      "start_date": "05/09/2026",
+      "end_date": "11/09/2026"
+    }
+  ]
+}

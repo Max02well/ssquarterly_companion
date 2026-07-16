@@ -1,0 +1,278 @@
+{
+  "id": "04",
+  "date": "30/06/2026",
+  "index": "en-2026-03-01-04",
+  "title": "The City of Corinth",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "Isa4321": "<h2>Isaiah 43:21</h2> <sup>21</sup> \"The people whom I formed for Myself Will declare My praise.",
+        "Ezek2037": "<h2>Ezekiel 20:37</h2> <sup>37</sup> \"I will make you pass under the rod, and I will bring you into the bond of the covenant;",
+        "Acts1726-Acts1727": "<h2>Acts 17:26-27</h2> <sup>26</sup> and He made from one man every nation of mankind to live on all the face of the earth, having determined their appointed times and the boundaries of their habitation, <sup>27</sup> that they would seek God, if perhaps they might grope for Him and find Him, though He is not far from each one of us;",
+        "1Cor85": "<h2>1 Corinthians 8:5</h2> <sup>5</sup> For even if there are so-called gods whether in heaven or on earth, as indeed there are many gods and many lords,",
+        "Acts182-Acts183": "<h2>Acts 18:2-3</h2> <sup>2</sup> And he found a Jew named Aquila, a native of Pontus, having recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. He came to them, <sup>3</sup> and because he was of the same trade, he stayed with them and they were working, for by trade they were tent-makers.",
+        "Acts181-Acts183,1Cor59-1Cor511,1Cor84": "<h2>Acts 18:1-3</h2> <sup>1</sup> After these things he left Athens and went to Corinth. <sup>2</sup> And he found a Jew named Aquila, a native of Pontus, having recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. He came to them, <sup>3</sup> and because he was of the same trade, he stayed with them and they were working, for by trade they were tent-makers.\n\n<h2>1 Corinthians 5:9-11</h2> <sup>9</sup> I wrote you in my letter not to associate with immoral people; <sup>10</sup> I did not at all mean with the immoral people of this world, or with the covetous and swindlers, or with idolaters, for then you would have to go out of the world. <sup>11</sup> But actually, I wrote to you not to associate with any so-called brother if he is an immoral person, or covetous, or an idolater, or a reviler, or a drunkard, or a swindler-not even to eat with such a one.\n\n<h2>1 Corinthians 8:4</h2> <sup>4</sup> Therefore concerning the eating of things sacrificed to idols, we know that there is no such thing as an idol in the world, and that there is no God but one."
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "Isa4321": "<h2>Isaiah 43:21</h2> <sup>21</sup> This people I have formed for Myself; They shall declare My praise.",
+        "Ezek2037": "<h2>Ezekiel 20:37</h2> <sup>37</sup> “I will make you pass under the rod, and I will bring you into the bond of the covenant;",
+        "Acts1726-Acts1727": "<h2>Acts 17:26-27</h2> <sup>26</sup> And He has made from one blood every nation of men to dwell on all the face of the earth, and has determined their preappointed times and the boundaries of their dwellings, <sup>27</sup> so that they should seek the Lord, in the hope that they might grope for Him and find Him, though He is not far from each one of us;",
+        "1Cor85": "<h2>I Corinthians 8:5</h2> <sup>5</sup> For even if there are so-called gods, whether in heaven or on earth (as there are many gods and many lords),",
+        "Acts182-Acts183": "<h2>Acts 18:2-3</h2> <sup>2</sup> And he found a certain Jew named Aquila, born in Pontus, who had recently come from Italy with his wife Priscilla (because Claudius had commanded all the Jews to depart from Rome); and he came to them. <sup>3</sup> So, because he was of the same trade, he stayed with them and worked; for by occupation they were tentmakers.",
+        "Acts181-Acts183,1Cor59-1Cor511,1Cor84": "<h2>Acts 18:1-3</h2> <sup>1</sup> After these things Paul departed from Athens and went to Corinth. <sup>2</sup> And he found a certain Jew named Aquila, born in Pontus, who had recently come from Italy with his wife Priscilla (because Claudius had commanded all the Jews to depart from Rome); and he came to them. <sup>3</sup> So, because he was of the same trade, he stayed with them and worked; for by occupation they were tentmakers.\n\n<h2>I Corinthians 5:9-11</h2> <sup>9</sup> I wrote to you in my epistle not to keep company with sexually immoral people. <sup>10</sup> Yet I certainly did not mean with the sexually immoral people of this world, or with the covetous, or extortioners, or idolaters, since then you would need to go out of the world. <sup>11</sup> But now I have written to you not to keep company with anyone named a brother, who is sexually immoral, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner—not even to eat with such a person.\n\n<h2>I Corinthians 8:4</h2> <sup>4</sup> Therefore concerning the eating of things offered to idols, we know that an idol is nothing in the world, and that there  is no other God but one."
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "Isa4321": "<h2>Isaiah 43:21</h2> <sup>21</sup> This people have I formed for myself; they shall shew forth my praise.",
+        "Ezek2037": "<h2>Ezekiel 20:37</h2> <sup>37</sup> And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:",
+        "Acts1726-Acts1727": "<h2>Acts 17:26-27</h2> <sup>26</sup> And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; <sup>27</sup> That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:",
+        "1Cor85": "<h2>1 Corinthians 8:5</h2> <sup>5</sup> For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)",
+        "Acts182-Acts183": "<h2>Acts 18:2-3</h2> <sup>2</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them. <sup>3</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.",
+        "Acts181-Acts183,1Cor59-1Cor511,1Cor84": "<h2>Acts 18:1-3</h2> <sup>1</sup> After these things Paul departed from Athens, and came to Corinth; <sup>2</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them. <sup>3</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.\n\n<h2>1 Corinthians 5:9-11</h2> <sup>9</sup> I wrote unto you in an epistle not to company with fornicators: <sup>10</sup> Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world. <sup>11</sup> But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolator, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.\n\n<h2>1 Corinthians 8:4</h2> <sup>4</sup> As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "Isa4321": "<h2>Isaiah 43:21</h2> <sup>21</sup> the people which I formed for myself, that they might set forth my praise.",
+        "Ezek2037": "<h2>Ezekiel 20:37</h2> <sup>37</sup> And I will cause you to pass under the rod, and I will bring you into the bond of the covenant;",
+        "Acts1726-Acts1727": "<h2>Acts 17:26-27</h2> <sup>26</sup> and he made of one every nation of men to dwell on all the face of the earth, having determined their appointed seasons, and the bounds of their habitation; <sup>27</sup> that they should seek God, if haply they might feel after him and find him, though he is not far from each one of us:",
+        "1Cor85": "<h2>1 Corinthians 8:5</h2> <sup>5</sup> For though there be that are called gods, whether in heaven or on earth; as there are gods many, and lords many;",
+        "Acts182-Acts183": "<h2>Acts 18:2-3</h2> <sup>2</sup> And he found a certain Jew named Aquila, a man of Pontus by race, lately come from Italy, with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome: and he came unto them; <sup>3</sup> and because he was of the same trade, he abode with them, and they wrought; for by their trade they were tentmakers.",
+        "Acts181-Acts183,1Cor59-1Cor511,1Cor84": "<h2>Acts 18:1-3</h2> <sup>1</sup> After these things he departed from Athens, and came to Corinth. <sup>2</sup> And he found a certain Jew named Aquila, a man of Pontus by race, lately come from Italy, with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome: and he came unto them; <sup>3</sup> and because he was of the same trade, he abode with them, and they wrought; for by their trade they were tentmakers.\n\n<h2>1 Corinthians 5:9-11</h2> <sup>9</sup> I wrote unto you in my epistle to have no company with fornicators; <sup>10</sup> not at all meaning with the fornicators of this world, or with the covetous and extortioners, or with idolaters; for then must ye needs go out of the world: <sup>11</sup> but as it is, I wrote unto you not to keep company, if any man that is named a brother be a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner; with such a one no, not to eat.\n\n<h2>1 Corinthians 8:4</h2> <sup>4</sup> Concerning therefore the eating of things sacrificed to idols, we know that no idol is anything in the world, and that there is no God but one."
+      }
+    }
+  ],
+  "content": "<p><code>Read <a class=\"verse\" verse=\"Acts181-Acts183,1Cor59-1Cor511,1Cor84\">Acts 18:1–3, 1 Corinthians 5:9–11, and 1 Corinthians 8:4</a>. What can we infer about Corinth’s economy, morality, and religious life?</code></p>\n<p>Corinth was an important center of the ancient world, renowned for its prosperous commerce. The city was destroyed by Rome in 146 B.C. and rebuilt by Julius Caesar as a Roman colony in 44 B.C. It is this Roman Corinth that appears in the New Testament. In the time of Paul, Corinth was one of Athens’ rivals and had even surpassed it in various aspects. Corinth had two important harbors that made the exchange of merchandise and the development of its commerce easy.</p>\n<p>Indeed, Paul chose Corinth because of its importance and advantaged geographic location. “An opportunity was thus presented for the spread of the gospel. Once established at Corinth, it would be readily communicated to all parts of the world.”—Ellen G. White, Sketches From the Life of Paul, p. 99.</p>\n<p>In addition, the flourishing commerce of Corinth would make it easier for Paul to support himself by producing and selling tents while proclaiming the gospel in that city (<a class=\"verse\" verse=\"Acts182-Acts183\">Acts 18:2, 3</a>). Obviously, missionary work in a large and wealthy city is not free of challenges. Corinth was marked by a blatant religious pluralism (<a class=\"verse\" verse=\"1Cor85\">1 Cor. 8:5</a>), as evident by its numerous shrines built in homage to such deities as Apollo, Athena, and Aphrodite, among others, and even the worship of such Egyptian gods as Serapis and Isis.</p>\n<p>In addition to this religious confusion, Corinth was also known for its sexual licentiousness. Strabo, a Greek geographer and historian, mentions that there were 1,000 sacred prostitutes devoted to the worship of Aphrodite in her temple at Corinth. Although many scholars view this with suspicion and connect this claim to Athenian propaganda against Corinth, ritual prostitution was common in the ancient world. Sexual immorality was a problem in Corinth, as elsewhere. Idolatry and immorality were part of daily life, and this sad reality explains much of the content of 1 and 2 Corinthians.</p>\n<p><code>In his missionary activity in Corinth, Paul faced the challenge of an idolatrous and licentious society. What challenges in today’s culture can make it hard to preach the gospel? How can we overcome them? How much difference, if any, is there between Corinth and our cities today?</code></p>\n<hr>\n<div style=\"display: none\" class=\"ss-donation-appeal\">\n<div class=\"ss-donation-appeal-title\">\n<p>Supplemental EGW Notes</p>\n<div class=\"ss-donation-appeal-icon\"></div>\n</div>\n<div class=\"ss-donation-appeal-text\">\n\n<p>Paul was a tentmaker, and he supported himself by working at his trade. While working thus, he spoke of the gospel to those with whom he came in contact, and turned many souls from error to truth. He lost no opportunity of speaking of the Saviour, or of helping those in trouble.<br>The history of the apostle Paul is a constant testimony that manual labor cannot be degrading, that it is not inconsistent with true greatness and elevation of human or Christian character. Those toilworn hands, he deemed, detracted nothing from the force of his pathetic appeals, sensible, intelligent, and eloquent. . . .<br>Those toilworn hands as he presented them before the people bore testimony that he was not chargeable to any man for his support. . . . At times he also supported his fellow workers, himself suffering from hunger in order to relieve the necessities of others. He shared his earnings with Luke, and helped Timothy obtain the necessary equipment for his journey.<br>Paul set an example against the sentiment, then gaining influence in the church, that the gospel could be proclaimed successfully only by those who were wholly freed from the necessity of physical toil. He illustrated in a practical way what might be done by consecrated laymen in many places where the people were unacquainted with the truths of the gospel. His course inspired many humble toilers with a desire to do what they could to advance the cause of God, while at the same time they supported themselves in daily labor. . . .<br>While some with special talents are chosen to devote all their energies to the work of teaching and preaching the gospel, many others, upon whom human hands have never been laid in ordination, are called to act an important part in soulsaving. . . . The self-sacrificing servant of God who labors untiringly in word and doctrine, carries on his heart a heavy burden. . . . His wages do not influence him in his labor. . . . From heaven he received his commission, and to heaven he looks for his recompense when the work entrusted to him is done.—Conflict and Courage, p. 342.</p>\n<p>The Bible reveals the true philosophy of history. In those words of matchless beauty and tenderness spoken by the apostle Paul to the sages of Athens is set forth God’s purpose in the creation and distribution of races and nations: He “hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; that they should seek the Lord, if haply they might feel after Him, and find Him.” <a class=\"verse\" verse=\"Acts1726-Acts1727\">Acts 17:26, 27</a>. God declares that whosoever will may come “into the bond of the covenant.” <a class=\"verse\" verse=\"Ezek2037\">Ezekiel 20:37</a>. In the creation it was His purpose that the earth be inhabited by beings whose existence should be a blessing to themselves and to one another, and an honor to their Creator. All who will may identify themselves with this purpose. Of them it is spoken, “This people have I formed for Myself; they shall show forth My praise.” <a class=\"verse\" verse=\"Isa4321\">Isaiah 43:21</a>.—Education, p. 173.</p>\n<p><small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small></p>\n</div>\n</div>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "01",
+  "lesson_title": "Paul’s Ministry in Corinth"
+}

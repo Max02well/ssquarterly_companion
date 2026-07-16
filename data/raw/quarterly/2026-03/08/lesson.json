@@ -1,0 +1,141 @@
+{
+  "lesson": {
+    "title": "The Power of Christ’s Resurrection",
+    "start_date": "15/08/2026",
+    "end_date": "21/08/2026",
+    "id": "08",
+    "index": "en-2026-03-08",
+    "path": "en/quarterlies/2026-03/lessons/08",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+  },
+  "days": [
+    {
+      "title": "The Power of Christ’s Resurrection",
+      "date": "15/08/2026",
+      "id": "01",
+      "index": "en-2026-03-08-01",
+      "path": "en/quarterlies/2026-03/lessons/08/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/01/read"
+    },
+    {
+      "title": "Proclaiming the Resurrection of Christ",
+      "date": "16/08/2026",
+      "id": "02",
+      "index": "en-2026-03-08-02",
+      "path": "en/quarterlies/2026-03/lessons/08/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/02/read"
+    },
+    {
+      "title": "The Risen Christ, Our Only Hope!",
+      "date": "17/08/2026",
+      "id": "03",
+      "index": "en-2026-03-08-03",
+      "path": "en/quarterlies/2026-03/lessons/08/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/03/read"
+    },
+    {
+      "title": "Christ, the Firstfruits",
+      "date": "18/08/2026",
+      "id": "04",
+      "index": "en-2026-03-08-04",
+      "path": "en/quarterlies/2026-03/lessons/08/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/04/read"
+    },
+    {
+      "title": "The Resurrected Body",
+      "date": "19/08/2026",
+      "id": "05",
+      "index": "en-2026-03-08-05",
+      "path": "en/quarterlies/2026-03/lessons/08/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/05/read"
+    },
+    {
+      "title": "Final Victory Over Death",
+      "date": "20/08/2026",
+      "id": "06",
+      "index": "en-2026-03-08-06",
+      "path": "en/quarterlies/2026-03/lessons/08/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "21/08/2026",
+      "id": "07",
+      "index": "en-2026-03-08-07",
+      "path": "en/quarterlies/2026-03/lessons/08/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "21/08/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-08-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/08/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "21/08/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-08-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/08/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "21/08/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-08-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/08/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/08/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/3fb653a5d0a54a4811e2f59da4fab11c942f978e4d5d7672877e182537b98522/3fb653a5d0a54a4811e2f59da4fab11c942f978e4d5d7672877e182537b98522.pdf",
+      "target": "en/2026-03/08",
+      "id": "3fb653a5d0a54a4811e2f59da4fab11c942f978e4d5d7672877e182537b98522",
+      "title": "The Power of Christ’s Resurrection",
+      "start_date": "15/08/2026",
+      "end_date": "21/08/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/57b58d1ab789dc6b1c6111a6aa680d9a2d455d7cadaf78b80f2c8c34250f0818/57b58d1ab789dc6b1c6111a6aa680d9a2d455d7cadaf78b80f2c8c34250f0818.pdf",
+      "target": "en/2026-03/08",
+      "title": "Hope Sabbath School Outline",
+      "id": "57b58d1ab789dc6b1c6111a6aa680d9a2d455d7cadaf78b80f2c8c34250f0818",
+      "start_date": "15/08/2026",
+      "end_date": "21/08/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/23d7daf726a0e632de6597552f0c67982dbcec85f938a0666468bf1842137795/23d7daf726a0e632de6597552f0c67982dbcec85f938a0666468bf1842137795.pdf",
+      "target": "en/2026-03/08",
+      "title": "Talking Points Outline",
+      "id": "23d7daf726a0e632de6597552f0c67982dbcec85f938a0666468bf1842137795",
+      "start_date": "15/08/2026",
+      "end_date": "21/08/2026"
+    }
+  ]
+}

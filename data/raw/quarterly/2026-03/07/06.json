@@ -1,0 +1,290 @@
+{
+  "id": "06",
+  "date": "13/08/2026",
+  "index": "en-2026-03-07-06",
+  "title": "Faith, Hope, and Love",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "1Cor1313": "<h2>1 Corinthians 13:13</h2> <sup>13</sup> But now faith, hope, love, abide these three; but the greatest of these is love.",
+        "1John48": "<h2>1 John 4:8</h2> <sup>8</sup> The one who does not love does not know God, for God is love.",
+        "Rom51-Rom55,Gal55-Gal56,Eph115,Eph118,Eph41-Eph45": "<h2>Romans 5:1-5</h2> <sup>1</sup> Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, <sup>2</sup> through whom also we have obtained our introduction by faith into this grace in which we stand; and we exult in hope of the glory of God. <sup>3</sup> And not only this, but we also exult in our tribulations, knowing that tribulation brings about perseverance; <sup>4</sup> and perseverance, proven character; and proven character, hope; <sup>5</sup> and hope does not disappoint, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.\n\n<h2>Galatians 5:5-6</h2> <sup>5</sup> For we through the Spirit, by faith, are waiting for the hope of righteousness. <sup>6</sup> For in Christ Jesus neither circumcision nor uncircumcision means anything, but faith working through love.\n\n<h2>Ephesians 1:15</h2> <sup>15</sup> For this reason I too, having heard of the faith in the Lord Jesus which exists among you and your love for all the saints,\n\n<h2>Ephesians 1:18</h2> <sup>18</sup> I pray that the eyes of your heart may be enlightened, so that you will know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints,\n\n<h2>Ephesians 4:1-5</h2> <sup>1</sup> Therefore I, the prisoner of the Lord, implore you to walk in a manner worthy of the calling with which you have been called, <sup>2</sup> with all humility and gentleness, with patience, showing tolerance for one another in love, <sup>3</sup> being diligent to preserve the unity of the Spirit in the bond of peace. <sup>4</sup> There is one body and one Spirit, just as also you were called in one hope of your calling; <sup>5</sup> one Lord, one faith, one baptism,",
+        "1Cor1312": "<h2>1 Corinthians 13:12</h2> <sup>12</sup> For now we see in a mirror dimly, but then face to face; now I know in part, but then I will know fully just as I also have been fully known.",
+        "Rom43": "<h2>Romans 4:3</h2> <sup>3</sup> For what does the Scripture say? \"abraham believed  God, and it was credited to him as righteousness.\"",
+        "Rom824": "<h2>Romans 8:24</h2> <sup>24</sup> For in hope we have been saved, but hope that is seen is not hope; for who hopes for what he already sees?",
+        "2Cor57": "<h2>2 Corinthians 5:7</h2> <sup>7</sup> for we walk by faith, not by sight-",
+        "1Cor138": "<h2>1 Corinthians 13:8</h2> <sup>8</sup> Love never fails; but if there are gifts of prophecy, they will be done away; if there are tongues, they will cease; if there is knowledge, it will be done away.",
+        "1Cor1310": "<h2>1 Corinthians 13:10</h2> <sup>10</sup> but when the perfect comes, the partial will be done away."
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "1Cor1313": "<h2>I Corinthians 13:13</h2> <sup>13</sup> And now abide faith, hope, love, these three; but the greatest of these is love.",
+        "1John48": "<h2>I John 4:8</h2> <sup>8</sup> He who does not love does not know God, for God is love.",
+        "Rom51-Rom55,Gal55-Gal56,Eph115,Eph118,Eph41-Eph45": "<h2>Romans 5:1-5</h2> <sup>1</sup> Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, <sup>2</sup> through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God. <sup>3</sup> And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; <sup>4</sup> and perseverance, character; and character, hope. <sup>5</sup> Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us.\n\n<h2>Galatians 5:5-6</h2> <sup>5</sup> For we through the Spirit eagerly wait for the hope of righteousness by faith. <sup>6</sup> For in Christ Jesus neither circumcision nor uncircumcision avails anything, but faith working through love.\n\n<h2>Ephesians 1:15</h2> <sup>15</sup> Therefore I also, after I heard of your faith in the Lord Jesus and your love for all the saints,\n\n<h2>Ephesians 1:18</h2> <sup>18</sup> the eyes of your understanding being enlightened; that you may know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints,\n\n<h2>Ephesians 4:1-5</h2> <sup>1</sup> I, therefore, the prisoner of the Lord, beseech you to walk worthy of the calling with which you were called, <sup>2</sup> with all lowliness and gentleness, with longsuffering, bearing with one another in love, <sup>3</sup> endeavoring to keep the unity of the Spirit in the bond of peace. <sup>4</sup> There  is one body and one Spirit, just as you were called in one hope of your calling; <sup>5</sup> one Lord, one faith, one baptism;",
+        "1Cor1312": "<h2>I Corinthians 13:12</h2> <sup>12</sup> For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I shall know just as I also am known.",
+        "Rom43": "<h2>Romans 4:3</h2> <sup>3</sup> For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.”",
+        "Rom824": "<h2>Romans 8:24</h2> <sup>24</sup> For we were saved in this hope, but hope that is seen is not hope; for why does one still hope for what he sees?",
+        "2Cor57": "<h2>II Corinthians 5:7</h2> <sup>7</sup> For we walk by faith, not by sight.",
+        "1Cor138": "<h2>I Corinthians 13:8</h2> <sup>8</sup> Love never fails. But whether there  are prophecies, they will fail; whether there  are tongues, they will cease; whether there  is knowledge, it will vanish away.",
+        "1Cor1310": "<h2>I Corinthians 13:10</h2> <sup>10</sup> But when that which is perfect has come, then that which is in part will be done away."
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "1Cor1313": "<h2>1 Corinthians 13:13</h2> <sup>13</sup> And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+        "1John48": "<h2>1 John 4:8</h2> <sup>8</sup> He that loveth not knoweth not God; for God is love.",
+        "Rom51-Rom55,Gal55-Gal56,Eph115,Eph118,Eph41-Eph45": "<h2>Romans 5:1-5</h2> <sup>1</sup> Therefore being justified by faith, we have peace with God through our Lord Jesus Christ: <sup>2</sup> By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. <sup>3</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; <sup>4</sup> And patience, experience; and experience, hope: <sup>5</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.\n\n<h2>Galatians 5:5-6</h2> <sup>5</sup> For we through the Spirit wait for the hope of righteousness by faith. <sup>6</sup> For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.\n\n<h2>Ephesians 1:15</h2> <sup>15</sup> Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,\n\n<h2>Ephesians 1:18</h2> <sup>18</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,\n\n<h2>Ephesians 4:1-5</h2> <sup>1</sup> I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, <sup>2</sup> With all lowliness and meekness, with longsuffering, forbearing one another in love; <sup>3</sup> Endeavouring to keep the unity of the Spirit in the bond of peace. <sup>4</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling; <sup>5</sup> One Lord, one faith, one baptism,",
+        "1Cor1312": "<h2>1 Corinthians 13:12</h2> <sup>12</sup> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.",
+        "Rom43": "<h2>Romans 4:3</h2> <sup>3</sup> For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.",
+        "Rom824": "<h2>Romans 8:24</h2> <sup>24</sup> For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?",
+        "2Cor57": "<h2>2 Corinthians 5:7</h2> <sup>7</sup> (For we walk by faith, not by sight:)",
+        "1Cor138": "<h2>1 Corinthians 13:8</h2> <sup>8</sup> Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.",
+        "1Cor1310": "<h2>1 Corinthians 13:10</h2> <sup>10</sup> But when that which is perfect is come, then that which is in part shall be done away."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "1Cor1313": "<h2>1 Corinthians 13:13</h2> <sup>13</sup> But now abideth faith, hope, love, these three; and the greatest of these is love.",
+        "1John48": "<h2>1 John 4:8</h2> <sup>8</sup> He that loveth not knoweth not God; for God is love.",
+        "Rom51-Rom55,Gal55-Gal56,Eph115,Eph118,Eph41-Eph45": "<h2>Romans 5:1-5</h2> <sup>1</sup> Being therefore justified by faith, we have peace with God through our Lord Jesus Christ; <sup>2</sup> through whom also we have had our access by faith into this grace wherein we stand; and we rejoice in hope of the glory of God. <sup>3</sup> And not only so, but we also rejoice in our tribulations: knowing that tribulation worketh stedfastness; <sup>4</sup> and stedfastness, approvedness; and approvedness, hope: <sup>5</sup> and hope putteth not to shame; because the love of God hath been shed abroad in our hearts through the Holy Spirit which was given unto us.\n\n<h2>Galatians 5:5-6</h2> <sup>5</sup> For we through the Spirit by faith wait for the hope of righteousness. <sup>6</sup> For in Christ Jesus neither circumcision availeth anything, nor uncircumcision; but faith working through love.\n\n<h2>Ephesians 1:15</h2> <sup>15</sup> For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which ye show toward all the saints,\n\n<h2>Ephesians 1:18</h2> <sup>18</sup> having the eyes of your heart enlightened, that ye may know what is the hope of his calling, what the riches of the glory of his inheritance in the saints,\n\n<h2>Ephesians 4:1-5</h2> <sup>1</sup> I therefore, the prisoner in the Lord, beseech you to walk worthily of the calling wherewith ye were called, <sup>2</sup> with all lowliness and meekness, with longsuffering, forbearing one another in love; <sup>3</sup> giving diligence to keep the unity of the Spirit in the bond of peace. <sup>4</sup> There is one body, and one Spirit, even as also ye were called in one hope of your calling; <sup>5</sup> one Lord, one faith, one baptism,",
+        "1Cor1312": "<h2>1 Corinthians 13:12</h2> <sup>12</sup> For now we see in a mirror, darkly; but then face to face: now I know in part; but then shall I know fully even as also I was fully known.",
+        "Rom43": "<h2>Romans 4:3</h2> <sup>3</sup> For what saith the scripture? And Abraham believed God, and it was reckoned unto him for righteousness.",
+        "Rom824": "<h2>Romans 8:24</h2> <sup>24</sup> For in hope were we saved: but hope that is seen is not hope: for who hopeth for that which he seeth?",
+        "2Cor57": "<h2>2 Corinthians 5:7</h2> <sup>7</sup> (for we walk by faith, not by sight);",
+        "1Cor138": "<h2>1 Corinthians 13:8</h2> <sup>8</sup> Love never faileth: but whether there be prophecies, they shall be done away; whether there be tongues, they shall cease; whether there be knowledge, it shall be done away.",
+        "1Cor1310": "<h2>1 Corinthians 13:10</h2> <sup>10</sup> but when that which is perfect is come, that which is in part shall be done away."
+      }
+    }
+  ],
+  "content": "<p>Thus far, we have learned that love is patient, kind, joyful, resilient, believing, hopeful, and enduring (or perseverant) because Jesus is all these things. Once we see these qualities in Jesus, the next step is to imitate Him. That was Paul’s wish for the Corinthians. However, if we remove the “not” in the eight negative features of love, “we get a pretty good description of the Corinthians’ conduct within their church circle: envious, boasting, arrogant, rude, self-seeking, easily offended, and looking to see what others were doing wrong. Paul is tailoring the verbs he uses here to the Corinthian ­situation.”—Verlyn D. Verbrugge, “1 Corinthians,” in The Expositor’s Bible Commentary: Romans–Galatians, revised edition (Grand Rapids, MI: Zondervan, 2008), p. 372.</p>\n<p>The Corinthians had much to learn. So do we. After describing what love does and does not do, Paul concludes his section by emphasizing the everlasting nature of love so as to stimulate the practice of genuine love.</p>\n<p>One day, prophecies will no longer be necessary; we will speak only one language; and flawed human knowledge will be replaced by a brand-new knowledge of God (<a class=\"verse\" verse=\"1Cor1312\">1 Cor. 13:12</a>). The gifts of the Spirit will cease only when the purpose for which they exist has reached its fulfillment (<a class=\"verse\" verse=\"1Cor1310\">1 Cor. 13:10</a>). “But love will last forever!” (<a class=\"verse\" verse=\"1Cor138\">1 Cor. 13:8, NLT</a>).</p>\n<p>Likewise, when Christ returns, faith will give place to sight (<a class=\"verse\" verse=\"2Cor57\">2 Cor. 5:7</a>), and that which we have long hoped for will be reality (<a class=\"verse\" verse=\"Rom824\">Rom. 8:24</a>). And, most of all, love will endure as an emblem of the character of our triune God. Yet, there is a sense in which faith and hope will also last forever. Faith as the experience of salvation (<a class=\"verse\" verse=\"Rom43\">Rom. 4:3</a>), and hope as the desire and expectation of new delights and knowledge in the new earth, will mark the experience of the redeemed forever. Yet love, God’s love, will eternally prevail.</p>\n<p>Very soon, we will see our Lord face-to-face (<a class=\"verse\" verse=\"1Cor1312\">1 Cor. 13:12</a>). Until that day comes, we are supposed to define our lives with these three virtues: faith, hope, and love. This triad is representative of the fullness of Christian life through the Spirit. That is why it was often referred to among Christians (<a class=\"verse\" verse=\"Rom51-Rom55,Gal55-Gal56,Eph115,Eph118,Eph41-Eph45\">Rom. 5:1–5; Gal. 5:5, 6; Eph. 1:15, 18; 4:1–5</a>). Love, however, is the greatest; after all, it is the only virtue used to describe the very nature of God Himself (<a class=\"verse\" verse=\"1John48\">1 John 4:8</a>).</p>\n<p><code>Dwell on the statement “God is love.” How are we supposed to understand exactly what that means? And though we can grasp the idea only in part, why is that phrase such good news for us?</code></p>\n<hr>\n<div style=\"display: none\" class=\"ss-donation-appeal\">\n<div class=\"ss-donation-appeal-title\">\n<p>Supplemental EGW Notes</p>\n<div class=\"ss-donation-appeal-icon\"></div>\n</div>\n<div class=\"ss-donation-appeal-text\">\n\n<p>The knowledge of the way of the Lord is increasing, and will continue to increase. Heresy and superstition are clothing the world in the sackcloth garments of rebellion and transgression. Literature and cheap fiction of every order is circulated like the leaves of autumn, and the minds of thousands are so taken up with irreligious, cheap trash that there is no place in the mind for solid reading. The Word of God and all that would elevate man from his degradation is passed by with indifference.<br>But the Word of God contains the truth, and all those who support the truth of God for this time are doing their work for time and for eternity. Those who bring the Word of God into mind and heart are distinctly taking their stand on the side of God and the universe of heaven. They will stand heart to heart and hand to hand in defense of the holy and the pure, that which will stand the test of ages. Those who support error by word and pen and voice, and by the oppression of those who are linked with the truth, are ranged upon the other side, with the first great apostate and the evil men who are his agents. The Word declares of these that they shall “wax worse and worse, deceiving and being deceived.” And on one of these two sides, men will labor to the end.<br>All our powers belong to God. They are His by creation, and by redemption. God has given to every one His measure of power, and He expects each to put it forth on the side of truth. Thus it is to shine forth. The Christian is to stand with undivided interest on the Lord’s side. “Now abideth faith, hope, love.” Faith looks through discouraging difficulties, and lays hold of the unseen, even Omnipotence, therefore it cannot be baffled. Faith, hope, and love are sisters, and their works blend perfectly to shine amid the moral darkness of the world. The children and the youth are to be instructed, the ignorant are to be taught by patient effort to know what is truth. It is to be given them line upon line.—This Day With God, p. 131.</p>\n<p>“But now abideth faith, hope, love, these three; and the greatest of these is love” (<a class=\"verse\" verse=\"1Cor1313\">1 Corinthians 13:13</a>). In the life of Christ this love found perfect expression. He loved us in our sin and degradation. He reached to the very depths of woe to uplift the erring sons and daughters of earth. There was no wearying of His patience, no lessening of His zeal. The waves of mercy, beaten back by proud, impenitent, unthankful hearts, ever returned in a stronger tide of love.<br>He who is constrained by the love of Christ goes forth among his fellow men to help the helpless and encourage the desponding, to point sinners to God’s ideal for His children, and to lead them to Him who alone can enable them to reach this ideal.—In Heavenly Places, p. 234.</p>\n<p><small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small></p>\n</div>\n</div>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "07",
+  "lesson_title": "A Portrait of Love"
+}

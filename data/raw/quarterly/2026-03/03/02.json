@@ -1,0 +1,286 @@
+{
+  "id": "02",
+  "date": "12/07/2026",
+  "index": "en-2026-03-03-02",
+  "title": "The Problem of Cliques in the Church",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "1Cor112-1Cor127": "<h2>1 Corinthians 1:12-27</h2> <sup>12</sup> Now I mean this, that each one of you is saying, \"I am of Paul,\" and \"I of Apollos,\" and \"I of Cephas,\" and \"I of Christ.\" <sup>13</sup> Has Christ been divided? Paul was not crucified for you, was he? Or were you baptized in the name of Paul? <sup>14</sup> I thank God that I baptized none of you except Crispus and Gaius, <sup>15</sup> so that no one would say you were baptized in my name. <sup>16</sup> Now I did baptize also the household of Stephanas; beyond that, I do not know whether I baptized any other. <sup>17</sup> For Christ did not send me to baptize, but to preach the gospel, not in cleverness of speech, so that the cross of Christ would not be made void. <sup>18</sup> For the word of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God. <sup>19</sup> For it is written, \"I will destroy the wisdom of the wise, And the cleverness of the clever I will set aside.\" <sup>20</sup> Where is the wise man? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world? <sup>21</sup> For since in the wisdom of God the world through its wisdom did not come to know God, God was well-pleased through the foolishness of the message preached to save those who believe. <sup>22</sup> For indeed Jews ask for signs and Greeks search for wisdom; <sup>23</sup> but we preach Christ crucified, to Jews a stumbling block and to Gentiles foolishness, <sup>24</sup> but to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God. <sup>25</sup> Because the foolishness of God is wiser than men, and the weakness of God is stronger than men. <sup>26</sup> For consider your calling, brethren, that there were not many wise according to the flesh, not many mighty, not many noble; <sup>27</sup> but God has chosen the foolish things of the world to shame the wise, and God has chosen the weak things of the world to shame the things which are strong,",
+        "1Cor1117-1Cor1122": "<h2>1 Corinthians 11:17-22</h2> <sup>17</sup> But in giving this instruction, I do not praise you, because you come together not for the better but for the worse. <sup>18</sup> For, in the first place, when you come together as a church, I hear that divisions exist among you; and in part I believe it. <sup>19</sup> For there must also be factions among you, so that those who are approved may become evident among you. <sup>20</sup> Therefore when you meet together, it is not to eat the Lord's Supper, <sup>21</sup> for in your eating each one takes his own supper first; and one is hungry and another is drunk. <sup>22</sup> What! Do you not have houses in which to eat and drink? Or do you despise the church of God and shame those who have nothing? What shall I say to you? Shall I praise you? In this I will not praise you.",
+        "1Cor65": "<h2>1 Corinthians 6:5</h2> <sup>5</sup> I say this to your shame. Is it so, that there is not among you one wise man who will be able to decide between his brethren,",
+        "1Cor61-1Cor63": "<h2>1 Corinthians 6:1-3</h2> <sup>1</sup> Does any one of you, when he has a case against his neighbor, dare to go to law before the unrighteous and not before the saints? <sup>2</sup> Or do you not know that the saints will judge the world? If the world is judged by you, are you not competent to  constitute the smallest law courts? <sup>3</sup> Do you not know that we will judge angels? How much more matters of this life?",
+        "Rom129,Rom1313,1Cor33,2Cor1220,Gal520": "<h2>Romans 1:29</h2> <sup>29</sup> being filled with all unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice; they are gossips,\n\n<h2>Romans 13:13</h2> <sup>13</sup> Let us behave properly as in the day, not in carousing and drunkenness, not in sexual promiscuity and sensuality, not in strife and jealousy.\n\n<h2>1 Corinthians 3:3</h2> <sup>3</sup> for you are still fleshly. For since there is jealousy and strife among you, are you not fleshly, and are you not walking like mere men?\n\n<h2>2 Corinthians 12:20</h2> <sup>20</sup> For I am afraid that perhaps when I come I may find you to be not what I wish and may be found by you to be not what you wish; that perhaps there will be strife, jealousy, angry tempers, disputes, slanders, gossip, arrogance, disturbances;\n\n<h2>Galatians 5:20</h2> <sup>20</sup> idolatry, sorcery, enmities, strife, jealousy, outbursts of anger, disputes, dissensions, factions,",
+        "1Cor111": "<h2>1 Corinthians 1:11</h2> <sup>11</sup> For I have been informed concerning you, my brethren, by Chloe's people, that there are quarrels among you.",
+        "1Cor110": "<h2>1 Corinthians 1:10</h2> <sup>10</sup> Now I exhort you, brethren, by the name of our Lord Jesus Christ, that you all agree and that there be no divisions among you, but that you be made complete in the same mind and in the same judgment.",
+        "1Cor112-1Cor117": "<h2>1 Corinthians 1:12-17</h2> <sup>12</sup> Now I mean this, that each one of you is saying, \"I am of Paul,\" and \"I of Apollos,\" and \"I of Cephas,\" and \"I of Christ.\" <sup>13</sup> Has Christ been divided? Paul was not crucified for you, was he? Or were you baptized in the name of Paul? <sup>14</sup> I thank God that I baptized none of you except Crispus and Gaius, <sup>15</sup> so that no one would say you were baptized in my name. <sup>16</sup> Now I did baptize also the household of Stephanas; beyond that, I do not know whether I baptized any other. <sup>17</sup> For Christ did not send me to baptize, but to preach the gospel, not in cleverness of speech, so that the cross of Christ would not be made void."
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "1Cor112-1Cor127": "<h2>I Corinthians 1:12-27</h2> <sup>12</sup> Now I say this, that each of you says, “I am of Paul,” or “I am of Apollos,” or “I am of Cephas,” or “I am of Christ.” <sup>13</sup> Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul? <sup>14</sup> I thank God that I baptized none of you except Crispus and Gaius, <sup>15</sup> lest anyone should say that I had baptized in my own name. <sup>16</sup> Yes, I also baptized the household of Stephanas. Besides, I do not know whether I baptized any other. <sup>17</sup> For Christ did not send me to baptize, but to preach the gospel, not with wisdom of words, lest the cross of Christ should be made of no effect. <sup>18</sup> For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God. <sup>19</sup> For it is written: “I will destroy the wisdom of the wise, And bring to nothing the understanding of the prudent.” <sup>20</sup> Where is the wise? Where is the scribe? Where is the disputer of this age? Has not God made foolish the wisdom of this world? <sup>21</sup> For since, in the wisdom of God, the world through wisdom did not know God, it pleased God through the foolishness of the message preached to save those who believe. <sup>22</sup> For Jews request a sign, and Greeks seek after wisdom; <sup>23</sup> but we preach Christ crucified, to the Jews a stumbling block and to the Greeks foolishness, <sup>24</sup> but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God. <sup>25</sup> Because the foolishness of God is wiser than men, and the weakness of God is stronger than men. <sup>26</sup> For you see your calling, brethren, that not many wise according to the flesh, not many mighty, not many noble, are  called. <sup>27</sup> But God has chosen the foolish things of the world to put to shame the wise, and God has chosen the weak things of the world to put to shame the things which are mighty;",
+        "1Cor1117-1Cor1122": "<h2>I Corinthians 11:17-22</h2> <sup>17</sup> Now in giving these instructions I do not praise you, since you come together not for the better but for the worse. <sup>18</sup> For first of all, when you come together as a church, I hear that there are divisions among you, and in part I believe it. <sup>19</sup> For there must also be factions among you, that those who are approved may be recognized among you. <sup>20</sup> Therefore when you come together in one place, it is not to eat the Lord’s Supper. <sup>21</sup> For in eating, each one takes his own supper ahead of others; and one is hungry and another is drunk. <sup>22</sup> What! Do you not have houses to eat and drink in? Or do you despise the church of God and shame those who have nothing? What shall I say to you? Shall I praise you in this? I do not praise you.",
+        "1Cor65": "<h2>I Corinthians 6:5</h2> <sup>5</sup> I say this to your shame. Is it so, that there is not a wise man among you, not even one, who will be able to judge between his brethren?",
+        "1Cor61-1Cor63": "<h2>I Corinthians 6:1-3</h2> <sup>1</sup> Dare any of you, having a matter against another, go to law before the unrighteous, and not before the saints? <sup>2</sup> Do you not know that the saints will judge the world? And if the world will be judged by you, are you unworthy to judge the smallest matters? <sup>3</sup> Do you not know that we shall judge angels? How much more, things that pertain to this life?",
+        "Rom129,Rom1313,1Cor33,2Cor1220,Gal520": "<h2>Romans 1:29</h2> <sup>29</sup> being filled with all unrighteousness, sexual immorality, wickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, evil-mindedness; they  are whisperers,\n\n<h2>Romans 13:13</h2> <sup>13</sup> Let us walk properly, as in the day, not in revelry and drunkenness, not in lewdness and lust, not in strife and envy.\n\n<h2>I Corinthians 3:3</h2> <sup>3</sup> for you are still carnal. For where there  are envy, strife, and divisions among you, are you not carnal and behaving like mere men?\n\n<h2>II Corinthians 12:20</h2> <sup>20</sup> For I fear lest, when I come, I shall not find you such as I wish, and that  I shall be found by you such as you do not wish; lest there  be contentions, jealousies, outbursts of wrath, selfish ambitions, backbitings, whisperings, conceits, tumults;\n\n<h2>Galatians 5:20</h2> <sup>20</sup> idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies,",
+        "1Cor111": "<h2>I Corinthians 1:11</h2> <sup>11</sup> For it has been declared to me concerning you, my brethren, by those of Chloe’s household, that there are contentions among you.",
+        "1Cor110": "<h2>I Corinthians 1:10</h2> <sup>10</sup> Now I plead with you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfectly joined together in the same mind and in the same judgment.",
+        "1Cor112-1Cor117": "<h2>I Corinthians 1:12-17</h2> <sup>12</sup> Now I say this, that each of you says, “I am of Paul,” or “I am of Apollos,” or “I am of Cephas,” or “I am of Christ.” <sup>13</sup> Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul? <sup>14</sup> I thank God that I baptized none of you except Crispus and Gaius, <sup>15</sup> lest anyone should say that I had baptized in my own name. <sup>16</sup> Yes, I also baptized the household of Stephanas. Besides, I do not know whether I baptized any other. <sup>17</sup> For Christ did not send me to baptize, but to preach the gospel, not with wisdom of words, lest the cross of Christ should be made of no effect."
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "1Cor112-1Cor127": "<h2>1 Corinthians 1:12-27</h2> <sup>12</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ. <sup>13</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul? <sup>14</sup> I thank God that I baptized none of you, but Crispus and Gaius; <sup>15</sup> Lest any should say that I had baptized in mine own name. <sup>16</sup> And I baptized also the household of Stephanas: besides, I know not whether I baptized any other. <sup>17</sup> For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect. <sup>18</sup> For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God. <sup>19</sup> For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent. <sup>20</sup> Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world? <sup>21</sup> For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe. <sup>22</sup> For the Jews require a sign, and the Greeks seek after wisdom: <sup>23</sup> But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness; <sup>24</sup> But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God. <sup>25</sup> Because the foolishness of God is wiser than men; and the weakness of God is stronger than men. <sup>26</sup> For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called: <sup>27</sup> But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
+        "1Cor1117-1Cor1122": "<h2>1 Corinthians 11:17-22</h2> <sup>17</sup> Now in this that I declare unto you I praise you not, that ye come together not for the better, but for the worse. <sup>18</sup> For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it. <sup>19</sup> For there must be also heresies among you, that they which are approved may be made manifest among you. <sup>20</sup> When ye come together therefore into one place, this is not to eat the Lord's supper. <sup>21</sup> For in eating every one taketh before other his own supper: and one is hungry, and another is drunken. <sup>22</sup> What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? what shall I say to you? shall I praise you in this? I praise you not.",
+        "1Cor65": "<h2>1 Corinthians 6:5</h2> <sup>5</sup> I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?",
+        "1Cor61-1Cor63": "<h2>1 Corinthians 6:1-3</h2> <sup>1</sup> Dare any of you, having a matter against another, go to law before the unjust, and not before the saints? <sup>2</sup> Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters? <sup>3</sup> Know ye not that we shall judge angels? how much more things that pertain to this life?",
+        "Rom129,Rom1313,1Cor33,2Cor1220,Gal520": "<h2>Romans 1:29</h2> <sup>29</sup> Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,\n\n<h2>Romans 13:13</h2> <sup>13</sup> Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.\n\n<h2>1 Corinthians 3:3</h2> <sup>3</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?\n\n<h2>2 Corinthians 12:20</h2> <sup>20</sup> For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:\n\n<h2>Galatians 5:20</h2> <sup>20</sup> Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+        "1Cor111": "<h2>1 Corinthians 1:11</h2> <sup>11</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.",
+        "1Cor110": "<h2>1 Corinthians 1:10</h2> <sup>10</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.",
+        "1Cor112-1Cor117": "<h2>1 Corinthians 1:12-17</h2> <sup>12</sup> Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ. <sup>13</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul? <sup>14</sup> I thank God that I baptized none of you, but Crispus and Gaius; <sup>15</sup> Lest any should say that I had baptized in mine own name. <sup>16</sup> And I baptized also the household of Stephanas: besides, I know not whether I baptized any other. <sup>17</sup> For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "1Cor112-1Cor127": "<h2>1 Corinthians 1:12-27</h2> <sup>12</sup> Now this I mean, that each one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ. <sup>13</sup> Is Christ divided? was Paul crucified for you? or were ye baptized into the name of Paul? <sup>14</sup> I thank God that I baptized none of you, save Crispus and Gaius; <sup>15</sup> lest any man should say that ye were baptized into my name. <sup>16</sup> And I baptized also the household of Stephanas: besides, I know not whether I baptized any other. <sup>17</sup> For Christ sent me not to baptize, but to preach the gospel: not in wisdom of words, lest the cross of Christ should be made void. <sup>18</sup> For the word of the cross is to them that perish foolishness; but unto us who are saved it is the power of God. <sup>19</sup> For it is written,\nI will destroy the wisdom of the wise,\nAnd the discernment of the discerning will I bring to nought. <sup>20</sup> Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of the world? <sup>21</sup> For seeing that in the wisdom of God the world through its wisdom knew not God, it was God’s good pleasure through the foolishness of the preaching to save them that believe. <sup>22</sup> Seeing that Jews ask for signs, and Greeks seek after wisdom: <sup>23</sup> but we preach Christ crucified, unto Jews a stumblingblock, and unto Gentiles foolishness; <sup>24</sup> but unto them that are called, both Jews and Greeks, Christ the power of God, and the wisdom of God. <sup>25</sup> Because the foolishness of God is wiser than men; and the weakness of God is stronger than men. <sup>26</sup> For behold your calling, brethren, that not many wise after the flesh, not many mighty, not many noble, are called: <sup>27</sup> but God chose the foolish things of the world, that he might put to shame them that are wise; and God chose the weak things of the world, that he might put to shame the things that are strong;",
+        "1Cor1117-1Cor1122": "<h2>1 Corinthians 11:17-22</h2> <sup>17</sup> But in giving you this charge, I praise you not, that ye come together not for the better but for the worse. <sup>18</sup> For first of all, when ye come together in the church, I hear that divisions exist among you; and I partly believe it. <sup>19</sup> For there must be also factions among you, that they that are approved may be made manifest among you. <sup>20</sup> When therefore ye assemble yourselves together, it is not possible to eat the Lord’s supper: <sup>21</sup> for in your eating each one taketh before other his own supper; and one is hungry, and another is drunken. <sup>22</sup> What, have ye not houses to eat and to drink in? or despise ye the church of God, and put them to shame that have not? What shall I say to you? shall I praise you? In this I praise you not.",
+        "1Cor65": "<h2>1 Corinthians 6:5</h2> <sup>5</sup> I say this to move you to shame. What, cannot there be found among you one wise man who shall be able to decide between his brethren,",
+        "1Cor61-1Cor63": "<h2>1 Corinthians 6:1-3</h2> <sup>1</sup> Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints? <sup>2</sup> Or know ye not that the saints shall judge the world? and if the world is judged by you, are ye unworthy to judge the smallest matters? <sup>3</sup> Know ye not that we shall judge angels? how much more, things that pertain to this life?",
+        "Rom129,Rom1313,1Cor33,2Cor1220,Gal520": "<h2>Romans 1:29</h2> <sup>29</sup> being filled with all unrighteousness, wickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, malignity; whisperers,\n\n<h2>Romans 13:13</h2> <sup>13</sup> Let us walk becomingly, as in the day; not in revelling and drunkenness, not in chambering and wantonness, not in strife and jealousy.\n\n<h2>1 Corinthians 3:3</h2> <sup>3</sup> for ye are yet carnal: for whereas there is among you jealousy and strife, are ye not carnal, and do ye not walk after the manner of men?\n\n<h2>2 Corinthians 12:20</h2> <sup>20</sup> For I fear, lest by any means, when I come, I should find you not such as I would, and should myself be found of you such as ye would not; lest by any means there should be strife, jealousy, wraths, factions, backbitings, whisperings, swellings, tumults;\n\n<h2>Galatians 5:20</h2> <sup>20</sup> idolatry, sorcery, enmities, strife, jealousies, wraths, factions, divisions, parties,",
+        "1Cor111": "<h2>1 Corinthians 1:11</h2> <sup>11</sup> For it hath been signified unto me concerning you, my brethren, by them that are of the household of Chloe, that there are contentions among you.",
+        "1Cor110": "<h2>1 Corinthians 1:10</h2> <sup>10</sup> Now I beseech you, brethren, through the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfected together in the same mind and in the same judgment.",
+        "1Cor112-1Cor117": "<h2>1 Corinthians 1:12-17</h2> <sup>12</sup> Now this I mean, that each one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ. <sup>13</sup> Is Christ divided? was Paul crucified for you? or were ye baptized into the name of Paul? <sup>14</sup> I thank God that I baptized none of you, save Crispus and Gaius; <sup>15</sup> lest any man should say that ye were baptized into my name. <sup>16</sup> And I baptized also the household of Stephanas: besides, I know not whether I baptized any other. <sup>17</sup> For Christ sent me not to baptize, but to preach the gospel: not in wisdom of words, lest the cross of Christ should be made void."
+      }
+    }
+  ],
+  "content": "<p>Paul’s appeal that “there be no divisions among you, but that you be united in the same mind and the same judgment” (<a class=\"verse\" verse=\"1Cor110\">1 Cor. 1:10, ESV</a>) dominates the first four chapters of 1 Corinthians. In fact, most scholars agree that unity is the all-encompassing theme that binds all the parts of the letter together.</p>\n<p><code>Read <a class=\"verse\" verse=\"1Cor112-1Cor117\">1 Corinthians 1:12–17</a>. How does this passage help us understand how absurd it is to form cliques around local leaders? What is Paul’s solution?</code></p>\n<p>Paul employs strong words to portray the lack of unity among the church members in Corinth. He uses the Greek terms <em>schisma</em> (“division,” <a class=\"verse\" verse=\"1Cor110\">1 Cor. 1:10, NKJV</a>) and <em>eris</em> (“contention,” <a class=\"verse\" verse=\"1Cor111\">1 Cor. 1:11, NKJV</a>). The noun <em>schisma</em> (as well as the verb <em>schizō</em>, “to split”) is used elsewhere in the New Testament to describe differences of opinion resulting in factions. In turn, the noun <em>eris</em> (“contention”) frequently appears in lists of vices that must not be practiced by Christians.</p>\n<p><code>Read <a class=\"verse\" verse=\"Rom129,Rom1313,1Cor33,2Cor1220,Gal520\">Romans 1:29, Romans 13:13, 1 Corinthians 3:3, 2 Corinthians 12:20, and Galatians 5:20</a>. What other sins are listed along with eris (“contention,” “strife”)? What does this tell us about how bad it is?</code></p>\n<p>The disagreements in the church of Corinth came to the surface—even in the form of lawsuits against one another (<a class=\"verse\" verse=\"1Cor61-1Cor63\">1 Cor. 6:1–3</a>). “I say this to your shame,” Paul told them (<a class=\"verse\" verse=\"1Cor65\">1 Cor. 6:5, NKJV</a>), concerning these lawsuits between church members. In fact, they didn’t lay aside their differences even when celebrating the Lord’s Supper (<a class=\"verse\" verse=\"1Cor1117-1Cor1122\">1 Cor. 11:17–22</a>).</p>\n<p>The problem of lack of unity among church members is so terrifying, and Paul is so worried about it, that this is the first issue he addresses in this letter to the Corinthians.</p>\n<p><code>Read again <a class=\"verse\" verse=\"1Cor112-1Cor127\">1 Corinthians 1:12–27</a>. Then reflect on how this passage helps us understand why cliques are so dangerous to the unity of the church. What can your local church do in order to avoid this problem?</code></p>\n<hr>\n<div style=\"display: none\" class=\"ss-donation-appeal\">\n<div class=\"ss-donation-appeal-title\">\n<p>Supplemental EGW Notes</p>\n<div class=\"ss-donation-appeal-icon\"></div>\n</div>\n<div class=\"ss-donation-appeal-text\">\n\n<p>The solemn, earnest prayer of Christ. . . reaches down along the line to our time. What a position is this for fallen man to attain through obedience—oneness with God through Jesus Christ! To what heights we are permitted to rise if we will have respect unto the recompense of the reward! We are to receive power from God that human nature, under the divine working, may not always be perverted and not always be under the depraving, corrupting influence of sin. Human nature, through Jesus Christ, becomes allied to angels—yes, even to the great God.<br>Those who are truly connected with God will not be at variance with one another. . . . His Spirit ruling in their hearts will create harmony, love, and unity. The opposite of this works in the children of Satan; there is with them a continual contradiction. Strife and envy and jealousy are the ruling elements. The characteristic of the Christian is the meekness of Christ. Benevolence, kindness, mercy, and love originate from Infinite Wisdom, while the opposite is the unholy fruit of a heart that is not in harmony with Jesus Christ. . . . In union there is strength. In division there is weakness and defeat.<br>The most convincing argument we can give to the world of Christ’s mission is to be found in perfect unity. . . . In proportion to our unity with Christ will be our power to save souls.<br>If we reach the standard of perfection, our peculiar traits of disposition must be molded in harmony with Christ’s will. Then we shall sit together in heavenly places in Christ. Brethren will work together, without a thought of collision. Little differences, dwelt upon, lead to actions that destroy Christian fellowship. . . . Let us keep drawing near to God, and He will draw near to us. Then, as one, we shall reach upward to Him. The churches will be as gardens of the Lord, under His cultivation. God’s people will be trees of righteousness, planted by the Lord, and watered with the river of life.—Our High Calling, p. 170.</p>\n<p>The golden chain of love, binding the hearts of the believers in unity, in bonds of fellowship and love, and in oneness with Christ and the Father, makes the connection perfect, and bears to the world a testimony of the power of Christianity that cannot be controverted. . . .<br>Satan understands the power of such a testimony as a witness to the world of what grace can do in transforming character. . . . He will work every conceivable device to break this golden chain which links heart to heart of those who believe the truth and binds them up in close connection with the Father and the Son.<br>Those who have never experienced the tender, winning love of Christ cannot lead others to the fountain of life. His love in the heart is a constraining power, which leads men to reveal Him in the conversation, in the tender, pitiful spirit, in the uplifting of the lives of those with whom they associate. . . .<br>In the heart renewed by divine grace, love is the ruling principle of action. It modifies the character, governs the impulses, controls the passions, and ennobles the affections. This love, cherished in the soul, sweetens the life, and sheds a refining influence on all around.<br>He who loves God supremely and his neighbor as himself will work with the constant realization that he is a spectacle to the world, to angels, and to men. Making God’s will his will, he will reveal in his life the transforming power of the grace of Christ. In all the circumstances of life, he will take Christ’s example as his guide.<br>Every true, self-sacrificing worker for God is willing to spend and be spent for the sake of others. . . . By earnest, thoughtful efforts to help where help is needed, the true Christian shows his love for God and for his fellow beings. He may lose his life in service. But when Christ comes to gather His jewels to Himself, he will find it again.—God’s Amazing Grace, p. 237.</p>\n<p><small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small></p>\n</div>\n</div>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "03",
+  "lesson_title": "Unity in Christ"
+}

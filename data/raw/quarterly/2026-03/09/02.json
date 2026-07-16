@@ -1,0 +1,290 @@
+{
+  "id": "02",
+  "date": "23/08/2026",
+  "index": "en-2026-03-09-02",
+  "title": "Thanksgiving",
+  "bible": [
+    {
+      "name": "NASB",
+      "verses": {
+        "1Thess518": "<h2>1 Thessalonians 5:18</h2> <sup>18</sup> in everything give thanks; for this is God's will for you in Christ Jesus.",
+        "2Cor111": "<h2>2 Corinthians 1:11</h2> <sup>11</sup> you also joining in helping us through your prayers, so that thanks may be given by many persons on our behalf for the favor bestowed on us through the prayers of many.",
+        "2Cor110": "<h2>2 Corinthians 1:10</h2> <sup>10</sup> who delivered us from so great a peril of death, and will deliver us, He on whom we have set our hope. And He will yet deliver us,",
+        "2Cor18": "<h2>2 Corinthians 1:8</h2> <sup>8</sup> For we do not want you to be unaware, brethren, of our affliction which came to us in Asia, that we were burdened excessively, beyond our strength, so that we despaired even of life;",
+        "2Cor18-2Cor111": "<h2>2 Corinthians 1:8-11</h2> <sup>8</sup> For we do not want you to be unaware, brethren, of our affliction which came to us in Asia, that we were burdened excessively, beyond our strength, so that we despaired even of life; <sup>9</sup> indeed, we had the sentence of death within ourselves so that we would not trust in ourselves, but in God who raises the dead; <sup>10</sup> who delivered us from so great a peril of death, and will deliver us, He on whom we have set our hope. And He will yet deliver us, <sup>11</sup> you also joining in helping us through your prayers, so that thanks may be given by many persons on our behalf for the favor bestowed on us through the prayers of many.",
+        "2Cor16": "<h2>2 Corinthians 1:6</h2> <sup>6</sup> But if we are afflicted, it is for your comfort and salvation; or if we are comforted, it is for your comfort, which is effective in the patient enduring of the same sufferings which we also suffer;",
+        "2Cor14-2Cor15": "<h2>2 Corinthians 1:4-5</h2> <sup>4</sup> who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which we ourselves are comforted by God. <sup>5</sup> For just as the sufferings of Christ are ours in abundance, so also our comfort is abundant through Christ.",
+        "2Cor13-2Cor14": "<h2>2 Corinthians 1:3-4</h2> <sup>3</sup> Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, <sup>4</sup> who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which we ourselves are comforted by God.",
+        "2Cor13-2Cor17": "<h2>2 Corinthians 1:3-7</h2> <sup>3</sup> Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, <sup>4</sup> who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which we ourselves are comforted by God. <sup>5</sup> For just as the sufferings of Christ are ours in abundance, so also our comfort is abundant through Christ. <sup>6</sup> But if we are afflicted, it is for your comfort and salvation; or if we are comforted, it is for your comfort, which is effective in the patient enduring of the same sufferings which we also suffer; <sup>7</sup> and our hope for you is firmly grounded, knowing that as you are sharers of our sufferings, so also you are sharers of our comfort."
+      }
+    },
+    {
+      "name": "NKJV",
+      "verses": {
+        "1Thess518": "<h2>I Thessalonians 5:18</h2> <sup>18</sup> in everything give thanks; for this is the will of God in Christ Jesus for you.",
+        "2Cor111": "<h2>II Corinthians 1:11</h2> <sup>11</sup> you also helping together in prayer for us, that thanks may be given by many persons on our behalf for the gift granted to us through many.",
+        "2Cor110": "<h2>II Corinthians 1:10</h2> <sup>10</sup> who delivered us from so great a death, and does deliver us; in whom we trust that He will still deliver us,",
+        "2Cor18": "<h2>II Corinthians 1:8</h2> <sup>8</sup> For we do not want you to be ignorant, brethren, of our trouble which came to us in Asia: that we were burdened beyond measure, above strength, so that we despaired even of life.",
+        "2Cor18-2Cor111": "<h2>II Corinthians 1:8-11</h2> <sup>8</sup> For we do not want you to be ignorant, brethren, of our trouble which came to us in Asia: that we were burdened beyond measure, above strength, so that we despaired even of life. <sup>9</sup> Yes, we had the sentence of death in ourselves, that we should not trust in ourselves but in God who raises the dead, <sup>10</sup> who delivered us from so great a death, and does deliver us; in whom we trust that He will still deliver us, <sup>11</sup> you also helping together in prayer for us, that thanks may be given by many persons on our behalf for the gift granted to us through many.",
+        "2Cor16": "<h2>II Corinthians 1:6</h2> <sup>6</sup> Now if we are afflicted, it  is for your consolation and salvation, which is effective for enduring the same sufferings which we also suffer. Or if we are comforted, it is for your consolation and salvation.",
+        "2Cor14-2Cor15": "<h2>II Corinthians 1:4-5</h2> <sup>4</sup> who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God. <sup>5</sup> For as the sufferings of Christ abound in us, so our consolation also abounds through Christ.",
+        "2Cor13-2Cor14": "<h2>II Corinthians 1:3-4</h2> <sup>3</sup> Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, <sup>4</sup> who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God.",
+        "2Cor13-2Cor17": "<h2>II Corinthians 1:3-7</h2> <sup>3</sup> Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, <sup>4</sup> who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God. <sup>5</sup> For as the sufferings of Christ abound in us, so our consolation also abounds through Christ. <sup>6</sup> Now if we are afflicted, it  is for your consolation and salvation, which is effective for enduring the same sufferings which we also suffer. Or if we are comforted, it is for your consolation and salvation. <sup>7</sup> And our hope for you is steadfast, because we know that as you are partakers of the sufferings, so also you  will  partake of the consolation."
+      }
+    },
+    {
+      "name": "KJV",
+      "verses": {
+        "1Thess518": "<h2>1 Thessalonians 5:18</h2> <sup>18</sup> In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+        "2Cor111": "<h2>2 Corinthians 1:11</h2> <sup>11</sup> Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.",
+        "2Cor110": "<h2>2 Corinthians 1:10</h2> <sup>10</sup> Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;",
+        "2Cor18": "<h2>2 Corinthians 1:8</h2> <sup>8</sup> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:",
+        "2Cor18-2Cor111": "<h2>2 Corinthians 1:8-11</h2> <sup>8</sup> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life: <sup>9</sup> But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead: <sup>10</sup> Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us; <sup>11</sup> Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.",
+        "2Cor16": "<h2>2 Corinthians 1:6</h2> <sup>6</sup> And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.",
+        "2Cor14-2Cor15": "<h2>2 Corinthians 1:4-5</h2> <sup>4</sup> Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God. <sup>5</sup> For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.",
+        "2Cor13-2Cor14": "<h2>2 Corinthians 1:3-4</h2> <sup>3</sup> Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; <sup>4</sup> Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.",
+        "2Cor13-2Cor17": "<h2>2 Corinthians 1:3-7</h2> <sup>3</sup> Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; <sup>4</sup> Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God. <sup>5</sup> For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ. <sup>6</sup> And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation. <sup>7</sup> And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation."
+      }
+    },
+    {
+      "name": "ASV",
+      "verses": {
+        "1Thess518": "<h2>1 Thessalonians 5:18</h2> <sup>18</sup> in everything give thanks: for this is the will of God in Christ Jesus to you-ward.",
+        "2Cor111": "<h2>2 Corinthians 1:11</h2> <sup>11</sup> ye also helping together on our behalf by your supplication; that, for the gift bestowed upon us by means of many, thanks may be given by many persons on our behalf.",
+        "2Cor110": "<h2>2 Corinthians 1:10</h2> <sup>10</sup> who delivered us out of so great a death, and will deliver: on whom we have set our hope that he will also still deliver us;",
+        "2Cor18": "<h2>2 Corinthians 1:8</h2> <sup>8</sup> For we would not have you ignorant, brethren, concerning our affliction which befell us in Asia, that we were weighed down exceedingly, beyond our power, insomuch that we despaired even of life:",
+        "2Cor18-2Cor111": "<h2>2 Corinthians 1:8-11</h2> <sup>8</sup> For we would not have you ignorant, brethren, concerning our affliction which befell us in Asia, that we were weighed down exceedingly, beyond our power, insomuch that we despaired even of life: <sup>9</sup> yea, we ourselves have had the sentence of death within ourselves, that we should not trust in ourselves, but in God who raiseth the dead: <sup>10</sup> who delivered us out of so great a death, and will deliver: on whom we have set our hope that he will also still deliver us; <sup>11</sup> ye also helping together on our behalf by your supplication; that, for the gift bestowed upon us by means of many, thanks may be given by many persons on our behalf.",
+        "2Cor16": "<h2>2 Corinthians 1:6</h2> <sup>6</sup> But whether we are afflicted, it is for your comfort and salvation; or whether we are comforted, it is for your comfort, which worketh in the patient enduring of the same sufferings which we also suffer:",
+        "2Cor14-2Cor15": "<h2>2 Corinthians 1:4-5</h2> <sup>4</sup> who comforteth us in all our affliction, that we may be able to comfort them that are in any affliction, through the comfort wherewith we ourselves are comforted of God. <sup>5</sup> For as the sufferings of Christ abound unto us, even so our comfort also aboundeth through Christ.",
+        "2Cor13-2Cor14": "<h2>2 Corinthians 1:3-4</h2> <sup>3</sup> Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort; <sup>4</sup> who comforteth us in all our affliction, that we may be able to comfort them that are in any affliction, through the comfort wherewith we ourselves are comforted of God.",
+        "2Cor13-2Cor17": "<h2>2 Corinthians 1:3-7</h2> <sup>3</sup> Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort; <sup>4</sup> who comforteth us in all our affliction, that we may be able to comfort them that are in any affliction, through the comfort wherewith we ourselves are comforted of God. <sup>5</sup> For as the sufferings of Christ abound unto us, even so our comfort also aboundeth through Christ. <sup>6</sup> But whether we are afflicted, it is for your comfort and salvation; or whether we are comforted, it is for your comfort, which worketh in the patient enduring of the same sufferings which we also suffer: <sup>7</sup> and our hope for you is stedfast; knowing that, as ye are partakers of the sufferings, so also are ye of the comfort."
+      }
+    }
+  ],
+  "content": "<p><code>Read <a class=\"verse\" verse=\"2Cor13-2Cor17\">2 Corinthians 1:3–7</a>. What is the reason for Paul’s attitude of thanksgiving here?</code></p>\n<p>Paul’s thankfulness focuses on the comfort that God provides for those who are suffering. In this passage, the verb <em>parakaleō</em> (to comfort) and the noun <em>paraklēsis</em> (comfort) occur together ten times. This represents one third of all occurrences of these words in 2 Corinthians (29 times). God is portrayed as the “Father of mercies and God of all comfort, who comforts us in all our tribulation” (<a class=\"verse\" verse=\"2Cor13-2Cor14\">2 Cor. 1:3, 4, NKJV</a>).</p>\n<p>The comfort one receives from God is not to be kept for oneself (<a class=\"verse\" verse=\"2Cor14-2Cor15\">2 Cor. 1:4, 5</a>). Only the afflicted heart that became the recipient of God’s consolation is able to impart comfort effectively to those in affliction, too.</p>\n<p>Paul could comfort others because he himself, in his sufferings, received comfort from God. “If we are afflicted, it is for <em>your</em> consolation and salvation. . . . Or if we are comforted, it is for <em>your</em> consolation and salvation” (<a class=\"verse\" verse=\"2Cor16\">2 Cor. 1:6, NKJV</a>; <em>emphasis supplied</em>). This is love!</p>\n<p><code>What is Paul expressing thanks for in <a class=\"verse\" verse=\"2Cor18-2Cor111\">2 Corinthians 1:8–11</a>?</code></p>\n<p>Paul speaks of trouble “beyond measure, above strength” that made him and his fellow workers fear that the end had come to them (<a class=\"verse\" verse=\"2Cor18\">2 Cor. 1:8</a>). For a moment, they thought the resurrection was their only hope. However, God delivered them, and the scenario changed (<a class=\"verse\" verse=\"2Cor110\">2 Cor. 1:10</a>). From the fear of death (<a class=\"verse\" verse=\"2Cor18\">2 Cor. 1:8</a>), they rise to an implicit hope that God would deliver them once again (<a class=\"verse\" verse=\"2Cor110\">2 Cor. 1:10</a>). God’s victories in the past give us confidence that He will do the same in the future. God uses afflictions to teach us to trust in Him. Hardships can lead us to spiritual maturity, at least to the extent that we allow them to draw us closer to God. Paul’s thanksgiving also displays the power of intercessory prayer and the gratitude we experience because of God’s deliverance (<a class=\"verse\" verse=\"2Cor111\">2 Cor. 1:11</a>).</p>\n<p><code>What have you found helpful in dealing with the suffering that, one way or another, we all face?</code></p>\n<hr>\n<div style=\"display: none\" class=\"ss-donation-appeal\">\n<div class=\"ss-donation-appeal-title\">\n<p>Supplemental EGW Notes</p>\n<div class=\"ss-donation-appeal-icon\"></div>\n</div>\n<div class=\"ss-donation-appeal-text\">\n\n<p>God desires His obedient children to claim His blessing and to come before Him with praise and thanksgiving. God is the Fountain of life and power. . . . He has done for His chosen people that which should inspire every heart with thanksgiving, and it grieves Him that so little praise is offered. He desires to have a stronger expression from His people, showing that they know they have reason for joy and gladness.<br>The dealings of God with His people should be often repeated. How frequently were the waymarks set up by the Lord in His dealings with ancient Israel! Lest they should forget the history of the past, He commanded Moses to frame these events into song, that parents might teach them to their children. . . . For His people in this generation the Lord has wrought as a wonder-working God. The past history of the cause of God needs to be often brought before the people, young and old. We need often to recount God’s goodness and to praise Him for His wonderful works. . . .<br>The church of God below is one with the church of God above. Believers on the earth and the beings in heaven who have never ­fall­­­­en­­ constitute one church. Every heavenly intelligence is interested in the assemblies of the saints who on earth meet to worship God. In the inner court of heaven they listen to the testimony of the witnesses for Christ in the outer court on earth, and the praise and thanksgiving from the worshipers below is taken up in the heavenly anthem, and praise and rejoicing sound through the heavenly courts because Christ has not died in vain for the fallen sons of Adam. While angels drink from the fountainhead, the saints on earth drink of the pure streams flowing from the throne, the streams that make glad the city of our God. Oh, that we could all realize the nearness of heaven to earth! . . . In every assembly of the saints below are angels of God, listening to the testimonies, songs, and prayers. Let us remember that our praises are supplemented by the choirs of the angelic host above.—God’s Amazing Grace, p. 75.</p>\n<p>Let praise and thanksgiving be expressed in song. When ­tempted, instead of giving utterance to our feelings, let us by faith lift up a song of thanksgiving to God. . . .<br>Song is a weapon that we can always use against discouragement. As we thus open the heart to the sunlight of the Saviour’s presence, we shall have health and His blessing.<br>“Give thanks unto the Lord, for He is good:<br>For His mercy endureth forever.<br>Let the redeemed of the Lord say so,<br>Whom He hath redeemed from the hand of the enemy.” . . .<br>“In everything give thanks: for this is the will of God in Christ Jesus concerning you.” <a class=\"verse\" verse=\"1Thess518\">1 Thessalonians 5:18</a>. This command is an assurance that even the things which appear to be against us will work for our good. God would not bid us be thankful for that which would do us harm.—The Ministry of Healing, pp. 254, 255.</p>\n<p><small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small></p>\n</div>\n</div>\n",
+  "year": 2026,
+  "quarter": {
+    "quarterly": {
+      "title": "First and Second Corinthians",
+      "description": "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.",
+      "human_date": "July · August · September 2026",
+      "start_date": "27/06/2026",
+      "end_date": "25/09/2026",
+      "color_primary": "#605045",
+      "color_primary_dark": "#4B3C32",
+      "splash": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/splash.png",
+      "credits": [
+        {
+          "name": "Principal Contributor",
+          "value": "Adenilton T. de Aguiar"
+        },
+        {
+          "name": "Editor",
+          "value": "Clifford R. Goldstein"
+        },
+        {
+          "name": "Associate Editor",
+          "value": "Soraya Scheidweiler"
+        },
+        {
+          "name": "Publication Manager",
+          "value": "Lea Alexander Greve"
+        },
+        {
+          "name": "Editorial Assistant",
+          "value": "Sharon Thomas-Crews"
+        }
+      ],
+      "lang": "en",
+      "id": "2026-03",
+      "index": "en-2026-03",
+      "path": "en/quarterlies/2026-03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03",
+      "introduction": "### Introduction\n\n#### The Essence of Christian Life and Witness\n\nWriting letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts.\n\nWhy do people write letters? A possible answer is that they have something to say. So it was with the apostle Paul. Although he had so much to say, he did not always have the chance to be face-to-face with those whom he wanted to talk.\n\nSo, he wrote letters instead—such as to the Corinthians, which contain some of Scripture’s most profound truths. Among them are: “I decided to know nothing among you except Jesus Christ and him crucified” (1 Cor. 2:2, ESV), and “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (2 Cor. 8:9, ESV). And what about the stunning hymn to love in 1 Corinthians 13?\n\nOn the other hand, whoever reads Paul’s letters to the Corinthians will inevitably get perplexed, not only because of some substantial problems within the church—such as sexual immorality—but also because of the nitpicking that results from cheap factionalism among the members. If you think your church has challenging issues, get ready to see the avalanche of quarrelings Paul had to deal with in Corinth. Perhaps your local church’s problems are not as significant as you imagine! Very likely, you will see that things in Corinth had been much worse.\n\nAs disturbing as the problems in Corinth had been, the letters to the Corinthians capture our attention, not because of the problems but because of the remarkable way Paul faces them. By exhorting the church members to evaluate themselves, their behavior, and the surrounding culture in the light of the gospel of Jesus Christ, he exalts the message of the Cross. To use the words of Paul himself elsewhere, any standard lower than the gospel message is to be seen as “anathema” (Gal. 1:8, 9, ASV).\n\nIn Paul’s time, Corinth was famous for its wealth and strong commerce, all thanks to its port, architecture, shipbuilding, and ceramics. The city was an important financial center. Nevertheless, it was also known for its sexual immorality, religious cacophony, and shrines dedicated to various gods. Indeed, daily life in Corinth was marked by flagrant idolatry. This historical-cultural background helps us understand Paul’s main concerns regarding the Christians in that city and, consequently, his exhortations to them.\n\nThis quarter, we will survey Paul’s letters to the Corinthians. In these two remarkable New Testament books, the apostle presents the gospel message as the essence of Christian life and witness, the lens through which everything else is to be judged. No matter the challenges each of us individually or the church in general faces in our journey to heaven—the answer to the most puzzling issues in our work for Christ is the same as for the Corinthians: “Jesus Christ and Him crucified” (1 Cor. 2:2, NKJV).\n\nJesus is coming soon. This is a time for more unity in Christ, for an openness to the Holy Spirit as never before, for diligent use of the spiritual gifts, and for a more profound experience with our resurrected Lord. It is time for a genuine Christian ministry, engagement in stewardship and mission, spiritual warfare against false teachings, and growth in grace, love, and fellowship. This is a time to hold fast and be faithful to the message of the Cross, and Paul’s letters to the Corinthians teach us to do just that.\n\nAdenilton Tavares de Aguiar, PhD, is a professor of Biblical interpretation at the Theological Seminary at the Adventist University Center of São Paulo in Brazil.",
+      "features": [
+        {
+          "name": "inside-story",
+          "title": "Inside Story",
+          "description": "Read inspiring mission stories from all over the world",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_inside_story.png"
+        },
+        {
+          "name": "teacher-comments",
+          "title": "Teacher Comments",
+          "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+        },
+        {
+          "name": "audio",
+          "title": "Audio",
+          "description": "Listen to the lesson on the go with the audio version",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_audio.png"
+        },
+        {
+          "name": "video",
+          "title": "Video",
+          "description": "Watch the weekly lesson discussion to deepen your study",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_video.png"
+        },
+        {
+          "name": "original-layout",
+          "title": "Original Layout",
+          "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+          "image": "https://sabbath-school.adventech.io/api/v1/images/features/feature_original_layout.png"
+        }
+      ],
+      "quarterly_group": {
+        "name": "Standard Adult",
+        "order": 100
+      },
+      "cover": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/cover.png"
+    },
+    "lessons": [
+      {
+        "title": "Paul’s Ministry in Corinth",
+        "start_date": "27/06/2026",
+        "end_date": "03/07/2026",
+        "id": "01",
+        "index": "en-2026-03-01",
+        "path": "en/quarterlies/2026-03/lessons/01",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/01",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/01/cover.png"
+      },
+      {
+        "title": "The Message of the Cross",
+        "start_date": "04/07/2026",
+        "end_date": "10/07/2026",
+        "id": "02",
+        "index": "en-2026-03-02",
+        "path": "en/quarterlies/2026-03/lessons/02",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/02",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/02/cover.png"
+      },
+      {
+        "title": "Unity in Christ",
+        "start_date": "11/07/2026",
+        "end_date": "17/07/2026",
+        "id": "03",
+        "index": "en-2026-03-03",
+        "path": "en/quarterlies/2026-03/lessons/03",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/03",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/03/cover.png"
+      },
+      {
+        "title": "Sin in the Church",
+        "start_date": "18/07/2026",
+        "end_date": "24/07/2026",
+        "id": "04",
+        "index": "en-2026-03-04",
+        "path": "en/quarterlies/2026-03/lessons/04",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+      },
+      {
+        "title": "All to the Glory of God",
+        "start_date": "25/07/2026",
+        "end_date": "31/07/2026",
+        "id": "05",
+        "index": "en-2026-03-05",
+        "path": "en/quarterlies/2026-03/lessons/05",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/05",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/05/cover.png"
+      },
+      {
+        "title": "Spiritual Gifts",
+        "start_date": "01/08/2026",
+        "end_date": "07/08/2026",
+        "id": "06",
+        "index": "en-2026-03-06",
+        "path": "en/quarterlies/2026-03/lessons/06",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/06",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/06/cover.png"
+      },
+      {
+        "title": "A Portrait of Love",
+        "start_date": "08/08/2026",
+        "end_date": "14/08/2026",
+        "id": "07",
+        "index": "en-2026-03-07",
+        "path": "en/quarterlies/2026-03/lessons/07",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/07",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/07/cover.png"
+      },
+      {
+        "title": "The Power of Christ’s Resurrection",
+        "start_date": "15/08/2026",
+        "end_date": "21/08/2026",
+        "id": "08",
+        "index": "en-2026-03-08",
+        "path": "en/quarterlies/2026-03/lessons/08",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/08",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/08/cover.png"
+      },
+      {
+        "title": "Love-driven Ministry",
+        "start_date": "22/08/2026",
+        "end_date": "28/08/2026",
+        "id": "09",
+        "index": "en-2026-03-09",
+        "path": "en/quarterlies/2026-03/lessons/09",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/09",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/09/cover.png"
+      },
+      {
+        "title": "Authentic Christian Ministry",
+        "start_date": "29/08/2026",
+        "end_date": "04/09/2026",
+        "id": "10",
+        "index": "en-2026-03-10",
+        "path": "en/quarterlies/2026-03/lessons/10",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/10/cover.png"
+      },
+      {
+        "title": "Stewardship and Mission",
+        "start_date": "05/09/2026",
+        "end_date": "11/09/2026",
+        "id": "11",
+        "index": "en-2026-03-11",
+        "path": "en/quarterlies/2026-03/lessons/11",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/11",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/11/cover.png"
+      },
+      {
+        "title": "Dealing With False Teachers",
+        "start_date": "12/09/2026",
+        "end_date": "18/09/2026",
+        "id": "12",
+        "index": "en-2026-03-12",
+        "path": "en/quarterlies/2026-03/lessons/12",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/12",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/12/cover.png"
+      },
+      {
+        "title": "Grace, Love, and Fellowship",
+        "start_date": "19/09/2026",
+        "end_date": "25/09/2026",
+        "id": "13",
+        "index": "en-2026-03-13",
+        "path": "en/quarterlies/2026-03/lessons/13",
+        "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/13",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/13/cover.png"
+      }
+    ]
+  },
+  "lesson": "09",
+  "lesson_title": "Love-driven Ministry"
+}

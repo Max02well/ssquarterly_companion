@@ -1,0 +1,141 @@
+{
+  "lesson": {
+    "title": "Sin in the Church",
+    "start_date": "18/07/2026",
+    "end_date": "24/07/2026",
+    "id": "04",
+    "index": "en-2026-03-04",
+    "path": "en/quarterlies/2026-03/lessons/04",
+    "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04",
+    "pdfOnly": false,
+    "cover": "https://sabbath-school.adventech.io/api/v2/images/global/2026-03/04/cover.png"
+  },
+  "days": [
+    {
+      "title": "Sin in the Church",
+      "date": "18/07/2026",
+      "id": "01",
+      "index": "en-2026-03-04-01",
+      "path": "en/quarterlies/2026-03/lessons/04/days/01",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/01",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/01/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/01/read"
+    },
+    {
+      "title": "Dissonance Between Faith and Practice",
+      "date": "19/07/2026",
+      "id": "02",
+      "index": "en-2026-03-04-02",
+      "path": "en/quarterlies/2026-03/lessons/04/days/02",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/02",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/02/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/02/read"
+    },
+    {
+      "title": "Dealing With Scandals",
+      "date": "20/07/2026",
+      "id": "03",
+      "index": "en-2026-03-04-03",
+      "path": "en/quarterlies/2026-03/lessons/04/days/03",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/03",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/03/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/03/read"
+    },
+    {
+      "title": "Protecting the Church’s Identity",
+      "date": "21/07/2026",
+      "id": "04",
+      "index": "en-2026-03-04-04",
+      "path": "en/quarterlies/2026-03/lessons/04/days/04",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/04",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/04/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/04/read"
+    },
+    {
+      "title": "Antidote Against Sexual Immorality",
+      "date": "22/07/2026",
+      "id": "05",
+      "index": "en-2026-03-04-05",
+      "path": "en/quarterlies/2026-03/lessons/04/days/05",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/05",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/05/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/05/read"
+    },
+    {
+      "title": "Marriage and Singleness",
+      "date": "23/07/2026",
+      "id": "06",
+      "index": "en-2026-03-04-06",
+      "path": "en/quarterlies/2026-03/lessons/04/days/06",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/06",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/06/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/06/read"
+    },
+    {
+      "title": "Further Thought",
+      "date": "24/07/2026",
+      "id": "07",
+      "index": "en-2026-03-04-07",
+      "path": "en/quarterlies/2026-03/lessons/04/days/07",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/07",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/07/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/07/read"
+    },
+    {
+      "title": "Hope Sabbath School Outline",
+      "date": "24/07/2026",
+      "id": "hope-ss",
+      "index": "en-2026-03-04-hope-ss",
+      "path": "en/quarterlies/2026-03/lessons/04/days/hope-ss",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/hope-ss",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/hope-ss/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/hope-ss/read"
+    },
+    {
+      "title": "Inside Story",
+      "date": "24/07/2026",
+      "id": "inside-story",
+      "index": "en-2026-03-04-inside-story",
+      "path": "en/quarterlies/2026-03/lessons/04/days/inside-story",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/inside-story",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/inside-story/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/inside-story/read"
+    },
+    {
+      "title": "Teacher Comments",
+      "date": "24/07/2026",
+      "id": "teacher-comments",
+      "index": "en-2026-03-04-teacher-comments",
+      "path": "en/quarterlies/2026-03/lessons/04/days/teacher-comments",
+      "full_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/teacher-comments",
+      "read_path": "en/quarterlies/2026-03/lessons/04/days/teacher-comments/read",
+      "full_read_path": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-03/lessons/04/days/teacher-comments/read"
+    }
+  ],
+  "pdfs": [
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/f5f9e015069ede7824803362c04b73d79f9515ad0358e324e91b8d81a8d78879/f5f9e015069ede7824803362c04b73d79f9515ad0358e324e91b8d81a8d78879.pdf",
+      "target": "en/2026-03/04",
+      "id": "f5f9e015069ede7824803362c04b73d79f9515ad0358e324e91b8d81a8d78879",
+      "title": "Sin in the Church",
+      "start_date": "18/07/2026",
+      "end_date": "24/07/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/c0b664bb9f4136c525366597368be67d72c596ef4bb86505a90db4a803588253/c0b664bb9f4136c525366597368be67d72c596ef4bb86505a90db4a803588253.pdf",
+      "target": "en/2026-03/04",
+      "title": "Hope Sabbath School Outline",
+      "id": "c0b664bb9f4136c525366597368be67d72c596ef4bb86505a90db4a803588253",
+      "start_date": "18/07/2026",
+      "end_date": "24/07/2026"
+    },
+    {
+      "src": "https://sabbath-school-pdf.adventech.io/pdf/en/2026-03/ee0620b9e89db91e0bc2690e614945b971f186e2c4f82f4de04781a9fcb50d49/ee0620b9e89db91e0bc2690e614945b971f186e2c4f82f4de04781a9fcb50d49.pdf",
+      "target": "en/2026-03/04",
+      "title": "Talking Points Outline",
+      "id": "ee0620b9e89db91e0bc2690e614945b971f186e2c4f82f4de04781a9fcb50d49",
+      "start_date": "18/07/2026",
+      "end_date": "24/07/2026"
+    }
+  ]
+}
