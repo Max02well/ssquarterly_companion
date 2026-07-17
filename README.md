@@ -316,4 +316,4 @@ This project is for study and educational workflow development. Verify doctrinal
 
 ## License
 
-No license file is currently present in this repository. Add a `LICENSE` file to define usage terms.
+MIT License.
