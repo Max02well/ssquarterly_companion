@@ -8,6 +8,7 @@ from src.ingestion.quarterly.chunker import chunk_documents
 
 from src.ingestion.quarterly.embedder import QuarterlyEmbedder
 
+from src.retrieval.bm25 import build_bm25
 
 ROOT = Path("data/raw/quarterly")
 
@@ -24,6 +25,7 @@ def is_daily_document(data):
 def ingest():
 
     embedder = QuarterlyEmbedder()
+    all_chunks = []
 
     for file in ROOT.rglob("*.json"):
 
@@ -37,6 +39,8 @@ def ingest():
 
         chunks = chunk_documents(docs)
         
+        all_chunks.extend(chunks)
+        
         # print(file)
         print(f"Ingesting {file.name}")
         print(f"Created {len(chunks)} chunks")
@@ -44,7 +48,10 @@ def ingest():
 
         embedder.add_documents(chunks)
 
-
+# Build BM25 after all documents are processed
+    build_bm25(all_chunks)
+    
+    
 if __name__ == "__main__":
 
     ingest()

@@ -8,10 +8,8 @@ class QuarterlyEmbedder:
     def __init__(self):
 
         self.model = SentenceTransformer(
-
             # "all-MiniLM-L6-v2"
             "BAAI/bge-small-en-v1.5"
-
         )
 
         client = chromadb.PersistentClient(

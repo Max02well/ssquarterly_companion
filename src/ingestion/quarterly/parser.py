@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
 from src.ingestion.quarterly.extractor import extract_bible_documents
 
@@ -8,7 +8,6 @@ from src.ingestion.quarterly.clean_html import (
 )
 from src.ingestion.quarterly.extractor import extract_bible_documents
 from pathlib import Path
-
 
 
 

@@ -42,7 +42,7 @@ class BibleEmbedder:
             show_progress_bar=True
         ).tolist()
 
-        self.collection.add(
+        self.collection.upsert(
 
             ids=ids,
 

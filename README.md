@@ -62,7 +62,7 @@ flowchart TD
 	 I --> J[MP3 Output]
 ```
 
-## Repository Structure
+## Folder Structure
 
 ```text
 quarterlycompanion/
