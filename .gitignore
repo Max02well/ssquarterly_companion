@@ -37,8 +37,11 @@ build/
 dist/
 *.egg-info/
 
-# ChromaDB (if you don't want to commit the database)
-# chroma_db/
+# Chroma database
+data/chromadb/
+
+# BM25 index
+data/indexes/
 
 # Hugging Face cache
 .cache/
