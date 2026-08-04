@@ -30,21 +30,34 @@ This system takes Sabbath School lesson text, dynamically pulls corresponding Sc
 
 ## Current Implementation Status
 
-This repository is currently in an early build phase.
+The repository now has a working ingestion and retrieval prototype, plus CLI-based Q&A generation.
 
 Implemented now:
-- Quarterly JSON ingestion pipeline (load -> parse -> embed) under `src/ingestion/quarterly`.
-- Bible ingestion parser/chunker/embedder scaffold under `src/ingestion/bible`.
-- ChromaDB persistence in `data/chromadb`.
-- Initial OpenAI TTS integration in `src/services/tts.py`.
-- Initial podcast prompt builder in `src/services/script_generator.py`.
-- A draft audio route in `src/api/routes/audio.py`.
+- Quarterly ingestion pipeline (`src/ingestion/quarterly/ingest.py`) that loads daily lesson JSON, parses/chunks content, writes embeddings to ChromaDB, and builds BM25 index artifacts.
+- Bible ingestion pipeline (`src/ingestion/bible/ingest_script.py`) that parses translation JSON files, chunks verse groups, and embeds into ChromaDB.
+- Hybrid retrieval stack (`src/retrieval`) with:
+	- vector search over Chroma (`vector_search.py`),
+	- BM25 lexical retrieval (`bm25.py`),
+	- reciprocal rank fusion (`hybrid_search.py`),
+	- cross-encoder reranking (`reranker.py`),
+	- orchestration retriever (`retriever.py`),
+	- retrieval CLI (`search-cli.py`).
+- LLM orchestration (`src/llm`) with:
+	- prompt construction and source selection (`prompt.py`),
+	- local LLM client via Ollama-compatible OpenAI API (`client.py`),
+	- assistant workflow that retrieves context and generates answers (`assistant.py`),
+	- interactive CLI (`cli.py`).
+- Service-layer helpers:
+	- podcast prompt builder (`src/services/script_generator.py`),
+	- OpenAI TTS audio generation helper (`src/services/tts.py`).
+- Containerization setup (`Dockerfile`, `docker-compose.yml`) including a paired Ollama service.
 
 Partially implemented or scaffold only:
-- Retrieval layer (`src/retrieval`) files are present but mostly empty.
-- LLM orchestration layer (`src/llm`) files are present but mostly empty.
-- API composition (`src/api/api.py`, several route files) is not wired.
-- EGW parsing/embedding pipeline is not complete.
+- FastAPI app composition is incomplete (`src/api/api.py` is currently empty).
+- API routes for chat/lesson/search exist as placeholders (`src/api/routes/chat.py`, `lesson.py`, `search.py`).
+- `src/api/routes/audio.py` defines endpoint shape but references unresolved functions (`get_daily_context`, `generate_script`, `generate_podcast_audio` import wiring is pending).
+- EGW ingestion pipeline is still partial (parsing/scraping files exist, but full embed/search integration is incomplete).
+- Some service modules are placeholders (`src/services/podcast.py`, `src/services/lesson_service.py`).
 
 ## High-Level Architecture
 
@@ -66,10 +79,15 @@ flowchart TD
 
 ```text
 quarterlycompanion/
+|-- .dockerignore
+|-- .env
 |-- main.py
 |-- pyproject.toml
 |-- requirements.txt
+|-- uv.lock
 |-- README.md
+|-- Dockerfile
+|-- docker-compose.yml
 |-- data/
 |   |-- chromadb/
 |   |   |-- chroma.sqlite3
@@ -102,6 +120,9 @@ quarterlycompanion/
 `-- src/
 	 |-- __init__.py
 	 |-- config.py
+	 |-- data/
+	 |   `-- chromadb/
+	 |       `-- chroma.sqlite3
 	 |-- api/
 	 |   |-- __init__.py
 	 |   |-- api.py
@@ -111,7 +132,9 @@ quarterlycompanion/
 	 |       |-- lesson.py
 	 |       `-- search.py
 	 |-- ingestion/
+	 |   |-- __init__.py
 	 |   |-- bible/
+	 |   |   |-- __init__.py
 	 |   |   |-- chunker.py
 	 |   |   |-- embedder.py
 	 |   |   |-- ingest_script.py
@@ -132,14 +155,18 @@ quarterlycompanion/
 	 |       |-- loader.py
 	 |       `-- parser.py
 	 |-- llm/
+	 |   |-- __init__.py
 	 |   |-- assistant.py
+	 |   |-- cli.py
 	 |   |-- client.py
 	 |   `-- prompt.py
 	 |-- retrieval/
+	 |   |-- __init__.py
 	 |   |-- bm25.py
 	 |   |-- hybrid_search.py
 	 |   |-- reranker.py
 	 |   |-- retriever.py
+	 |   |-- search-cli.py
 	 |   `-- vector_search.py
 	 |-- services/
 	 |   |-- lesson_service.py
