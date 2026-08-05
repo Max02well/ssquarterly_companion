@@ -2,7 +2,7 @@
 from datetime import datetime
 
 from sqlalchemy import Boolean, DateTime, String
-from sqlalchemy.orm import Mapped, mapped_column
+from sqlalchemy.orm import Mapped, mapped_column,relationship
 
 from src.api.database.base import Base
 
@@ -55,4 +55,28 @@ class User(Base):
         default=datetime.utcnow,
         onupdate=datetime.utcnow,
         nullable=False,
+    )
+    
+    refresh_tokens = relationship(
+        "RefreshToken",
+        back_populates="user",
+        cascade="all, delete-orphan",
+    )
+
+    saved_lessons = relationship(
+        "SavedLesson",
+        back_populates="user",
+        cascade="all, delete-orphan",
+    )
+
+    conversations = relationship(
+        "ChatConversation",
+        back_populates="user",
+        cascade="all, delete-orphan",
+    )
+
+    generated_audio = relationship(
+        "GeneratedAudio",
+        back_populates="user",
+        cascade="all, delete-orphan",
     )

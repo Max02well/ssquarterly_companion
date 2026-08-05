@@ -16,7 +16,7 @@ with engine.connect() as conn:
     result = conn.execute(text("SELECT 1"))
     print("Database connected successfully!")
     
-Base.metadata.create_all(bind=engine)  # Create tables if they don't exist
+# Base.metadata.create_all(bind=engine)  # Create tables if they don't exist
 
 app = FastAPI(
     title="Quarterly Companion API - Authored by Maxwell Gogo",
