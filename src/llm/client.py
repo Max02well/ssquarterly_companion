@@ -32,7 +32,7 @@ class LLMClient:
 
         self.model = os.getenv(
             "OLLAMA_MODEL",
-            "tinyllama:latest"
+            "qwen2.5:0.5b"
         )
 
     def generate(
