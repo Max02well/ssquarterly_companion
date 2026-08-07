@@ -41,11 +41,6 @@ class LessonDay(Base):
         nullable=True,
     )
 
-    scripture_references: Mapped[str | None] = mapped_column(
-        Text,
-        nullable=True,
-    )
-
     created_at: Mapped[datetime] = mapped_column(
         DateTime,
         default=datetime.utcnow,
@@ -62,6 +57,12 @@ class LessonDay(Base):
     lesson = relationship(
         "Lesson",
         back_populates="days",
+    )
+    
+    scripture_references = relationship(
+        "ScriptureReference",
+        back_populates="lesson_day",
+        cascade="all, delete-orphan",
     )
 
     saved_by_users = relationship(

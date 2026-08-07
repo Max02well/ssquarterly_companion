@@ -43,6 +43,11 @@ class User(Base):
         default=True,
         nullable=False,
     )
+    
+    deleted_at: Mapped[datetime | None] = mapped_column(
+        DateTime,
+        nullable=True,
+    )
 
     created_at: Mapped[datetime] = mapped_column(
         DateTime,

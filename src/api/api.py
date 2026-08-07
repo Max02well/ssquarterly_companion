@@ -3,10 +3,11 @@ from src.api.database.base import Base
 from src.api.database.database import engine
 from sqlalchemy import text
 from src.api.routes import (
-    # auth,
+    auth,
     users,
-    # lessons,
-    # chat,
+    lesson,
+    saved_lesson,
+    chat,
     # search,
     # audio,
     health,
@@ -40,25 +41,30 @@ app.include_router(
     tags=["Users"],
 )
 
-    # app.include_router(
-    #     auth.router,
-    #     prefix="/api/v1/auth",
-    #     tags=["Authentication"],
-    # )
+app.include_router(
+        auth.router,
+        prefix="/api/v1/auth",
+        tags=["Authentication"],
+)
 
- 
+app.include_router(
+    saved_lesson.router,
+    prefix="/api/v1/saved-lessons",
+    tags=["Saved Lessons"],
+)
 
-# app.include_router(
-#     lessons.router,
-#     prefix="/api/v1/lessons",
-#     tags=["Lessons"],
-# )
 
-# app.include_router(
-#     chat.router,
-#     prefix="/api/v1/chat",
-#     tags=["Chat"],
-# )
+app.include_router(
+    lesson.router,
+    prefix="/api/v1/lessons",
+    tags=["Lessons"],
+)
+
+app.include_router(
+    chat.router,
+    prefix="/api/v1/chat",
+    tags=["Chat"],
+)
 
 # app.include_router(
 #     search.router,

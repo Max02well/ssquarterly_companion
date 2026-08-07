@@ -50,7 +50,7 @@ class Lesson(Base):
     )
 
     quarter = relationship(
-        "Quarter",
+        "Quarterly",
         back_populates="lessons",
     )
 
@@ -58,4 +58,6 @@ class Lesson(Base):
         "LessonDay",
         back_populates="lesson",
         cascade="all, delete-orphan",
+        order_by="LessonDay.day_number",
+        lazy="selectin",
     )

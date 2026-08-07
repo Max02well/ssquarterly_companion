@@ -19,6 +19,7 @@ class ScriptureReference(Base):
 
     id: Mapped[int] = mapped_column(
         primary_key=True,
+        index = True,
     )
 
     lesson_day_id: Mapped[int] = mapped_column(
@@ -55,4 +56,9 @@ class ScriptureReference(Base):
     reference_text: Mapped[str | None] = mapped_column(
         Text,
         nullable=True,
+    )
+    
+    lesson_day = relationship(
+        "LessonDay",
+        back_populates="scripture_references",
     )

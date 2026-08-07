@@ -31,6 +31,8 @@ dependencies = [
     "transformers>=5.14.1",
     "uvicorn>=0.51.0",
     "passlib[bcrypt]>=1.7.4",
+    "python-jose[cryptography]>=3.5.0",
+    "pwdlib[argon2]>=0.3.0",
 ]
 
 [dependency-groups]
